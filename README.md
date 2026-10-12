@@ -37,7 +37,6 @@ The main objectives of this project are:
 
 ## Project Structure
 
-```text
 project/
 │
 ├── data/
@@ -111,6 +110,7 @@ PIPELINE COMPLETED
 pip install pandas numpy matplotlib apscheduler
 python main.py
 
+```
 
 
 
