@@ -1,0 +1,22 @@
+project_9/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── reports/
+│
+├── logs/
+│
+├── src/
+│
+└── main.py
+src/
+├── loader.py       → Load input data
+├── validator.py    → Validate data
+├── cleaner.py      → Clean data
+├── analyzer.py     → Calculate KPIs & analysis
+├── reporter.py     → Generate reports
+└── logger.py       → Record pipeline events
+
+

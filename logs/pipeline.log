@@ -1,0 +1,1189 @@
+2026-10-09 16:09:19,406 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 16:09:19,455 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 16:09:19,465 | INFO | src.validation | Quantity check passed
+2026-10-09 16:09:19,467 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 16:09:19,470 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 16:09:19,476 | WARNING | src.validation | Rating check failed: 1004 invalid rows
+2026-10-09 16:09:19,479 | WARNING | src.validation | Returned check failed: 1004 invalid rows
+2026-10-09 18:48:35,950 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 18:48:35,998 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 18:48:36,010 | INFO | src.validation | Quantity check passed
+2026-10-09 18:48:36,012 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 18:48:36,015 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 18:48:36,021 | WARNING | src.validation | Rating check failed: 1004 invalid rows
+2026-10-09 18:48:36,024 | WARNING | src.validation | Returned check failed: 1004 invalid rows
+2026-10-09 18:51:07,343 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 18:51:07,387 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 18:51:07,400 | INFO | src.validation | Quantity check passed
+2026-10-09 18:51:07,404 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 18:51:07,408 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 18:51:07,414 | WARNING | src.validation | Rating check failed: 1004 invalid rows
+2026-10-09 18:51:07,419 | WARNING | src.validation | Returned check failed: 1004 invalid rows
+2026-10-09 19:03:31,389 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 19:03:31,440 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 19:03:31,460 | INFO | src.validation | Order_Date check passed
+2026-10-09 19:03:31,467 | INFO | src.validation | Quantity check passed
+2026-10-09 19:03:31,471 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 19:03:31,475 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 19:03:31,478 | INFO | src.validation | Rating check passed
+2026-10-09 19:05:28,791 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 19:05:28,846 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 19:05:28,865 | INFO | src.validation | Order_Date check passed
+2026-10-09 19:05:28,870 | INFO | src.validation | Quantity check passed
+2026-10-09 19:05:28,874 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 19:05:28,879 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 19:05:28,883 | INFO | src.validation | Rating check passed
+2026-10-09 19:05:28,889 | INFO | src.validation | Returnd check passed
+2026-10-09 19:59:56,554 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 19:59:56,607 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 20:09:52,060 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 20:09:52,113 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 20:09:52,131 | INFO | src.validation | Order_Date check passed
+2026-10-09 20:09:52,137 | INFO | src.validation | Quantity check passed
+2026-10-09 20:09:52,141 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 20:09:52,146 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 20:09:52,151 | INFO | src.validation | Rating check passed
+2026-10-09 20:09:52,158 | INFO | src.validation | Returnd check passed
+2026-10-09 21:49:40,468 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 21:49:40,518 | INFO | src.validation | Starting validation
+2026-10-09 21:49:40,523 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-09 21:49:40,529 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 21:49:40,550 | INFO | src.validation | Order_Date check passed
+2026-10-09 21:49:40,560 | INFO | src.validation | Quantity check passed
+2026-10-09 21:49:40,567 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 21:49:40,574 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 21:49:40,582 | INFO | src.validation | Rating check passed
+2026-10-09 21:49:40,597 | INFO | src.validation | Returnd check passed
+2026-10-09 21:51:30,177 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 21:51:30,211 | INFO | src.validation | Starting validation
+2026-10-09 21:51:30,213 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-09 21:51:30,217 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 21:51:30,234 | INFO | src.validation | Order_Date check passed
+2026-10-09 21:51:30,240 | INFO | src.validation | Quantity check passed
+2026-10-09 21:51:30,243 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 21:51:30,248 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 21:51:30,251 | INFO | src.validation | Rating check passed
+2026-10-09 21:51:30,255 | INFO | src.validation | Returnd check passed
+2026-10-09 21:56:01,711 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 21:56:01,751 | INFO | src.validation | Starting validation
+2026-10-09 21:56:01,756 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-09 21:56:01,762 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 21:56:01,781 | INFO | src.validation | Order_Date check passed
+2026-10-09 21:56:01,787 | INFO | src.validation | Quantity check passed
+2026-10-09 21:56:01,790 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 21:56:01,793 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 21:56:01,796 | INFO | src.validation | Rating check passed
+2026-10-09 21:56:01,801 | INFO | src.validation | Returnd check passed
+2026-10-09 21:57:36,830 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 21:57:36,892 | INFO | src.validation | Starting validation
+2026-10-09 21:57:36,897 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-09 21:57:36,904 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 21:57:36,926 | INFO | src.validation | Order_Date check passed
+2026-10-09 21:57:36,933 | INFO | src.validation | Quantity check passed
+2026-10-09 21:57:36,938 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 21:57:36,943 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 21:57:36,948 | INFO | src.validation | Rating check passed
+2026-10-09 21:57:36,955 | INFO | src.validation | Returnd check passed
+2026-10-09 21:57:36,956 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-09 21:59:53,551 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-09 21:59:53,603 | INFO | src.validation | Starting validation
+2026-10-09 21:59:53,608 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-09 21:59:53,615 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-09 21:59:53,638 | INFO | src.validation | Order_Date check passed
+2026-10-09 21:59:53,646 | INFO | src.validation | Quantity check passed
+2026-10-09 21:59:53,649 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-09 21:59:53,654 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-09 21:59:53,659 | INFO | src.validation | Rating check passed
+2026-10-09 21:59:53,666 | INFO | src.validation | Returnd check passed
+2026-10-09 21:59:53,667 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 12:54:00,936 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 12:54:00,979 | INFO | src.validation | Starting validation
+2026-10-10 12:54:00,984 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 12:54:00,991 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 12:54:01,013 | INFO | src.validation | Order_Date check passed
+2026-10-10 12:54:01,023 | INFO | src.validation | Quantity check passed
+2026-10-10 12:54:01,028 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 12:54:01,033 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 12:54:01,040 | INFO | src.validation | Rating check passed
+2026-10-10 12:54:01,046 | INFO | src.validation | Returnd check passed
+2026-10-10 12:54:01,047 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 12:54:01,048 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 12:54:01,079 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 12:54:01,089 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 12:54:01,094 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 12:54:01,099 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 12:54:01,099 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 12:55:40,611 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 12:55:40,666 | INFO | src.validation | Starting validation
+2026-10-10 12:55:40,670 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 12:55:40,677 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 12:55:40,697 | INFO | src.validation | Order_Date check passed
+2026-10-10 12:55:40,706 | INFO | src.validation | Quantity check passed
+2026-10-10 12:55:40,709 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 12:55:40,713 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 12:55:40,718 | INFO | src.validation | Rating check passed
+2026-10-10 12:55:40,725 | INFO | src.validation | Returnd check passed
+2026-10-10 12:55:40,726 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 12:55:40,727 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 12:55:40,765 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 12:55:40,777 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 12:55:40,782 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 12:55:40,785 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 12:55:40,786 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 12:55:40,787 | INFO | src.validation | Starting validation
+2026-10-10 12:55:40,787 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 12:55:40,789 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 12:55:40,797 | INFO | src.validation | Order_Date check passed
+2026-10-10 12:55:40,802 | INFO | src.validation | Quantity check passed
+2026-10-10 12:55:40,805 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 12:55:40,810 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 12:55:40,815 | INFO | src.validation | Rating check passed
+2026-10-10 12:55:40,819 | INFO | src.validation | Returnd check passed
+2026-10-10 12:55:40,819 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 12:56:57,613 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 12:56:57,661 | INFO | src.validation | Starting validation
+2026-10-10 12:56:57,666 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 12:56:57,674 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 12:56:57,695 | INFO | src.validation | Order_Date check passed
+2026-10-10 12:56:57,704 | INFO | src.validation | Quantity check passed
+2026-10-10 12:56:57,708 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 12:56:57,712 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 12:56:57,717 | INFO | src.validation | Rating check passed
+2026-10-10 12:56:57,724 | INFO | src.validation | Returnd check passed
+2026-10-10 12:56:57,725 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 12:56:57,726 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 12:56:57,763 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 12:56:57,774 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 12:56:57,778 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 12:56:57,782 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 12:56:57,783 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 12:56:57,783 | INFO | src.validation | Starting validation
+2026-10-10 12:56:57,784 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-10 12:56:57,785 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 12:56:57,787 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-10 12:56:57,796 | INFO | src.validation | Order_Date check passed
+2026-10-10 12:56:57,802 | INFO | src.validation | Quantity check passed
+2026-10-10 12:56:57,809 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 12:56:57,815 | INFO | src.validation | Discount check passed
+2026-10-10 12:56:57,819 | INFO | src.validation | Rating check passed
+2026-10-10 12:56:57,824 | INFO | src.validation | Returnd check passed
+2026-10-10 12:56:57,825 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-10 15:38:28,555 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 15:38:28,606 | INFO | src.validation | Starting validation
+2026-10-10 15:38:28,611 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 15:38:28,616 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 15:38:28,636 | INFO | src.validation | Order_Date check passed
+2026-10-10 15:38:28,644 | INFO | src.validation | Quantity check passed
+2026-10-10 15:38:28,647 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 15:38:28,652 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 15:38:28,657 | INFO | src.validation | Rating check passed
+2026-10-10 15:38:28,668 | INFO | src.validation | Returnd check passed
+2026-10-10 15:38:28,668 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 15:38:28,669 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 15:38:28,702 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 15:38:28,716 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 15:38:28,723 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 15:38:28,731 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 15:38:28,732 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 15:41:36,613 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 15:41:36,651 | INFO | src.validation | Starting validation
+2026-10-10 15:41:36,653 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 15:41:36,656 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 15:41:36,670 | INFO | src.validation | Order_Date check passed
+2026-10-10 15:41:36,675 | INFO | src.validation | Quantity check passed
+2026-10-10 15:41:36,679 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 15:41:36,683 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 15:41:36,688 | INFO | src.validation | Rating check passed
+2026-10-10 15:41:36,693 | INFO | src.validation | Returnd check passed
+2026-10-10 15:41:36,694 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 15:41:36,695 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 15:41:36,722 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 15:41:36,733 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 15:41:36,738 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 15:41:36,743 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 15:41:36,744 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 15:55:23,985 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 15:55:24,027 | INFO | src.validation | Starting validation
+2026-10-10 15:55:24,031 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 15:55:24,037 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 15:55:24,057 | INFO | src.validation | Order_Date check passed
+2026-10-10 15:55:24,066 | INFO | src.validation | Quantity check passed
+2026-10-10 15:55:24,068 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 15:55:24,072 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 15:55:24,077 | INFO | src.validation | Rating check passed
+2026-10-10 15:55:24,082 | INFO | src.validation | Returnd check passed
+2026-10-10 15:55:24,083 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 15:55:24,083 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 15:55:24,110 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 15:55:24,122 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 15:55:24,127 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 15:55:24,134 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 15:55:24,140 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 15:55:24,148 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 15:55:24,148 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 20:27:48,774 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 20:27:48,814 | INFO | src.validation | Starting validation
+2026-10-10 20:27:48,818 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 20:27:48,823 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 20:27:48,842 | INFO | src.validation | Order_Date check passed
+2026-10-10 20:27:48,850 | INFO | src.validation | Quantity check passed
+2026-10-10 20:27:48,854 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 20:27:48,856 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 20:27:48,859 | INFO | src.validation | Rating check passed
+2026-10-10 20:27:48,867 | INFO | src.validation | Returnd check passed
+2026-10-10 20:27:48,868 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 20:27:48,869 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 20:27:48,905 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 20:27:48,919 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 20:27:48,927 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 20:27:48,935 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 20:27:48,943 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 20:27:48,949 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 20:27:48,950 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 20:27:48,951 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 20:27:48,959 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 20:27:48,960 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 20:27:48,961 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 20:27:48,962 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 20:27:48,962 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 20:27:48,963 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 21:26:17,255 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 21:26:17,297 | INFO | src.validation | Starting validation
+2026-10-10 21:26:17,301 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 21:26:17,306 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 21:26:17,326 | INFO | src.validation | Order_Date check passed
+2026-10-10 21:26:17,336 | INFO | src.validation | Quantity check passed
+2026-10-10 21:26:17,340 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 21:26:17,346 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 21:26:17,351 | INFO | src.validation | Rating check passed
+2026-10-10 21:26:17,357 | INFO | src.validation | Returnd check passed
+2026-10-10 21:26:17,357 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 21:26:17,358 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 21:26:17,390 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 21:26:17,407 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 21:26:17,416 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 21:26:17,423 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 21:26:17,431 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 21:26:17,438 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 21:26:17,439 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 21:26:17,440 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 21:26:17,447 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 21:26:17,448 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 21:26:17,448 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 21:26:17,449 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 21:26:17,449 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 21:26:17,449 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 21:26:17,450 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:06:03,829 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:06:03,866 | INFO | src.validation | Starting validation
+2026-10-10 23:06:03,870 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:06:03,874 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:06:03,893 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:06:03,901 | INFO | src.validation | Quantity check passed
+2026-10-10 23:06:03,904 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:06:03,908 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:06:03,912 | INFO | src.validation | Rating check passed
+2026-10-10 23:06:03,917 | INFO | src.validation | Returnd check passed
+2026-10-10 23:06:03,918 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:06:03,918 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:06:03,942 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:06:03,950 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:06:03,953 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:06:03,958 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:06:03,964 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:06:03,968 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:06:03,969 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:06:03,969 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:06:03,973 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:06:03,973 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:06:03,974 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:06:03,975 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:06:03,975 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:06:03,975 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:06:03,975 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:06:03,990 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:28:43,921 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:28:43,973 | INFO | src.validation | Starting validation
+2026-10-10 23:28:43,978 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:28:43,984 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:28:44,006 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:28:44,015 | INFO | src.validation | Quantity check passed
+2026-10-10 23:28:44,019 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:28:44,024 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:28:44,029 | INFO | src.validation | Rating check passed
+2026-10-10 23:28:44,035 | INFO | src.validation | Returnd check passed
+2026-10-10 23:28:44,035 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:28:44,036 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:28:44,080 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:28:44,096 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:28:44,103 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:28:44,114 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:28:44,124 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:28:44,134 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:28:44,135 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:28:44,137 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:28:44,148 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:28:44,149 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:28:44,150 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:28:44,151 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:28:44,152 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:28:44,153 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:28:44,153 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:28:44,184 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:44:44,871 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:44:44,916 | INFO | src.validation | Starting validation
+2026-10-10 23:44:44,920 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:44:44,927 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:44:44,946 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:44:44,955 | INFO | src.validation | Quantity check passed
+2026-10-10 23:44:44,959 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:44:44,963 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:44:44,966 | INFO | src.validation | Rating check passed
+2026-10-10 23:44:44,971 | INFO | src.validation | Returnd check passed
+2026-10-10 23:44:44,972 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:44:44,973 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:44:45,007 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:44:45,018 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:44:45,022 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:44:45,028 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:44:45,034 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:44:45,039 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:44:45,039 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:44:45,040 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:44:45,046 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:44:45,047 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:44:45,049 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:44:45,049 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:44:45,050 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:44:45,050 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:44:45,051 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:44:45,073 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:44:45,074 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:46:26,981 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:46:27,031 | INFO | src.validation | Starting validation
+2026-10-10 23:46:27,035 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:46:27,042 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:46:27,064 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:46:27,072 | INFO | src.validation | Quantity check passed
+2026-10-10 23:46:27,075 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:46:27,078 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:46:27,083 | INFO | src.validation | Rating check passed
+2026-10-10 23:46:27,088 | INFO | src.validation | Returnd check passed
+2026-10-10 23:46:27,089 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:46:27,090 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:46:27,116 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:46:27,125 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:46:27,129 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:46:27,136 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:46:27,141 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:46:27,145 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:46:27,146 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:46:27,147 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:46:27,153 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:46:27,154 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:46:27,154 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:46:27,155 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:46:27,156 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:46:27,156 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:46:27,157 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:46:27,177 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:46:27,178 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:48:00,813 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:48:00,861 | INFO | src.validation | Starting validation
+2026-10-10 23:48:00,866 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:48:00,872 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:48:00,893 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:48:00,904 | INFO | src.validation | Quantity check passed
+2026-10-10 23:48:00,907 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:48:00,911 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:48:00,915 | INFO | src.validation | Rating check passed
+2026-10-10 23:48:00,921 | INFO | src.validation | Returnd check passed
+2026-10-10 23:48:00,922 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:48:00,923 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:48:00,961 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:48:00,975 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:48:00,979 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:48:00,984 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:48:00,991 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:48:00,995 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:48:00,996 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:48:00,996 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:48:01,001 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:48:01,001 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:48:01,002 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:48:01,002 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:48:01,003 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:48:01,004 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:48:01,004 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:48:01,019 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:48:01,021 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:51:12,424 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-10 23:51:12,455 | INFO | src.validation | Starting validation
+2026-10-10 23:51:12,456 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-10 23:51:12,459 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-10 23:51:12,475 | INFO | src.validation | Order_Date check passed
+2026-10-10 23:51:12,481 | INFO | src.validation | Quantity check passed
+2026-10-10 23:51:12,483 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-10 23:51:12,487 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-10 23:51:12,492 | INFO | src.validation | Rating check passed
+2026-10-10 23:51:12,495 | INFO | src.validation | Returnd check passed
+2026-10-10 23:51:12,496 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-10 23:51:12,496 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-10 23:51:12,513 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-10 23:51:12,520 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-10 23:51:12,524 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-10 23:51:12,530 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-10 23:51:12,535 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-10 23:51:12,539 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-10 23:51:12,540 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-10 23:51:12,540 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-10 23:51:12,546 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-10 23:51:12,547 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-10 23:51:12,547 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-10 23:51:12,547 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-10 23:51:12,548 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-10 23:51:12,548 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-10 23:51:12,548 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-10 23:51:12,558 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-10 23:51:12,559 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 00:07:18,971 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 00:07:19,031 | INFO | src.validation | Starting validation
+2026-10-11 00:07:19,038 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 00:07:19,044 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 00:07:19,072 | INFO | src.validation | Order_Date check passed
+2026-10-11 00:07:19,084 | INFO | src.validation | Quantity check passed
+2026-10-11 00:07:19,089 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 00:07:19,095 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 00:07:19,102 | INFO | src.validation | Rating check passed
+2026-10-11 00:07:19,113 | INFO | src.validation | Returnd check passed
+2026-10-11 00:07:19,114 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 00:07:19,115 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 00:07:19,158 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 00:07:19,171 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 00:07:19,179 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 00:07:19,193 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 00:07:19,203 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 00:07:19,212 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 00:07:19,212 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 00:07:19,214 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 00:07:19,225 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 00:07:19,226 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 00:07:19,227 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 00:07:19,228 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 00:07:19,229 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 00:07:19,230 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 00:07:19,231 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 00:07:19,263 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 00:07:19,265 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 00:07:19,278 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 13:39:45,622 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 13:39:45,676 | INFO | src.validation | Starting validation
+2026-10-11 13:39:45,682 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 13:39:45,689 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 13:39:45,710 | INFO | src.validation | Order_Date check passed
+2026-10-11 13:39:45,719 | INFO | src.validation | Quantity check passed
+2026-10-11 13:39:45,723 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 13:39:45,728 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 13:39:45,732 | INFO | src.validation | Rating check passed
+2026-10-11 13:39:45,737 | INFO | src.validation | Returnd check passed
+2026-10-11 13:39:45,738 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 13:39:45,739 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 13:39:45,767 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 13:39:45,776 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 13:39:45,779 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 13:39:45,784 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 13:39:45,788 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 13:39:45,794 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 13:39:45,794 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 13:39:45,795 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 13:39:45,799 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 13:39:45,800 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 13:39:45,800 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 13:39:45,800 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 13:39:45,801 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 13:39:45,801 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 13:39:45,802 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 13:39:45,820 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 13:39:45,821 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 13:39:45,831 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 13:39:45,840 | INFO | src.analyzer | Calculating Sales By Country
+2026-10-11 13:39:45,851 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-11 13:40:46,171 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 13:40:46,224 | INFO | src.validation | Starting validation
+2026-10-11 13:40:46,228 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 13:40:46,235 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 13:40:46,255 | INFO | src.validation | Order_Date check passed
+2026-10-11 13:40:46,260 | INFO | src.validation | Quantity check passed
+2026-10-11 13:40:46,264 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 13:40:46,267 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 13:40:46,270 | INFO | src.validation | Rating check passed
+2026-10-11 13:40:46,276 | INFO | src.validation | Returnd check passed
+2026-10-11 13:40:46,277 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 13:40:46,278 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 13:40:46,320 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 13:40:46,329 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 13:40:46,334 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 13:40:46,340 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 13:40:46,347 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 13:40:46,356 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 13:40:46,356 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 13:40:46,357 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 13:40:46,362 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 13:40:46,363 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 13:40:46,363 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 13:40:46,363 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 13:40:46,363 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 13:40:46,364 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 13:40:46,364 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 13:40:46,392 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 13:40:46,393 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 13:40:46,403 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 13:40:46,411 | INFO | src.analyzer | Calculating Sales By Country
+2026-10-11 13:40:46,420 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-11 15:57:45,585 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 15:57:45,628 | INFO | src.validation | Starting validation
+2026-10-11 15:57:45,632 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 15:57:45,637 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 15:57:45,657 | INFO | src.validation | Order_Date check passed
+2026-10-11 15:57:45,665 | INFO | src.validation | Quantity check passed
+2026-10-11 15:57:45,668 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 15:57:45,671 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 15:57:45,675 | INFO | src.validation | Rating check passed
+2026-10-11 15:57:45,680 | INFO | src.validation | Returnd check passed
+2026-10-11 15:57:45,681 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 15:57:45,682 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 15:57:45,710 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 15:57:45,720 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 15:57:45,723 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 15:57:45,727 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 15:57:45,733 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 15:57:45,737 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 15:57:45,738 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 15:57:45,738 | INFO | src.analyzer | Generating analysis outputs
+2026-10-11 15:57:45,739 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 15:57:45,743 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 15:57:45,743 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 15:57:45,744 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 15:57:45,744 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 15:57:45,744 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 15:57:45,745 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 15:57:45,767 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-11 15:57:45,768 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 15:57:45,781 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 15:57:45,791 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-11 15:57:45,792 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 15:57:45,810 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-11 15:57:45,811 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 15:57:45,825 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-11 15:57:45,826 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-11 15:57:45,860 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-11 15:57:45,861 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-11 22:41:23,836 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 22:41:23,884 | INFO | src.validation | Starting validation
+2026-10-11 22:41:23,889 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 22:41:23,896 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 22:41:23,915 | INFO | src.validation | Order_Date check passed
+2026-10-11 22:41:23,922 | INFO | src.validation | Quantity check passed
+2026-10-11 22:41:23,925 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 22:41:23,929 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 22:41:23,934 | INFO | src.validation | Rating check passed
+2026-10-11 22:41:23,938 | INFO | src.validation | Returnd check passed
+2026-10-11 22:41:23,939 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 22:41:23,940 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 22:41:23,966 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 22:41:23,975 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 22:41:23,979 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 22:41:23,985 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 22:41:23,990 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 22:41:23,993 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 22:41:23,994 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 22:41:23,995 | INFO | src.analyzer | Generating analysis outputs
+2026-10-11 22:41:23,995 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 22:41:24,001 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 22:41:24,002 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 22:41:24,003 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 22:41:24,003 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 22:41:24,003 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 22:41:24,004 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 22:41:24,025 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-11 22:41:24,025 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 22:41:24,040 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 22:41:24,050 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-11 22:41:24,051 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 22:41:24,068 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-11 22:41:24,070 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 22:41:24,085 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-11 22:41:24,086 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-11 22:41:24,115 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-11 22:41:24,116 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-11 22:41:24,117 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-11 22:41:24,125 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-11 22:41:24,135 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-11 22:41:24,142 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-11 22:41:24,152 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-11 22:41:24,160 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-11 22:50:29,581 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-11 22:50:29,632 | INFO | src.validation | Starting validation
+2026-10-11 22:50:29,636 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 22:50:29,643 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-11 22:50:29,667 | INFO | src.validation | Order_Date check passed
+2026-10-11 22:50:29,676 | INFO | src.validation | Quantity check passed
+2026-10-11 22:50:29,679 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 22:50:29,684 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-11 22:50:29,689 | INFO | src.validation | Rating check passed
+2026-10-11 22:50:29,695 | INFO | src.validation | Returnd check passed
+2026-10-11 22:50:29,696 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-11 22:50:29,697 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-11 22:50:29,728 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-11 22:50:29,742 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-11 22:50:29,747 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-11 22:50:29,754 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-11 22:50:29,763 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-11 22:50:29,770 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-11 22:50:29,772 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-11 22:50:29,773 | INFO | src.validation | Starting validation
+2026-10-11 22:50:29,775 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-11 22:50:29,777 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-11 22:50:29,779 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-11 22:50:29,791 | INFO | src.validation | Order_Date check passed
+2026-10-11 22:50:29,797 | INFO | src.validation | Quantity check passed
+2026-10-11 22:50:29,800 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-11 22:50:29,807 | INFO | src.validation | Discount check passed
+2026-10-11 22:50:29,813 | INFO | src.validation | Rating check passed
+2026-10-11 22:50:29,816 | INFO | src.validation | Returnd check passed
+2026-10-11 22:50:29,817 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-11 22:50:29,818 | INFO | src.analyzer | Generating analysis outputs
+2026-10-11 22:50:29,818 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-11 22:50:29,826 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-11 22:50:29,827 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-11 22:50:29,827 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-11 22:50:29,828 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-11 22:50:29,829 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-11 22:50:29,830 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-11 22:50:29,863 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-11 22:50:29,864 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-11 22:50:29,885 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-11 22:50:29,895 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-11 22:50:29,897 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-11 22:50:29,924 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-11 22:50:29,926 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-11 22:50:29,959 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-11 22:50:29,960 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-11 22:50:29,998 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-11 22:50:29,999 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-11 22:50:30,000 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-11 22:50:30,012 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-11 22:50:30,019 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-11 22:50:30,028 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-11 22:50:30,039 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-11 22:50:30,053 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 11:05:24,004 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 11:05:24,049 | INFO | src.validation | Starting validation
+2026-10-12 11:05:24,054 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:05:24,059 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 11:05:24,080 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:05:24,088 | INFO | src.validation | Quantity check passed
+2026-10-12 11:05:24,092 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:05:24,097 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 11:05:24,104 | INFO | src.validation | Rating check passed
+2026-10-12 11:05:24,115 | INFO | src.validation | Returnd check passed
+2026-10-12 11:05:24,116 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 11:05:24,117 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 11:05:24,151 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 11:05:24,166 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 11:05:24,172 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 11:05:24,181 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 11:05:24,191 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 11:05:24,198 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 11:05:24,199 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 11:05:24,200 | INFO | src.validation | Starting validation
+2026-10-12 11:05:24,201 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 11:05:24,203 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:05:24,207 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 11:05:24,221 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:05:24,229 | INFO | src.validation | Quantity check passed
+2026-10-12 11:05:24,234 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:05:24,242 | INFO | src.validation | Discount check passed
+2026-10-12 11:05:24,249 | INFO | src.validation | Rating check passed
+2026-10-12 11:05:24,255 | INFO | src.validation | Returnd check passed
+2026-10-12 11:05:24,256 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 11:05:24,257 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 11:05:24,258 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 11:05:24,265 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 11:05:24,266 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 11:05:24,267 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 11:05:24,269 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 11:05:24,270 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 11:05:24,271 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 11:05:24,301 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 11:05:24,302 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 11:05:24,321 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 11:05:24,331 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 11:05:24,333 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 11:05:24,350 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 11:05:24,351 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 11:05:24,369 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 11:05:24,370 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 11:05:24,398 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 11:05:24,398 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 11:05:24,399 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 11:05:24,407 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 11:05:24,414 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 11:05:24,422 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 11:05:24,429 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 11:05:24,437 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 11:11:07,662 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 11:11:07,664 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 11:11:07,706 | INFO | __main__ | STEP 2: First validation
+2026-10-12 11:11:07,707 | INFO | src.validation | Starting validation
+2026-10-12 11:11:07,711 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:11:07,717 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 11:11:07,734 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:11:07,742 | INFO | src.validation | Quantity check passed
+2026-10-12 11:11:07,744 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:11:07,747 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 11:11:07,750 | INFO | src.validation | Rating check passed
+2026-10-12 11:11:07,756 | INFO | src.validation | Returnd check passed
+2026-10-12 11:11:07,757 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 11:11:07,758 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 11:11:07,759 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 11:11:07,789 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 11:11:07,800 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 11:11:07,806 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 11:11:07,814 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 11:11:07,823 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 11:11:07,831 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 11:11:07,833 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 11:11:07,835 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 11:11:07,836 | INFO | src.validation | Starting validation
+2026-10-12 11:11:07,837 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 11:11:07,838 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:11:07,840 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 11:11:07,853 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:11:07,860 | INFO | src.validation | Quantity check passed
+2026-10-12 11:11:07,866 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:11:07,872 | INFO | src.validation | Discount check passed
+2026-10-12 11:11:07,879 | INFO | src.validation | Rating check passed
+2026-10-12 11:11:07,886 | INFO | src.validation | Returnd check passed
+2026-10-12 11:11:07,887 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 11:11:07,888 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 11:11:07,889 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 11:11:07,889 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 11:11:07,895 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 11:11:07,896 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 11:11:07,897 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 11:11:07,897 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 11:11:07,898 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 11:11:07,898 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 11:11:07,933 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 11:11:07,934 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 11:11:07,951 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 11:11:07,962 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 11:11:07,963 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 11:11:07,985 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 11:11:07,986 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 11:11:08,008 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 11:11:08,009 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 11:11:08,045 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 11:11:08,046 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 11:11:08,047 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 11:11:08,048 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 11:11:08,059 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 11:11:08,068 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 11:11:08,083 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 11:11:08,096 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 11:11:08,109 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 11:11:08,109 | INFO | __main__ | PIPELINE COMPLETED
+2026-10-12 11:13:45,566 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 11:13:45,567 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 11:13:45,607 | INFO | __main__ | STEP 2: First validation
+2026-10-12 11:13:45,607 | INFO | src.validation | Starting validation
+2026-10-12 11:13:45,611 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:13:45,615 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 11:13:45,631 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:13:45,636 | INFO | src.validation | Quantity check passed
+2026-10-12 11:13:45,639 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:13:45,643 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 11:13:45,647 | INFO | src.validation | Rating check passed
+2026-10-12 11:13:45,651 | INFO | src.validation | Returnd check passed
+2026-10-12 11:13:45,652 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 11:13:45,653 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 11:13:45,653 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 11:13:45,683 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 11:13:45,693 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 11:13:45,697 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 11:13:45,702 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 11:13:45,709 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 11:13:45,713 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 11:13:45,714 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 11:13:45,715 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 11:13:45,715 | INFO | src.validation | Starting validation
+2026-10-12 11:13:45,716 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 11:13:45,717 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 11:13:45,720 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 11:13:45,731 | INFO | src.validation | Order_Date check passed
+2026-10-12 11:13:45,737 | INFO | src.validation | Quantity check passed
+2026-10-12 11:13:45,742 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 11:13:45,746 | INFO | src.validation | Discount check passed
+2026-10-12 11:13:45,751 | INFO | src.validation | Rating check passed
+2026-10-12 11:13:45,755 | INFO | src.validation | Returnd check passed
+2026-10-12 11:13:45,756 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 11:13:45,756 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 11:13:45,757 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 11:13:45,758 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 11:13:45,764 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 11:13:45,764 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 11:13:45,765 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 11:13:45,765 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 11:13:45,766 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 11:13:45,766 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 11:13:45,799 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 11:13:45,800 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 11:13:45,815 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 11:13:45,824 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 11:13:45,825 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 11:13:45,844 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 11:13:45,846 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 11:13:45,866 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 11:13:45,867 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 11:13:45,909 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 11:13:45,910 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 11:13:45,911 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 11:13:45,912 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 11:13:45,922 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 11:13:45,931 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 11:13:45,941 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 11:13:45,951 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 11:13:45,963 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 11:13:45,963 | INFO | __main__ | PIPELINE COMPLETED
+2026-10-12 12:08:01,034 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 12:08:01,036 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 12:08:01,080 | INFO | __main__ | STEP 2: First validation
+2026-10-12 12:08:01,081 | INFO | src.validation | Starting validation
+2026-10-12 12:08:01,085 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:08:01,092 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 12:08:01,112 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:08:01,120 | INFO | src.validation | Quantity check passed
+2026-10-12 12:08:01,123 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:08:01,128 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 12:08:01,131 | INFO | src.validation | Rating check passed
+2026-10-12 12:08:01,136 | INFO | src.validation | Returnd check passed
+2026-10-12 12:08:01,137 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 12:08:01,138 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 12:08:01,138 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 12:08:01,165 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 12:08:01,173 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 12:08:01,177 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 12:08:01,182 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 12:08:01,186 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 12:08:01,191 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 12:08:01,191 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 12:08:01,192 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 12:08:01,193 | INFO | src.validation | Starting validation
+2026-10-12 12:08:01,194 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 12:08:01,195 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:08:01,197 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 12:08:01,204 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:08:01,210 | INFO | src.validation | Quantity check passed
+2026-10-12 12:08:01,214 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:08:01,217 | INFO | src.validation | Discount check passed
+2026-10-12 12:08:01,220 | INFO | src.validation | Rating check passed
+2026-10-12 12:08:01,223 | INFO | src.validation | Returnd check passed
+2026-10-12 12:08:01,223 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 12:08:01,224 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 12:08:01,224 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 12:08:01,225 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 12:08:01,230 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 12:08:01,231 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 12:08:01,231 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 12:08:01,232 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 12:08:01,232 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 12:08:01,232 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 12:08:01,257 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 12:08:01,258 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 12:08:01,270 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 12:08:01,280 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 12:08:01,281 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 12:08:01,297 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 12:08:01,298 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 12:08:01,314 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 12:08:01,314 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:08:01,340 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 12:08:01,341 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 12:08:01,341 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 12:08:01,342 | INFO | src.reporter | Generating charts
+2026-10-12 12:08:01,343 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:11:41,592 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 12:11:41,593 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 12:11:41,620 | INFO | __main__ | STEP 2: First validation
+2026-10-12 12:11:41,620 | INFO | src.validation | Starting validation
+2026-10-12 12:11:41,621 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:11:41,623 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 12:11:41,638 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:11:41,641 | INFO | src.validation | Quantity check passed
+2026-10-12 12:11:41,644 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:11:41,647 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 12:11:41,649 | INFO | src.validation | Rating check passed
+2026-10-12 12:11:41,652 | INFO | src.validation | Returnd check passed
+2026-10-12 12:11:41,653 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 12:11:41,653 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 12:11:41,653 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 12:11:41,669 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 12:11:41,679 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 12:11:41,684 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 12:11:41,690 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 12:11:41,696 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 12:11:41,701 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 12:11:41,702 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 12:11:41,703 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 12:11:41,703 | INFO | src.validation | Starting validation
+2026-10-12 12:11:41,704 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 12:11:41,705 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:11:41,707 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 12:11:41,716 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:11:41,720 | INFO | src.validation | Quantity check passed
+2026-10-12 12:11:41,723 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:11:41,729 | INFO | src.validation | Discount check passed
+2026-10-12 12:11:41,733 | INFO | src.validation | Rating check passed
+2026-10-12 12:11:41,736 | INFO | src.validation | Returnd check passed
+2026-10-12 12:11:41,737 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 12:11:41,737 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 12:11:41,737 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 12:11:41,737 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 12:11:41,742 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 12:11:41,743 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 12:11:41,744 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 12:11:41,744 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 12:11:41,745 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 12:11:41,746 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 12:11:41,762 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 12:11:41,763 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 12:11:41,774 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 12:11:41,783 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 12:11:41,784 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 12:11:41,800 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 12:11:41,801 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 12:11:41,816 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 12:11:41,816 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:11:41,840 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 12:11:41,841 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 12:11:41,841 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 12:11:41,842 | INFO | src.reporter | Generating charts
+2026-10-12 12:11:41,843 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:15:21,157 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 12:15:21,157 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 12:15:21,184 | INFO | __main__ | STEP 2: First validation
+2026-10-12 12:15:21,185 | INFO | src.validation | Starting validation
+2026-10-12 12:15:21,185 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:15:21,188 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 12:15:21,202 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:15:21,207 | INFO | src.validation | Quantity check passed
+2026-10-12 12:15:21,209 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:15:21,212 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 12:15:21,215 | INFO | src.validation | Rating check passed
+2026-10-12 12:15:21,218 | INFO | src.validation | Returnd check passed
+2026-10-12 12:15:21,218 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 12:15:21,219 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 12:15:21,219 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 12:15:21,236 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 12:15:21,245 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 12:15:21,248 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 12:15:21,253 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 12:15:21,260 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 12:15:21,264 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 12:15:21,264 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 12:15:21,265 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 12:15:21,265 | INFO | src.validation | Starting validation
+2026-10-12 12:15:21,266 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 12:15:21,266 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 12:15:21,268 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 12:15:21,278 | INFO | src.validation | Order_Date check passed
+2026-10-12 12:15:21,285 | INFO | src.validation | Quantity check passed
+2026-10-12 12:15:21,289 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 12:15:21,296 | INFO | src.validation | Discount check passed
+2026-10-12 12:15:21,300 | INFO | src.validation | Rating check passed
+2026-10-12 12:15:21,303 | INFO | src.validation | Returnd check passed
+2026-10-12 12:15:21,304 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 12:15:21,304 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 12:15:21,305 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 12:15:21,305 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 12:15:21,313 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 12:15:21,313 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 12:15:21,314 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 12:15:21,314 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 12:15:21,315 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 12:15:21,315 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 12:15:21,340 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 12:15:21,341 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 12:15:21,356 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 12:15:21,366 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 12:15:21,367 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 12:15:21,389 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 12:15:21,390 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 12:15:21,409 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 12:15:21,410 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:15:21,445 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 12:15:21,445 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 12:15:21,446 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 12:15:21,447 | INFO | src.reporter | Generating charts
+2026-10-12 12:15:21,448 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 12:15:22,409 | INFO | src.reporter | Saved chart reports/sales_by_month.png
+2026-10-12 12:15:22,410 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 12:15:22,420 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 12:15:23,081 | INFO | src.reporter | Saved chart reports/sales_by_product.png
+2026-10-12 12:15:23,082 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 12:15:23,563 | INFO | src.reporter | Saved chart reports/sales_by_channel.png
+2026-10-12 12:15:23,564 | INFO | __main__ | STEP 7: Generate Charts
+2026-10-12 12:15:23,565 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 12:15:23,572 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 12:15:23,581 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 12:15:23,588 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 12:15:23,597 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 12:15:23,603 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 12:15:23,604 | INFO | __main__ | PIPELINE COMPLETED
+2026-10-12 18:50:12,273 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 18:50:12,275 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 18:50:12,320 | INFO | __main__ | STEP 2: First validation
+2026-10-12 18:50:12,320 | INFO | src.validation | Starting validation
+2026-10-12 18:50:12,324 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 18:50:12,332 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 18:50:12,353 | INFO | src.validation | Order_Date check passed
+2026-10-12 18:50:12,362 | INFO | src.validation | Quantity check passed
+2026-10-12 18:50:12,366 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 18:50:12,369 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 18:50:12,373 | INFO | src.validation | Rating check passed
+2026-10-12 18:50:12,379 | INFO | src.validation | Returnd check passed
+2026-10-12 18:50:12,380 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 18:50:12,381 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 18:50:12,381 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 18:50:12,414 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 18:50:12,423 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 18:50:12,427 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 18:50:12,434 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 18:50:12,439 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 18:50:12,443 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 18:50:12,444 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 18:50:12,444 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 18:50:12,445 | INFO | src.validation | Starting validation
+2026-10-12 18:50:12,446 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 18:50:12,447 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 18:50:12,449 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 18:50:12,456 | INFO | src.validation | Order_Date check passed
+2026-10-12 18:50:12,461 | INFO | src.validation | Quantity check passed
+2026-10-12 18:50:12,465 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 18:50:12,469 | INFO | src.validation | Discount check passed
+2026-10-12 18:50:12,472 | INFO | src.validation | Rating check passed
+2026-10-12 18:50:12,474 | INFO | src.validation | Returnd check passed
+2026-10-12 18:50:12,475 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 18:50:12,475 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 18:50:12,476 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 18:50:12,476 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 18:50:12,481 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 18:50:12,482 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 18:50:12,482 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 18:50:12,482 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 18:50:12,483 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 18:50:12,483 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 18:50:12,507 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 18:50:12,508 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 18:50:12,522 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 18:50:12,531 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 18:50:12,532 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 18:50:12,546 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 18:50:12,548 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 18:50:12,564 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 18:50:12,565 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 18:50:12,594 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 18:50:12,595 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 18:50:12,596 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 18:50:12,597 | INFO | src.reporter | Generating charts
+2026-10-12 18:50:12,597 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 18:50:13,557 | INFO | src.reporter | Saved chart reports/sales_by_month.png
+2026-10-12 18:50:13,558 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 18:50:13,570 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 18:50:14,211 | INFO | src.reporter | Saved chart reports/sales_by_product.png
+2026-10-12 18:50:14,212 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 18:50:14,672 | INFO | src.reporter | Saved chart reports/sales_by_channel.png
+2026-10-12 18:50:14,673 | INFO | __main__ | STEP 7: Generate Charts
+2026-10-12 18:50:14,673 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 18:50:14,681 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 18:50:14,688 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 18:50:14,701 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 18:50:14,709 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 18:50:14,717 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 18:50:14,718 | INFO | __main__ | PIPELINE COMPLETED
+2026-10-12 18:50:14,932 | INFO | __main__ | Scheduler started in background
+2026-10-12 18:50:34,772 | INFO | __main__ | Scheduler stopped
+2026-10-12 18:53:31,242 | INFO | __main__ | STEP 1: Loading data
+2026-10-12 18:53:31,245 | INFO | src.load | Loading data from data/raw/ecommerce_orders_raw.csv
+2026-10-12 18:53:31,315 | INFO | __main__ | STEP 2: First validation
+2026-10-12 18:53:31,316 | INFO | src.validation | Starting validation
+2026-10-12 18:53:31,322 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 18:53:31,332 | WARNING | src.validation | Duplicate Order_ID: 8 rows affected
+2026-10-12 18:53:31,361 | INFO | src.validation | Order_Date check passed
+2026-10-12 18:53:31,374 | INFO | src.validation | Quantity check passed
+2026-10-12 18:53:31,380 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 18:53:31,385 | WARNING | src.validation | Discount check failed: 4 invalid rows
+2026-10-12 18:53:31,396 | INFO | src.validation | Rating check passed
+2026-10-12 18:53:31,405 | INFO | src.validation | Returnd check passed
+2026-10-12 18:53:31,406 | WARNING | src.validation | Validation finished with issues: {'Order_ID': 8, 'Unit_Price': 2, 'Discount': 4}
+2026-10-12 18:53:31,407 | INFO | __main__ | STEP 3: Cleaning
+2026-10-12 18:53:31,409 | INFO | src.cleaner | Starting cleaning: 1004 rows
+2026-10-12 18:53:31,465 | INFO | src.cleaner | Removed 4 duplicate rows
+2026-10-12 18:53:31,479 | INFO | src.cleaner | Filled 5 missing Country values with 'Unknown'
+2026-10-12 18:53:31,484 | INFO | src.cleaner | Filled 4 missing Discount values with 0
+2026-10-12 18:53:31,497 | INFO | src.cleaner | Standardized 1 values in Category
+2026-10-12 18:53:31,507 | INFO | src.cleaner | Standardized 1 values in Channel
+2026-10-12 18:53:31,519 | WARNING | src.cleaner | Flagged 2 rows with negative Unit_Price for investigation
+2026-10-12 18:53:31,520 | INFO | src.cleaner | Cleaning finished: 1000 rows
+2026-10-12 18:53:31,523 | INFO | __main__ | STEP 4: Second validation
+2026-10-12 18:53:31,524 | INFO | src.validation | Starting validation
+2026-10-12 18:53:31,525 | WARNING | src.validation | Unexpected columns found: ['Price_Flag']
+2026-10-12 18:53:31,526 | INFO | src.validation | Column check passed: all 14 columns present
+2026-10-12 18:53:31,530 | INFO | src.validation | Order_ID check passed: no duplicates
+2026-10-12 18:53:31,544 | INFO | src.validation | Order_Date check passed
+2026-10-12 18:53:31,556 | INFO | src.validation | Quantity check passed
+2026-10-12 18:53:31,563 | WARNING | src.validation | Unit_Price check failed: 2 invalid rows
+2026-10-12 18:53:31,575 | INFO | src.validation | Discount check passed
+2026-10-12 18:53:31,586 | INFO | src.validation | Rating check passed
+2026-10-12 18:53:31,591 | INFO | src.validation | Returnd check passed
+2026-10-12 18:53:31,592 | WARNING | src.validation | Validation finished with issues: {'Unit_Price': 2}
+2026-10-12 18:53:31,593 | INFO | __main__ | STEP 5: Generating outputs
+2026-10-12 18:53:31,594 | INFO | src.analyzer | Generating analysis outputs
+2026-10-12 18:53:31,595 | INFO | src.analyzer | Calculating KPIs from 1000 rows
+2026-10-12 18:53:31,604 | INFO | src.analyzer | KPI | Total Orders = 1000
+2026-10-12 18:53:31,604 | INFO | src.analyzer | KPI | Total Customers = 324
+2026-10-12 18:53:31,605 | INFO | src.analyzer | KPI | Total Quantity = 3071
+2026-10-12 18:53:31,606 | INFO | src.analyzer | KPI | Total Sales = 928813.75
+2026-10-12 18:53:31,607 | INFO | src.analyzer | KPI | AOV = 928.81
+2026-10-12 18:53:31,609 | INFO | src.analyzer | KPI | Return Rate (%) = 5.7
+2026-10-12 18:53:31,648 | INFO | src.analyzer | Saved data/outputs/kpis.csv (6 rows)
+2026-10-12 18:53:31,649 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 18:53:31,673 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 18:53:31,687 | INFO | src.analyzer | Saved data/outputs/sales_by_product.csv (6 rows)
+2026-10-12 18:53:31,690 | INFO | src.analyzer | Calculating Sales By Category
+2026-10-12 18:53:31,722 | INFO | src.analyzer | Saved data/outputs/sales_by_category.csv (1 rows)
+2026-10-12 18:53:31,725 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 18:53:31,751 | INFO | src.analyzer | Saved data/outputs/sales_by_channel.csv (3 rows)
+2026-10-12 18:53:31,753 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 18:53:31,798 | INFO | src.analyzer | Saved data/outputs/sales_by_month.csv (12 rows)
+2026-10-12 18:53:31,800 | INFO | src.analyzer | All outputs saved to data/outputs
+2026-10-12 18:53:31,802 | INFO | __main__ | STEP 6: Verifying outputs
+2026-10-12 18:53:31,804 | INFO | src.reporter | Generating charts
+2026-10-12 18:53:31,805 | INFO | src.analyzer | Calculating Sales By Month
+2026-10-12 18:53:33,040 | INFO | src.reporter | Saved chart reports/sales_by_month.png
+2026-10-12 18:53:33,041 | INFO | src.analyzer | Calculating Sales By Product
+2026-10-12 18:53:33,055 | INFO | src.analyzer | Top product: Laptop (357324.73)
+2026-10-12 18:53:33,879 | INFO | src.reporter | Saved chart reports/sales_by_product.png
+2026-10-12 18:53:33,882 | INFO | src.analyzer | Calculating Sales By Channel
+2026-10-12 18:53:34,514 | INFO | src.reporter | Saved chart reports/sales_by_channel.png
+2026-10-12 18:53:34,515 | INFO | __main__ | STEP 7: Generate Charts
+2026-10-12 18:53:34,516 | INFO | src.analyzer | Verifying output files in data/outputs
+2026-10-12 18:53:34,526 | INFO | src.analyzer | OK | kpis.csv | 6 rows
+2026-10-12 18:53:34,535 | INFO | src.analyzer | OK | sales_by_product.csv | 6 rows
+2026-10-12 18:53:34,546 | INFO | src.analyzer | OK | sales_by_category.csv | 1 rows
+2026-10-12 18:53:34,557 | INFO | src.analyzer | OK | sales_by_channel.csv | 3 rows
+2026-10-12 18:53:34,569 | INFO | src.analyzer | OK | sales_by_month.csv | 12 rows
+2026-10-12 18:53:34,570 | INFO | __main__ | PIPELINE COMPLETED
+2026-10-12 18:53:34,884 | INFO | __main__ | Scheduler started in background
+2026-10-12 18:53:40,413 | INFO | __main__ | Scheduler stopped

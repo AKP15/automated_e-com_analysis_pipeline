@@ -1,0 +1,1005 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Discount,Sales,Payment_Method,Channel,Country,Rating,Returned
+10001,2026-01-01 00:00:00.000000000,2103,Mouse,Electronics,4,35.11,0.15,119.37,Debit Card,Mobile App,UK,3.8,0
+10002,2026-01-01 08:44:41.081081081,2349,Webcam,Electronics,1,72.66,0.15,61.76,Mobile Payment,Website,USA,2.8,0
+10003,2026-01-01 17:29:22.162162162,2271,Webcam,Electronics,5,78.95,0.2,315.82,Credit Card,Website,Australia,3.5,0
+10004,2026-01-02 02:14:03.243243243,2107,Mouse,Electronics,4,29.95,0.0,119.8,Mobile Payment,Website,Thailand,4.2,0
+10005,2026-01-02 10:58:44.324324324,2072,Phone,Electronics,4,546.18,0.05,2075.48,Credit Card,Website,UK,3.6,0
+10006,2026-01-02 19:43:25.405405405,2189,Phone,Electronics,5,580.97,0.0,2904.87,Mobile Payment,Mobile App,UK,3.3,0
+10007,2026-01-03 04:28:06.486486486,2021,Headphones,Electronics,4,96.01,0.0,384.05,Credit Card,Marketplace,Thailand,4.0,0
+10008,2026-01-03 13:12:47.567567567,2103,Mouse,Electronics,4,37.02,0.0,148.09,PayPal,Mobile App,USA,4.9,0
+10009,2026-01-03 21:57:28.648648648,2122,Phone,Electronics,4,489.68,0.05,1860.79,Debit Card,Website,Germany,4.1,0
+10010,2026-01-04 06:42:09.729729729,2215,Headphones,Electronics,2,84.58,0.05,160.71,Credit Card,Marketplace,Germany,4.7,0
+10011,2026-01-04 15:26:50.810810810,2331,Headphones,Electronics,5,86.19,0.0,430.93,Mobile Payment,Mobile App,Thailand,3.4,0
+10012,2026-01-05 00:11:31.891891891,2088,Tablet,Electronics,4,414.71,0.0,1658.82,Credit Card,Marketplace,Thailand,3.8,0
+10013,2026-01-05 08:56:12.972972973,2100,Webcam,Electronics,5,65.35,0.0,326.77,Credit Card,Mobile App,Thailand,3.8,0
+10014,2026-01-05 17:40:54.054054054,2152,Mouse,Electronics,3,31.96,0.2,76.71,Credit Card,Website,Germany,3.9,0
+10015,2026-01-06 02:25:35.135135135,2131,Headphones,Electronics,3,102.35,0.15,261.0,Mobile Payment,Website,Thailand,4.1,0
+10016,2026-01-06 11:10:16.216216216,2150,Headphones,Electronics,4,76.74,0.2,245.57,Debit Card,Mobile App,Canada,3.2,0
+10017,2026-01-06 19:54:57.297297297,2309,Tablet,Electronics,5,436.75,0.05,2074.57,PayPal,Website,Thailand,4.3,0
+10018,2026-01-07 04:39:38.378378378,2258,Headphones,Electronics,5,94.77,0.05,450.18,Debit Card,Website,Canada,2.7,0
+10019,2026-01-07 13:24:19.459459459,2344,Phone,Electronics,5,604.2,0.15,2567.84,Credit Card,Mobile App,USA,2.9,0
+10020,2026-01-07 22:09:00.540540540,2294,Tablet,Electronics,2,356.59,0.05,677.51,Mobile Payment,Mobile App,Australia,5.0,0
+10021,2026-01-08 06:53:41.621621621,2192,Headphones,Electronics,3,76.89,0.05,219.13,Debit Card,Mobile App,Thailand,3.4,0
+10022,2026-01-08 15:38:22.702702702,2277,Laptop,Electronics,5,910.66,0.0,4553.28,Credit Card,Website,,4.3,0
+10023,2026-01-09 00:23:03.783783783,2161,Phone,Electronics,5,605.13,0.0,3025.67,PayPal,Website,Thailand,5.0,0
+10024,2026-01-09 09:07:44.864864864,2314,Headphones,Electronics,2,96.49,0.05,183.34,PayPal,Mobile App,Canada,2.2,0
+10025,2026-01-09 17:52:25.945945946,2022,Tablet,Electronics,2,339.28,0.05,644.64,PayPal,Marketplace,Germany,4.6,0
+10026,2026-01-10 02:37:07.027027027,2253,Phone,Electronics,5,591.82,0.1,2663.17,Credit Card,Mobile App,Thailand,4.3,0
+10027,2026-01-10 11:21:48.108108108,2236,Webcam,Electronics,1,75.65,0.0,75.65,Mobile Payment,Marketplace,Germany,4.9,0
+10028,2026-01-10 20:06:29.189189189,2345,Headphones,Electronics,5,94.28,0.0,471.4,Debit Card,Mobile App,UK,3.0,0
+10029,2026-01-11 04:51:10.270270270,2049,Phone,Electronics,5,593.91,0.15,2524.11,PayPal,Mobile App,Thailand,4.8,0
+10030,2026-01-11 13:35:51.351351351,2059,Mouse,Electronics,2,38.63,0.0,77.26,Credit Card,Website,USA,3.3,0
+10031,2026-01-11 22:20:32.432432432,2170,Tablet,Electronics,2,392.95,0.05,746.61,Credit Card,Mobile App,Thailand,4.5,0
+10032,2026-01-12 07:05:13.513513513,2188,Webcam,Electronics,5,61.36,0.15,260.78,Debit Card,Mobile App,Canada,3.8,0
+10033,2026-01-12 15:49:54.594594594,2271,Headphones,Electronics,5,89.67,0.0,448.33,PayPal,Mobile App,Australia,4.3,0
+10034,2026-01-13 00:34:35.675675675,2190,Mouse,Electronics,5,30.57,0.0,152.83,Credit Card,Mobile App,Thailand,3.8,1
+10035,2026-01-13 09:19:16.756756756,2175,Webcam,Electronics,2,68.06,0.05,129.31,Debit Card,Mobile App,UK,2.5,0
+10036,2026-01-13 18:03:57.837837837,2051,Webcam,Electronics,5,68.05,0.05,323.23,Mobile Payment,Website,Australia,1.6,0
+10037,2026-01-14 02:48:38.918918919,2055,Webcam,Electronics,5,60.89,0.1,273.99,Mobile Payment,Mobile App,India,3.9,0
+10038,2026-01-14 11:33:20.000000000,2244,Laptop,Electronics,4,811.45,0.15,2758.93,Mobile Payment,Website,UK,3.6,0
+10039,2026-01-14 20:18:01.081081081,2320,Phone,Electronics,1,485.81,0.0,485.81,PayPal,Marketplace,India,4.1,0
+10040,2026-01-15 05:02:42.162162162,2131,Webcam,Electronics,3,76.47,0.1,206.48,Debit Card,Website,UK,3.6,0
+10041,2026-01-15 13:47:23.243243243,2307,Tablet,Electronics,1,431.04,0.1,387.93,Debit Card,Website,USA,5.0,0
+10042,2026-01-15 22:32:04.324324324,2135,Webcam,Electronics,4,61.02,0.0,244.07,Credit Card,Website,Germany,4.0,1
+10043,2026-01-16 07:16:45.405405405,2021,Laptop,Electronics,3,966.05,0.1,2608.35,Credit Card,Mobile App,UK,3.5,0
+10044,2026-01-16 16:01:26.486486486,2329,Headphones,Electronics,5,90.61,0.05,430.4,Credit Card,Website,USA,4.0,0
+10045,2026-01-17 00:46:07.567567567,2167,Phone,Electronics,4,516.93,0.05,1964.33,Debit Card,Website,UK,3.5,0
+10046,2026-01-17 09:30:48.648648648,2274,Tablet,Electronics,5,331.76,0.0,1658.81,Credit Card,Mobile App,Germany,3.9,0
+10047,2026-01-17 18:15:29.729729729,2089,Headphones,Electronics,2,90.02,0.05,171.03,Debit Card,Website,Australia,2.9,0
+10048,2026-01-18 03:00:10.810810810,2316,Tablet,Electronics,4,413.57,0.05,1571.58,Debit Card,Marketplace,USA,3.8,0
+10049,2026-01-18 11:44:51.891891892,2014,Headphones,Electronics,2,95.59,0.15,162.51,Mobile Payment,Marketplace,USA,3.5,0
+10050,2026-01-18 20:29:32.972972973,2242,Tablet,Electronics,4,328.73,0.0,1314.9,Credit Card,Mobile App,UK,3.0,0
+10051,2026-01-19 05:14:14.054054054,2265,Tablet,Electronics,4,331.31,0.05,1258.98,Mobile Payment,Website,UK,5.0,0
+10052,2026-01-19 13:58:55.135135135,2346,Webcam,Electronics,2,67.96,0.05,129.12,PayPal,Mobile App,Thailand,3.0,0
+10053,2026-01-19 22:43:36.216216216,2053,Laptop,Electronics,3,797.8,0.1,2154.06,PayPal,Website,Australia,3.8,0
+10054,2026-01-20 07:28:17.297297297,2340,Headphones,Electronics,1,82.77,0.1,74.5,PayPal,Mobile App,UK,3.2,0
+10055,2026-01-20 16:12:58.378378378,2092,Headphones,Electronics,5,84.09,0.1,378.39,Debit Card,Website,USA,4.0,0
+10056,2026-01-21 00:57:39.459459459,2264,Webcam,Electronics,4,76.37,0.15,259.67,Debit Card,Marketplace,Thailand,2.9,0
+10057,2026-01-21 09:42:20.540540540,2035,Headphones,Electronics,5,101.59,0.15,431.75,Debit Card,Website,Thailand,4.4,0
+10058,2026-01-21 18:27:01.621621621,2206,Mouse,Electronics,2,34.0,0.05,64.61,Credit Card,Mobile App,India,5.0,0
+10059,2026-01-22 03:11:42.702702702,2081,Mouse,Electronics,5,39.26,0.1,176.69,Mobile Payment,Mobile App,USA,3.2,0
+10060,2026-01-22 11:56:23.783783783,2050,Phone,Electronics,2,520.55,0.15,884.93,Debit Card,Mobile App,Thailand,4.7,0
+10061,2026-01-22 20:41:04.864864865,2002,Phone,Electronics,5,546.11,0.2,2184.45,Mobile Payment,Website,USA,3.5,0
+10062,2026-01-23 05:25:45.945945946,2054,Tablet,Electronics,1,348.77,0.15,296.45,Mobile Payment,Marketplace,USA,4.9,0
+10063,2026-01-23 14:10:27.027027027,2106,Phone,Electronics,1,573.18,0.05,544.52,Mobile Payment,Mobile App,Thailand,5.0,0
+10064,2026-01-23 22:55:08.108108108,2260,Headphones,Electronics,1,102.93,0.0,102.93,Credit Card,Mobile App,USA,3.6,0
+10065,2026-01-24 07:39:49.189189189,2310,Mouse,Electronics,1,36.09,0.05,34.28,Credit Card,Website,UK,2.7,0
+10066,2026-01-24 16:24:30.270270270,2191,Laptop,Electronics,1,813.74,0.1,732.37,PayPal,Mobile App,UK,4.5,0
+10067,2026-01-25 01:09:11.351351351,2218,Laptop,Electronics,1,887.69,0.05,843.31,PayPal,Website,USA,4.0,0
+10068,2026-01-25 09:53:52.432432432,2044,Phone,Electronics,2,487.78,0.05,926.79,Mobile Payment,Website,USA,4.2,0
+10069,2026-01-25 18:38:33.513513513,2162,Webcam,Electronics,4,78.16,0.15,265.75,PayPal,Website,India,3.6,0
+10070,2026-01-26 03:23:14.594594594,2202,Headphones,Electronics,5,90.08,0.05,427.9,Mobile Payment,Marketplace,USA,3.2,0
+10071,2026-01-26 12:07:55.675675675,2270,Laptop,Electronics,1,837.08,0.15,711.52,Credit Card,Website,Thailand,4.6,0
+10072,2026-01-26 20:52:36.756756756,2304,Mouse,Electronics,2,35.9,0.05,68.21,Credit Card,Website,Thailand,4.0,0
+10073,2026-01-27 05:37:17.837837838,2271,Webcam,Electronics,2,72.62,0.05,137.98,Credit Card,Mobile App,USA,2.8,0
+10074,2026-01-27 14:21:58.918918919,2215,Laptop,Electronics,2,740.8,0.05,1407.53,Debit Card,Mobile App,Australia,4.3,0
+10075,2026-01-27 23:06:40.000000000,2252,Headphones,Electronics,4,94.93,0.15,322.76,Mobile Payment,Website,Thailand,4.1,0
+10076,2026-01-28 07:51:21.081081081,2190,Webcam,Electronics,5,64.58,0.0,322.9,Credit Card,Mobile App,Canada,3.6,0
+10077,2026-01-28 16:36:02.162162162,2296,Phone,Electronics,4,585.3,0.0,2341.21,Mobile Payment,Website,Thailand,4.9,0
+10078,2026-01-29 01:20:43.243243243,2213,Laptop,Electronics,3,932.25,0.2,2237.39,PayPal,Website,USA,3.4,0
+10079,2026-01-29 10:05:24.324324324,2208,Laptop,Electronics,2,927.51,0.0,1855.02,PayPal,Website,Australia,3.7,0
+10080,2026-01-29 18:50:05.405405405,2237,Laptop,Electronics,3,863.39,0.1,2331.15,Credit Card,Marketplace,USA,4.3,0
+10081,2026-01-30 03:34:46.486486486,2338,Mouse,Electronics,1,35.21,0.1,31.69,Mobile Payment,Website,UK,3.9,0
+10082,2026-01-30 12:19:27.567567567,2053,Mouse,Electronics,1,31.25,0.05,29.69,Credit Card,Website,Thailand,2.8,0
+10083,2026-01-30 21:04:08.648648648,2280,Laptop,Electronics,4,920.21,0.1,3312.77,PayPal,Website,Australia,3.9,0
+10084,2026-01-31 05:48:49.729729730,2217,Phone,Electronics,5,512.28,0.0,2561.41,Credit Card,Marketplace,Thailand,3.5,1
+10085,2026-01-31 14:33:30.810810811,2252,Phone,Electronics,3,549.45,0.1,1483.53,Mobile Payment,Website,Germany,4.4,0
+10086,2026-01-31 23:18:11.891891892,2188,Phone,Electronics,5,514.41,0.05,2443.42,PayPal,Website,Thailand,3.9,0
+10087,2026-02-01 08:02:52.972972973,2041,Mouse,Electronics,4,31.16,0.1,112.16,Debit Card,Website,Germany,3.9,0
+10088,2026-02-01 16:47:34.054054054,2157,Phone,Electronics,1,571.38,0.0,571.38,PayPal,Website,,3.1,0
+10089,2026-02-02 01:32:15.135135135,2015,Phone,Electronics,5,476.46,0.1,2144.09,Debit Card,Mobile App,Canada,3.6,0
+10090,2026-02-02 10:16:56.216216216,2301,Phone,Electronics,5,591.03,0.0,2955.13,Credit Card,Mobile App,USA,4.5,1
+10091,2026-02-02 19:01:37.297297297,2065,Headphones,Electronics,1,85.07,0.05,80.82,Credit Card,Website,Germany,3.3,0
+10092,2026-02-03 03:46:18.378378378,2345,Phone,Electronics,3,467.52,0.0,1402.57,Mobile Payment,Website,Thailand,3.8,0
+10093,2026-02-03 12:30:59.459459459,2327,Webcam,Electronics,1,70.23,0.0,70.23,Debit Card,Website,Thailand,3.1,0
+10094,2026-02-03 21:15:40.540540540,2009,Phone,Electronics,5,475.23,0.15,2019.73,Credit Card,Website,UK,3.0,0
+10095,2026-02-04 06:00:21.621621621,2344,Webcam,Electronics,3,65.3,0.05,186.1,Debit Card,Website,Thailand,3.7,0
+10096,2026-02-04 14:45:02.702702703,2129,Headphones,Electronics,3,95.59,0.2,229.41,Credit Card,Mobile App,Thailand,3.9,0
+10097,2026-02-04 23:29:43.783783784,2136,Laptop,Electronics,1,738.49,0.2,590.79,PayPal,Marketplace,India,5.0,1
+10098,2026-02-05 08:14:24.864864865,2063,Tablet,Electronics,5,418.68,0.1,1884.08,Credit Card,Marketplace,India,3.5,0
+10099,2026-02-05 16:59:05.945945946,2139,Mouse,Electronics,4,29.79,0.0,119.16,Mobile Payment,Marketplace,USA,3.8,0
+10100,2026-02-06 01:43:47.027027027,2081,Mouse,Electronics,5,32.34,0.05,153.62,PayPal,Mobile App,India,2.9,0
+10101,2026-02-06 10:28:28.108108108,2163,Tablet,Electronics,2,407.46,0.15,692.69,Mobile Payment,Mobile App,UK,4.2,0
+10102,2026-02-06 19:13:09.189189189,2289,Tablet,Electronics,4,359.05,0.05,1364.41,PayPal,Website,Thailand,4.1,0
+10103,2026-02-07 03:57:50.270270270,2261,Mouse,Electronics,3,30.82,0.0,92.46,Debit Card,Mobile App,Canada,4.8,0
+10104,2026-02-07 12:42:31.351351351,2231,Headphones,Electronics,4,86.23,0.1,310.41,Mobile Payment,Mobile App,Canada,4.6,0
+10105,2026-02-07 21:27:12.432432432,2041,Laptop,Electronics,3,791.45,0.15,2018.2,Credit Card,Mobile App,India,4.0,0
+10106,2026-02-08 06:11:53.513513513,2028,Mouse,Electronics,3,38.6,0.15,98.43,Debit Card,Mobile App,Thailand,3.5,0
+10107,2026-02-08 14:56:34.594594594,2135,Phone,Electronics,4,519.2,0.0,2076.81,Credit Card,Website,Canada,3.9,0
+10108,2026-02-08 23:41:15.675675676,2201,Headphones,Electronics,3,97.8,0.1,264.06,PayPal,Website,Thailand,3.7,0
+10109,2026-02-09 08:25:56.756756757,2328,Phone,Electronics,3,614.66,0.0,1843.98,PayPal,Marketplace,Thailand,4.5,1
+10110,2026-02-09 17:10:37.837837838,2268,Laptop,Electronics,2,833.12,0.0,1666.25,Credit Card,Website,Thailand,4.4,0
+10111,2026-02-10 01:55:18.918918919,2033,Phone,Electronics,5,617.64,0.15,2624.97,Credit Card,Mobile App,India,3.6,0
+10112,2026-02-10 10:40:00.000000000,2048,Webcam,Electronics,5,67.42,0.0,337.12,Debit Card,Marketplace,Australia,2.8,0
+10113,2026-02-10 19:24:41.081081081,2062,Phone,Electronics,2,626.57,0.05,1190.49,Credit Card,Mobile App,Australia,4.7,0
+10114,2026-02-11 04:09:22.162162162,2216,Phone,Electronics,4,482.23,0.0,1928.93,Mobile Payment,Mobile App,UK,4.2,0
+10115,2026-02-11 12:54:03.243243243,2293,Phone,Electronics,1,580.86,0.15,493.73,Mobile Payment,Website,USA,3.6,0
+10116,2026-02-11 21:38:44.324324324,2099,Tablet,Electronics,1,379.29,0.15,322.4,Credit Card,Website,Thailand,4.2,0
+10117,2026-02-12 06:23:25.405405405,2172,Mouse,Electronics,1,33.82,0.1,30.44,Mobile Payment,Marketplace,Thailand,3.9,0
+10118,2026-02-12 15:08:06.486486486,2214,Tablet,Electronics,2,395.13,0.15,671.72,Credit Card,Mobile App,USA,4.7,0
+10119,2026-02-12 23:52:47.567567567,2035,Headphones,Electronics,2,95.5,0.0,191.01,Debit Card,Mobile App,Australia,2.4,0
+10120,2026-02-13 08:37:28.648648649,2227,Mouse,Electronics,3,29.8,0.05,84.92,Mobile Payment,Website,UK,3.5,0
+10121,2026-02-13 17:22:09.729729730,2101,Headphones,Electronics,1,81.01,0.05,76.96,Mobile Payment,Website,Thailand,4.9,0
+10122,2026-02-14 02:06:50.810810811,2131,Phone,Electronics,4,585.15,0.0,2340.61,Credit Card,Marketplace,Thailand,4.2,0
+10123,2026-02-14 10:51:31.891891892,2257,Phone,Electronics,4,577.45,0.05,2194.32,Mobile Payment,Website,Thailand,5.0,0
+10124,2026-02-14 19:36:12.972972973,2005,Phone,Electronics,1,626.9,0.2,501.52,PayPal,Mobile App,USA,2.9,0
+10125,2026-02-15 04:20:54.054054054,2218,Tablet,Electronics,1,409.76,0.0,409.76,Debit Card,Website,India,4.6,1
+10126,2026-02-15 13:05:35.135135135,2255,Tablet,Electronics,1,431.39,0.05,409.82,Debit Card,Mobile App,Canada,4.5,0
+10127,2026-02-15 21:50:16.216216216,2283,Webcam,Electronics,2,74.25,0.0,148.51,Mobile Payment,Marketplace,Australia,2.6,0
+10128,2026-02-16 06:34:57.297297297,2207,Phone,Electronics,2,516.68,0.0,1033.36,Mobile Payment,Mobile App,USA,3.6,0
+10129,2026-02-16 15:19:38.378378378,2015,Tablet,Electronics,2,335.01,0.2,536.02,PayPal,Website,USA,3.7,0
+10130,2026-02-17 00:04:19.459459459,2346,Headphones,Electronics,5,97.61,0.05,463.64,PayPal,Mobile App,Thailand,2.7,0
+10131,2026-02-17 08:49:00.540540540,2042,Phone,Electronics,4,573.78,0.05,2180.38,Mobile Payment,Mobile App,Germany,3.6,0
+10132,2026-02-17 17:33:41.621621621,2179,Mouse,Electronics,4,30.26,0.15,102.87,Mobile Payment,Website,Australia,4.4,1
+10133,2026-02-18 02:18:22.702702703,2063,Headphones,Electronics,3,86.22,0.0,258.66,PayPal,Marketplace,Thailand,3.5,0
+10134,2026-02-18 11:03:03.783783784,2231,Phone,Electronics,2,625.37,0.05,1188.21,Credit Card,Mobile App,UK,4.0,0
+10135,2026-02-18 19:47:44.864864865,2241,Webcam,Electronics,5,70.01,0.05,332.54,PayPal,Marketplace,UK,4.0,0
+10136,2026-02-19 04:32:25.945945946,2052,Headphones,Electronics,5,88.18,0.1,396.83,Credit Card,Mobile App,Canada,3.8,0
+10137,2026-02-19 13:17:07.027027027,2096,Headphones,Electronics,4,88.86,0.2,284.35,Debit Card,Website,India,3.3,0
+10138,2026-02-19 22:01:48.108108108,2222,Tablet,Electronics,2,346.81,0.15,589.58,Debit Card,Website,UK,4.3,0
+10139,2026-02-20 06:46:29.189189189,2231,Tablet,Electronics,3,365.03,0.05,1040.34,PayPal,Website,UK,2.7,0
+10140,2026-02-20 15:31:10.270270270,2237,Webcam,Electronics,2,67.27,0.15,114.35,Credit Card,Marketplace,Thailand,3.8,0
+10141,2026-02-21 00:15:51.351351351,2143,Laptop,Electronics,1,735.85,0.0,735.85,PayPal,Mobile App,Thailand,4.8,0
+10142,2026-02-21 09:00:32.432432432,2171,Phone,Electronics,2,594.15,0.0,1188.3,PayPal,Mobile App,Thailand,3.5,0
+10143,2026-02-21 17:45:13.513513513,2029,Laptop,Electronics,1,828.71,0.0,828.71,Credit Card,Website,Thailand,3.3,0
+10144,2026-02-22 02:29:54.594594594,2036,Webcam,Electronics,1,76.77,0.05,72.93,PayPal,Website,Australia,4.3,0
+10145,2026-02-22 11:14:35.675675676,2013,Phone,Electronics,3,607.81,0.1,1641.08,Debit Card,Mobile App,Canada,3.9,0
+10146,2026-02-22 19:59:16.756756757,2160,Mouse,Electronics,4,31.98,0.1,115.11,Mobile Payment,Mobile App,Thailand,4.3,0
+10147,2026-02-23 04:43:57.837837838,2327,Headphones,Electronics,2,94.25,0.2,150.8,Mobile Payment,Website,Australia,3.8,0
+10148,2026-02-23 13:28:38.918918919,2187,Webcam,Electronics,1,69.42,0.1,62.48,PayPal,Mobile App,Thailand,2.1,0
+10149,2026-02-23 22:13:20.000000000,2243,Mouse,Electronics,2,38.99,0.1,70.18,Credit Card,Website,USA,4.6,0
+10150,2026-02-24 06:58:01.081081081,2086,Mouse,Electronics,4,32.02,0.0,128.06,Credit Card,Website,Thailand,5.0,0
+10151,2026-02-24 15:42:42.162162162,2284,Mouse,Electronics,4,36.87,0.0,147.47,Debit Card,Mobile App,USA,4.7,0
+10152,2026-02-25 00:27:23.243243243,2066,Tablet,Electronics,5,392.28,0.1,1765.28,Credit Card,Website,Thailand,1.3,1
+10153,2026-02-25 09:12:04.324324324,2170,Headphones,Electronics,4,84.47,0.05,321.0,Credit Card,Marketplace,UK,4.1,0
+10154,2026-02-25 17:56:45.405405406,2045,Phone,Electronics,3,490.04,0.15,1249.6,Debit Card,Website,USA,3.5,0
+10155,2026-02-26 02:41:26.486486487,2062,Phone,Electronics,1,575.02,0.0,575.02,PayPal,Website,India,3.0,0
+10156,2026-02-26 11:26:07.567567568,2134,Tablet,Electronics,5,407.2,0.0,2036.0,Mobile Payment,Website,Thailand,3.9,1
+10157,2026-02-26 20:10:48.648648649,2284,Headphones,Electronics,3,85.02,0.05,242.31,Debit Card,Mobile App,Thailand,3.7,0
+10158,2026-02-27 04:55:29.729729730,2028,Phone,Electronics,2,573.9,0.0,1147.79,PayPal,Website,Thailand,4.2,1
+10159,2026-02-27 13:40:10.810810811,2108,Headphones,Electronics,1,87.17,0.0,87.17,Debit Card,Mobile App,Canada,3.8,0
+10160,2026-02-27 22:24:51.891891892,2044,Mouse,Electronics,4,37.24,0.1,134.06,PayPal,Website,Thailand,3.0,0
+10161,2026-02-28 07:09:32.972972973,2340,Headphones,Electronics,1,81.88,0.0,81.88,Debit Card,Website,Australia,3.4,0
+10162,2026-02-28 15:54:14.054054054,2286,Webcam,Electronics,2,78.19,0.1,140.75,PayPal,Website,UK,3.3,1
+10163,2026-03-01 00:38:55.135135135,2331,Webcam,Electronics,5,65.54,0.05,311.29,Debit Card,Marketplace,UK,2.6,0
+10164,2026-03-01 09:23:36.216216216,2128,Mouse,Electronics,5,33.61,0.0,168.06,PayPal,Marketplace,UK,2.8,0
+10165,2026-03-01 18:08:17.297297297,2348,Headphones,Electronics,5,78.07,0.05,370.83,Debit Card,Website,Thailand,3.7,0
+10166,2026-03-02 02:52:58.378378379,2231,Webcam,Electronics,4,61.84,0.15,210.26,Mobile Payment,Mobile App,Thailand,4.8,0
+10167,2026-03-02 11:37:39.459459460,2190,Mouse,Electronics,3,35.17,0.05,100.22,Mobile Payment,Marketplace,USA,3.4,0
+10168,2026-03-02 20:22:20.540540541,2225,Mouse,Electronics,3,32.56,0.15,83.03,Credit Card,Website,UK,3.3,0
+10169,2026-03-03 05:07:01.621621622,2283,Laptop,Electronics,1,935.55,0.0,935.55,PayPal,Marketplace,Thailand,3.0,0
+10170,2026-03-03 13:51:42.702702703,2121,Tablet,Electronics,4,324.68,0.15,1103.9,Debit Card,Website,Thailand,3.8,0
+10171,2026-03-03 22:36:23.783783784,2116,Phone,Electronics,5,530.05,0.0,2650.25,PayPal,Marketplace,India,4.6,0
+10172,2026-03-04 07:21:04.864864865,2233,Laptop,Electronics,5,808.52,0.1,3638.35,Mobile Payment,Mobile App,Thailand,5.0,0
+10173,2026-03-04 16:05:45.945945946,2259,Headphones,Electronics,2,77.02,0.1,138.64,PayPal,Marketplace,Australia,4.0,0
+10174,2026-03-05 00:50:27.027027027,2198,Webcam,Electronics,2,62.11,0.2,99.38,Debit Card,Mobile App,Australia,3.9,0
+10175,2026-03-05 09:35:08.108108108,2137,Mouse,Electronics,5,34.09,0.05,161.94,PayPal,Website,Thailand,3.4,0
+10176,2026-03-05 18:19:49.189189189,2318,Laptop,Electronics,5,848.18,0.0,4240.9,Debit Card,Marketplace,Thailand,3.5,0
+10177,2026-03-06 03:04:30.270270270,2165,Mouse,Electronics,4,34.0,0.0,135.98,Mobile Payment,Website,Thailand,4.2,1
+10178,2026-03-06 11:49:11.351351352,2225,Headphones,Electronics,3,90.84,0.15,231.63,Mobile Payment,Website,Canada,3.6,0
+10179,2026-03-06 20:33:52.432432433,2307,Webcam,Electronics,2,72.0,0.1,129.6,Mobile Payment,Mobile App,Canada,3.7,0
+10180,2026-03-07 05:18:33.513513514,2234,Mouse,Electronics,3,29.85,0.15,76.13,Credit Card,Mobile App,Australia,3.8,0
+10181,2026-03-07 14:03:14.594594595,2172,Headphones,Electronics,4,89.03,0.0,356.12,Mobile Payment,Marketplace,India,3.4,0
+10182,2026-03-07 22:47:55.675675676,2152,Phone,Electronics,5,626.48,0.05,2975.77,PayPal,Website,Canada,3.7,0
+10183,2026-03-08 07:32:36.756756757,2315,Mouse,Electronics,3,35.2,0.0,105.6,Credit Card,Mobile App,Thailand,2.4,0
+10184,2026-03-08 16:17:17.837837838,2160,Phone,Electronics,5,579.29,0.2,2317.18,Mobile Payment,Mobile App,Thailand,4.2,0
+10185,2026-03-09 01:01:58.918918919,2096,Laptop,Electronics,5,802.03,0.1,3609.11,PayPal,Website,Germany,5.0,0
+10186,2026-03-09 09:46:40.000000000,2233,Mouse,Electronics,1,37.88,0.2,30.3,PayPal,Website,Thailand,3.4,0
+10187,2026-03-09 18:31:21.081081081,2180,Phone,Electronics,3,595.03,0.05,1695.84,PayPal,Website,Thailand,4.1,0
+10188,2026-03-10 03:16:02.162162162,2113,Webcam,Electronics,3,70.45,0.1,190.21,Debit Card,Website,Canada,4.4,0
+10189,2026-03-10 12:00:43.243243243,2318,Phone,Electronics,5,628.54,0.1,2828.44,Credit Card,Marketplace,USA,4.7,0
+10190,2026-03-10 20:45:24.324324325,2052,Mouse,Electronics,4,31.07,0.05,118.06,PayPal,Mobile App,India,3.6,0
+10191,2026-03-11 05:30:05.405405406,2268,Phone,Electronics,1,470.3,0.15,399.75,Debit Card,Mobile App,Canada,2.5,1
+10192,2026-03-11 14:14:46.486486487,2295,Mouse,Electronics,5,37.84,0.2,151.35,Mobile Payment,Marketplace,Thailand,4.0,0
+10193,2026-03-11 22:59:27.567567568,2113,Webcam,Electronics,2,76.45,0.15,129.97,PayPal,Website,India,3.9,1
+10194,2026-03-12 07:44:08.648648649,2101,Laptop,Electronics,2,753.15,0.1,1355.68,Debit Card,Marketplace,Thailand,3.6,1
+10195,2026-03-12 16:28:49.729729730,2113,Headphones,Electronics,1,83.67,0.05,79.49,PayPal,Website,USA,3.7,0
+10196,2026-03-13 01:13:30.810810811,2081,Mouse,Electronics,4,29.93,0.05,113.75,Credit Card,Marketplace,USA,3.9,0
+10197,2026-03-13 09:58:11.891891892,2187,Tablet,Electronics,5,356.44,0.2,1425.75,Credit Card,Website,Thailand,4.1,0
+10198,2026-03-13 18:42:52.972972973,2113,Phone,Electronics,3,595.07,0.0,1785.21,Mobile Payment,Marketplace,UK,4.0,0
+10199,2026-03-14 03:27:34.054054054,2002,Tablet,Electronics,1,382.05,0.1,343.84,PayPal,Website,Thailand,3.6,0
+10200,2026-03-14 12:12:15.135135135,2130,Tablet,Electronics,4,362.68,0.1,1305.66,Debit Card,Website,USA,4.1,0
+10201,2026-03-14 20:56:56.216216216,2220,Webcam,Electronics,3,67.31,0.1,181.73,Mobile Payment,Mobile App,USA,3.6,1
+10202,2026-03-15 05:41:37.297297297,2054,Headphones,Electronics,2,76.54,0.2,122.46,PayPal,Website,Australia,4.2,0
+10203,2026-03-15 14:26:18.378378379,2343,Tablet,Electronics,2,357.18,0.05,678.64,Mobile Payment,Mobile App,Australia,3.4,0
+10204,2026-03-15 23:10:59.459459460,2224,Phone,Electronics,3,574.17,0.05,1636.37,Debit Card,Website,Thailand,3.9,0
+10205,2026-03-16 07:55:40.540540541,2225,Headphones,Electronics,1,102.8,0.0,102.8,Mobile Payment,Mobile App,USA,2.7,0
+10206,2026-03-16 16:40:21.621621622,2126,Tablet,Electronics,2,419.56,0.05,797.17,Mobile Payment,Website,USA,3.5,0
+10207,2026-03-17 01:25:02.702702703,2130,Laptop,Electronics,5,728.52,0.05,3460.45,Mobile Payment,Website,Thailand,4.2,0
+10208,2026-03-17 10:09:43.783783784,2053,Mouse,Electronics,3,39.18,0.05,111.68,PayPal,Website,Australia,3.1,0
+10209,2026-03-17 18:54:24.864864865,2172,Headphones,Electronics,3,97.65,0.15,249.0,Debit Card,Mobile App,Canada,3.6,0
+10210,2026-03-18 03:39:05.945945946,2218,Headphones,Electronics,2,97.57,0.2,156.11,Credit Card,Website,Thailand,2.1,0
+10211,2026-03-18 12:23:47.027027027,2160,Mouse,Electronics,1,34.56,0.0,34.56,PayPal,Website,USA,2.8,0
+10212,2026-03-18 21:08:28.108108108,2198,Headphones,Electronics,5,87.25,0.05,414.42,Credit Card,Website,Thailand,3.0,0
+10213,2026-03-19 05:53:09.189189189,2247,Webcam,Electronics,1,65.86,0.2,52.69,Credit Card,Website,Canada,3.9,0
+10214,2026-03-19 14:37:50.270270270,2324,Tablet,Electronics,4,330.49,0.0,1321.96,PayPal,Mobile App,Thailand,4.0,1
+10215,2026-03-19 23:22:31.351351352,2203,Laptop,Electronics,4,780.7,0.0,3122.8,PayPal,Marketplace,India,3.8,0
+10216,2026-03-20 08:07:12.432432433,2184,Tablet,Electronics,2,351.11,0.0,702.23,Debit Card,Website,Australia,3.5,0
+10217,2026-03-20 16:51:53.513513514,2123,Tablet,Electronics,2,378.18,0.1,680.73,Debit Card,Mobile App,USA,3.5,0
+10218,2026-03-21 01:36:34.594594595,2255,Webcam,Electronics,2,75.2,0.0,150.39,Mobile Payment,Mobile App,UK,4.3,0
+10219,2026-03-21 10:21:15.675675676,2294,Laptop,Electronics,4,843.32,0.2,2698.63,Credit Card,Website,Germany,3.9,0
+10220,2026-03-21 19:05:56.756756757,2280,Laptop,Electronics,1,737.25,0.05,700.39,Debit Card,Mobile App,UK,3.6,0
+10221,2026-03-22 03:50:37.837837838,2325,Phone,Electronics,1,625.54,0.1,562.98,Mobile Payment,Website,Thailand,4.7,0
+10222,2026-03-22 12:35:18.918918919,2098,Phone,Electronics,2,623.05,0.0,1246.1,Debit Card,Mobile App,USA,5.0,0
+10223,2026-03-22 21:20:00.000000000,2198,Webcam,Electronics,5,75.99,0.05,360.95,PayPal,Website,Germany,2.9,0
+10224,2026-03-23 06:04:41.081081081,2240,Phone,Electronics,1,631.07,0.1,567.96,Debit Card,Mobile App,Canada,4.2,0
+10225,2026-03-23 14:49:22.162162162,2144,Headphones,Electronics,4,91.2,0.15,310.08,Credit Card,Mobile App,Canada,5.0,0
+10226,2026-03-23 23:34:03.243243243,2097,Tablet,Electronics,3,432.76,0.15,1103.53,Debit Card,Website,Germany,4.0,0
+10227,2026-03-24 08:18:44.324324325,2201,Headphones,Electronics,3,78.54,0.1,212.06,Credit Card,Website,Germany,3.9,0
+10228,2026-03-24 17:03:25.405405406,2124,Mouse,Electronics,3,33.59,0.2,80.62,PayPal,Marketplace,Germany,3.8,0
+10229,2026-03-25 01:48:06.486486487,2187,Tablet,Electronics,5,348.69,0.15,1481.95,Credit Card,Website,Thailand,4.1,0
+10230,2026-03-25 10:32:47.567567568,2326,Webcam,Electronics,2,63.61,0.15,108.14,Debit Card,Mobile App,UK,4.3,0
+10231,2026-03-25 19:17:28.648648649,2349,Tablet,Electronics,4,339.05,0.0,1356.21,Mobile Payment,Marketplace,Australia,2.9,0
+10232,2026-03-26 04:02:09.729729730,2259,Phone,Electronics,5,570.2,0.0,2850.99,PayPal,Mobile App,Australia,3.8,0
+10233,2026-03-26 12:46:50.810810811,2148,Mouse,Electronics,4,37.95,0.0,151.82,Debit Card,Mobile App,UK,2.2,0
+10234,2026-03-26 21:31:31.891891892,2252,Phone,Electronics,4,562.92,0.1,2026.51,PayPal,Mobile App,Thailand,3.7,0
+10235,2026-03-27 06:16:12.972972973,2346,Laptop,Electronics,2,759.98,0.05,1443.95,PayPal,Marketplace,Australia,3.2,0
+10236,2026-03-27 15:00:54.054054054,2147,Webcam,Electronics,3,76.53,0.05,218.12,Debit Card,Mobile App,Canada,4.0,0
+10237,2026-03-27 23:45:35.135135135,2148,Laptop,Electronics,2,884.67,,1503.94,Debit Card,Mobile App,Thailand,2.6,0
+10238,2026-03-28 08:30:16.216216216,2199,Mouse,Electronics,5,33.83,0.15,143.76,Mobile Payment,Website,USA,3.4,0
+10239,2026-03-28 17:14:57.297297298,2308,Tablet,Electronics,5,399.85,0.2,1599.4,PayPal,Marketplace,Thailand,4.5,0
+10240,2026-03-29 01:59:38.378378379,2128,Mouse,Electronics,5,32.48,0.05,154.28,PayPal,Mobile App,USA,3.3,0
+10241,2026-03-29 10:44:19.459459460,2039,Webcam,Electronics,2,66.75,0.1,120.15,Debit Card,Website,Thailand,2.5,0
+10242,2026-03-29 19:29:00.540540541,2338,Headphones,Electronics,4,101.27,0.05,384.83,Credit Card,Marketplace,USA,4.0,0
+10243,2026-03-30 04:13:41.621621622,2129,Mouse,Electronics,4,32.8,0.0,131.2,Debit Card,Mobile App,UK,3.4,0
+10244,2026-03-30 12:58:22.702702703,2267,Tablet,Electronics,1,376.58,0.0,376.58,PayPal,Website,UK,3.7,0
+10245,2026-03-30 21:43:03.783783784,2151,Mouse,Electronics,5,39.1,0.05,185.71,Debit Card,Mobile App,Canada,3.3,0
+10246,2026-03-31 06:27:44.864864865,2298,Laptop,Electronics,4,902.97,0.05,3431.28,Mobile Payment,Website,Australia,5.0,0
+10247,2026-03-31 15:12:25.945945946,2099,Tablet,Electronics,1,330.09,0.15,280.58,Credit Card,Marketplace,Thailand,2.7,0
+10248,2026-03-31 23:57:07.027027027,2263,Phone,Electronics,4,491.81,0.0,1967.22,Debit Card,Website,Thailand,5.0,0
+10249,2026-04-01 08:41:48.108108108,2252,Headphones,Electronics,5,76.71,0.1,345.2,Mobile Payment,Marketplace,Germany,3.5,0
+10250,2026-04-01 17:26:29.189189189,2144,Phone,Electronics,3,571.6,0.1,1543.33,PayPal,Mobile App,Thailand,3.9,0
+10251,2026-04-02 02:11:10.270270271,2346,Mouse,Electronics,5,34.45,0.05,163.64,Debit Card,Website,India,3.4,0
+10252,2026-04-02 10:55:51.351351352,2112,Mouse,Electronics,2,31.16,0.05,59.2,PayPal,Marketplace,Germany,3.4,0
+10253,2026-04-02 19:40:32.432432433,2060,Mouse,Electronics,4,39.81,0.05,151.27,Mobile Payment,Mobile App,UK,3.3,0
+10254,2026-04-03 04:25:13.513513514,2002,Laptop,Electronics,4,857.56,0.1,3087.23,PayPal,Website,India,4.2,0
+10255,2026-04-03 13:09:54.594594595,2304,Headphones,Electronics,2,83.03,0.05,157.76,Mobile Payment,Mobile App,Thailand,2.8,0
+10256,2026-04-03 21:54:35.675675676,2254,Tablet,Electronics,2,380.07,0.0,760.14,Mobile Payment,Marketplace,USA,4.1,0
+10257,2026-04-04 06:39:16.756756757,2140,Phone,Electronics,3,579.64,0.0,1738.91,Mobile Payment,Website,Canada,2.3,0
+10258,2026-04-04 15:23:57.837837838,2037,Phone,Electronics,4,480.08,0.1,1728.29,Debit Card,Website,USA,4.0,0
+10259,2026-04-05 00:08:38.918918919,2160,Tablet,Electronics,4,354.32,0.2,1133.81,PayPal,Website,India,4.4,0
+10260,2026-04-05 08:53:20.000000000,2009,Webcam,Electronics,3,76.45,0.05,217.87,PayPal,Website,Thailand,2.9,0
+10261,2026-04-05 17:38:01.081081081,2233,Headphones,Electronics,1,88.91,0.1,80.02,Credit Card,Mobile App,UK,4.3,0
+10262,2026-04-06 02:22:42.162162162,2099,Tablet,Electronics,3,385.31,0.1,1040.34,Credit Card,Mobile App,UK,3.8,0
+10263,2026-04-06 11:07:23.243243243,2147,Laptop,Electronics,5,832.87,0.2,3331.47,Credit Card,Website,Canada,4.9,0
+10264,2026-04-06 19:52:04.324324325,2304,Laptop,Electronics,4,733.69,0.15,2494.56,Credit Card,Website,Thailand,3.2,0
+10265,2026-04-07 04:36:45.405405406,2208,Laptop,Electronics,2,764.77,0.1,1376.58,PayPal,Website,USA,5.0,0
+10266,2026-04-07 13:21:26.486486487,2131,Mouse,Electronics,5,34.43,,154.93,Mobile Payment,Marketplace,Germany,2.1,0
+10267,2026-04-07 22:06:07.567567568,2152,Laptop,Electronics,4,775.84,0.15,2637.86,Mobile Payment,Website,Thailand,3.6,0
+10268,2026-04-08 06:50:48.648648649,2054,Laptop,Electronics,3,735.24,0.05,2095.45,Debit Card,Marketplace,Australia,2.6,0
+10269,2026-04-08 15:35:29.729729730,2120,Phone,Electronics,5,606.7,0.05,2881.84,Mobile Payment,Mobile App,UK,5.0,0
+10270,2026-04-09 00:20:10.810810811,2161,Webcam,Electronics,4,80.11,0.0,320.42,PayPal,Website,Australia,3.6,0
+10271,2026-04-09 09:04:51.891891892,2116,Mouse,Electronics,1,38.08,0.15,32.37,PayPal,Marketplace,Canada,3.7,0
+10272,2026-04-09 17:49:32.972972973,2075,Webcam,Electronics,1,77.43,0.15,65.82,PayPal,Mobile App,Thailand,4.1,0
+10273,2026-04-10 02:34:14.054054054,2113,Headphones,Electronics,2,83.03,0.0,166.07,Debit Card,Mobile App,UK,3.8,0
+10274,2026-04-10 11:18:55.135135135,2104,Headphones,Electronics,4,102.44,0.1,368.77,Credit Card,Marketplace,Germany,3.4,0
+10275,2026-04-10 20:03:36.216216216,2340,Laptop,Electronics,1,772.72,0.05,734.08,Mobile Payment,Website,USA,2.9,0
+10276,2026-04-11 04:48:17.297297298,2254,Mouse,Electronics,3,39.74,0.0,119.22,PayPal,Website,India,3.9,0
+10277,2026-04-11 13:32:58.378378379,2227,Webcam,Electronics,4,80.39,0.2,257.25,PayPal,Mobile App,USA,4.1,0
+10278,2026-04-11 22:17:39.459459460,2112,Headphones,Electronics,3,95.72,0.0,287.15,Credit Card,Website,Thailand,4.3,0
+10279,2026-04-12 07:02:20.540540541,2099,Webcam,Electronics,3,80.1,0.0,240.31,PayPal,Website,USA,5.0,0
+10280,2026-04-12 15:47:01.621621622,2153,Webcam,Electronics,1,71.46,0.1,64.31,Mobile Payment,Website,India,2.3,0
+10281,2026-04-13 00:31:42.702702703,2349,Headphones,Electronics,4,83.51,0.1,300.63,Debit Card,Website,USA,3.8,0
+10282,2026-04-13 09:16:23.783783784,2338,Mouse,Electronics,5,34.34,0.0,171.69,PayPal,Mobile App,Germany,4.6,0
+10283,2026-04-13 18:01:04.864864865,2194,Mouse,Electronics,1,35.98,0.1,32.38,Mobile Payment,Website,Germany,3.7,0
+10284,2026-04-14 02:45:45.945945946,2310,Headphones,Electronics,1,78.47,0.1,70.63,PayPal,Mobile App,USA,2.2,0
+10285,2026-04-14 11:30:27.027027027,2163,Headphones,Electronics,4,93.3,0.0,373.21,Credit Card,Mobile App,Thailand,2.9,0
+10286,2026-04-14 20:15:08.108108108,2208,Laptop,Electronics,4,972.7,0.0,3890.8,PayPal,Website,Canada,4.0,0
+10287,2026-04-15 04:59:49.189189189,2169,Headphones,Electronics,3,81.63,0.1,220.41,PayPal,Website,USA,4.0,0
+10288,2026-04-15 13:44:30.270270270,2161,Laptop,Electronics,4,924.61,0.05,3513.52,Debit Card,Mobile App,Australia,4.3,0
+10289,2026-04-15 22:29:11.351351352,2068,Headphones,Electronics,3,101.01,0.2,242.43,Credit Card,Website,USA,3.3,0
+10290,2026-04-16 07:13:52.432432432,2289,Mouse,Electronics,1,39.66,0.15,33.71,Credit Card,Mobile App,UK,4.0,0
+10291,2026-04-16 15:58:33.513513514,2277,Headphones,Electronics,2,102.42,0.2,163.88,Debit Card,Marketplace,Australia,3.1,0
+10292,2026-04-17 00:43:14.594594594,2304,Tablet,Electronics,5,382.45,0.05,1816.62,PayPal,Website,USA,4.0,0
+10293,2026-04-17 09:27:55.675675676,2135,Phone,Electronics,1,628.76,0.2,503.0,Mobile Payment,Mobile App,USA,3.8,0
+10294,2026-04-17 18:12:36.756756758,2195,Laptop,Electronics,4,915.61,0.05,3479.33,Credit Card,Mobile App,USA,3.2,0
+10295,2026-04-18 02:57:17.837837838,2128,Webcam,Electronics,5,62.9,0.05,298.75,Credit Card,Website,USA,4.9,0
+10296,2026-04-18 11:41:58.918918920,2033,Phone,Electronics,2,546.19,0.0,1092.38,PayPal,Marketplace,UK,2.6,0
+10297,2026-04-18 20:26:40.000000000,2176,Laptop,Electronics,2,905.67,0.0,1811.35,PayPal,Marketplace,Australia,3.7,0
+10298,2026-04-19 05:11:21.081081082,2022,Tablet,Electronics,3,351.2,0.1,948.23,Credit Card,Website,USA,3.2,0
+10299,2026-04-19 13:56:02.162162162,2238,Webcam,Electronics,5,72.95,0.05,346.53,PayPal,Mobile App,UK,5.0,0
+10300,2026-04-19 22:40:43.243243244,2158,Webcam,Electronics,3,73.5,0.0,220.5,Mobile Payment,Marketplace,Canada,4.2,0
+10301,2026-04-20 07:25:24.324324324,2038,Laptop,Electronics,1,763.99,0.1,687.59,Credit Card,Marketplace,Thailand,3.3,0
+10302,2026-04-20 16:10:05.405405406,2230,Tablet,Electronics,5,387.42,0.05,1840.24,Mobile Payment,Mobile App,Thailand,3.6,0
+10303,2026-04-21 00:54:46.486486486,2051,Headphones,Electronics,1,97.33,0.1,87.6,Mobile Payment,Mobile App,India,5.0,0
+10304,2026-04-21 09:39:27.567567568,2264,Headphones,Electronics,3,89.97,0.05,256.42,PayPal,Website,Canada,3.1,0
+10305,2026-04-21 18:24:08.648648648,2283,Headphones,Electronics,5,76.83,0.15,326.51,Mobile Payment,Marketplace,UK,2.6,0
+10306,2026-04-22 03:08:49.729729730,2027,Phone,Electronics,3,468.99,0.15,1195.93,PayPal,Website,Canada,4.0,0
+10307,2026-04-22 11:53:30.810810812,2226,Headphones,Electronics,5,86.14,0.05,409.16,Debit Card,Mobile App,Thailand,4.0,0
+10308,2026-04-22 20:38:11.891891892,2277,Tablet,Electronics,3,428.59,0.05,1221.47,PayPal,Website,UK,4.3,0
+10309,2026-04-23 05:22:52.972972974,2286,Mouse,Electronics,2,32.15,0.05,61.09,Mobile Payment,Website,UK,4.3,0
+10310,2026-04-23 14:07:34.054054054,2097,Headphones,Electronics,3,93.63,0.15,238.75,Debit Card,Website,UK,5.0,1
+10311,2026-04-23 22:52:15.135135136,2284,Tablet,Electronics,2,348.32,0.05,661.8,PayPal,Marketplace,USA,2.6,0
+10312,2026-04-24 07:36:56.216216216,2317,Tablet,Electronics,3,359.67,0.0,1079.01,Mobile Payment,Website,Thailand,3.0,0
+10313,2026-04-24 16:21:37.297297298,2304,Headphones,Electronics,5,99.4,0.0,496.99,Credit Card,Mobile App,Thailand,4.3,1
+10314,2026-04-25 01:06:18.378378378,2147,Webcam,Electronics,5,74.81,0.05,355.33,Credit Card,Website,India,3.0,1
+10315,2026-04-25 09:50:59.459459460,2004,Headphones,Electronics,5,79.08,0.05,375.61,PayPal,Website,USA,2.8,0
+10316,2026-04-25 18:35:40.540540540,2035,Headphones,Electronics,4,88.07,0.15,299.45,PayPal,Website,USA,5.0,0
+10317,2026-04-26 03:20:21.621621622,2192,Webcam,Electronics,1,60.11,0.0,60.11,Credit Card,Mobile App,Thailand,2.7,0
+10318,2026-04-26 12:05:02.702702704,2049,Headphones,Electronics,5,89.48,0.05,425.05,Mobile Payment,Website,Thailand,3.6,1
+10319,2026-04-26 20:49:43.783783784,2017,Tablet,Electronics,2,398.52,0.15,677.48,Mobile Payment,Website,Canada,3.8,0
+10320,2026-04-27 05:34:24.864864866,2172,Mouse,Electronics,5,30.99,0.15,131.73,Mobile Payment,Website,UK,4.7,0
+10321,2026-04-27 14:19:05.945945946,2220,Tablet,Electronics,4,355.93,0.05,1352.54,PayPal,Website,UK,2.5,0
+10322,2026-04-27 23:03:47.027027028,2158,Tablet,Electronics,2,368.35,0.05,699.87,Debit Card,Marketplace,Thailand,4.1,0
+10323,2026-04-28 07:48:28.108108108,2046,Mouse,Electronics,4,39.41,0.05,149.74,Debit Card,Marketplace,Australia,3.2,0
+10324,2026-04-28 16:33:09.189189190,2006,Laptop,Electronics,2,975.78,0.2,1561.25,Debit Card,Website,Thailand,4.2,0
+10325,2026-04-29 01:17:50.270270270,2099,Phone,Electronics,3,474.91,0.0,1424.73,Debit Card,Mobile App,Thailand,3.2,0
+10326,2026-04-29 10:02:31.351351352,2233,Tablet,Electronics,1,409.75,0.2,327.8,Debit Card,Marketplace,USA,4.9,0
+10327,2026-04-29 18:47:12.432432432,2037,Mouse,electronics,1,33.65,,30.29,PayPal,Website,Thailand,3.2,0
+10328,2026-04-30 03:31:53.513513514,2280,Laptop,Electronics,4,822.58,0.1,2961.28,PayPal,Marketplace,Thailand,2.1,0
+10329,2026-04-30 12:16:34.594594594,2349,Laptop,Electronics,1,914.84,0.0,914.84,Debit Card,Marketplace,Canada,3.2,0
+10330,2026-04-30 21:01:15.675675676,2302,Laptop,Electronics,4,956.7,0.05,3635.46,PayPal,Website,Canada,3.6,0
+10331,2026-05-01 05:45:56.756756758,2181,Laptop,Electronics,4,964.99,0.05,3666.95,PayPal,Website,Australia,4.6,0
+10332,2026-05-01 14:30:37.837837838,2095,Laptop,Electronics,4,869.67,0.0,3478.67,Debit Card,Marketplace,USA,2.9,0
+10333,2026-05-01 23:15:18.918918920,2099,Tablet,Electronics,1,363.71,0.1,327.34,Mobile Payment,Mobile App,Thailand,2.9,0
+10334,2026-05-02 08:00:00.000000000,2188,Headphones,Electronics,4,97.76,0.2,312.84,PayPal,Website,Thailand,4.5,0
+10335,2026-05-02 16:44:41.081081082,2116,Phone,Electronics,1,508.92,0.1,458.02,Mobile Payment,Website,India,2.8,0
+10336,2026-05-03 01:29:22.162162162,2191,Tablet,Electronics,4,387.3,0.1,1394.3,PayPal,Website,UK,3.7,0
+10337,2026-05-03 10:14:03.243243244,2253,Laptop,Electronics,5,813.94,0.0,4069.69,PayPal,Mobile App,Canada,3.7,0
+10338,2026-05-03 18:58:44.324324324,2161,Phone,Electronics,4,575.84,0.05,2188.21,Debit Card,Mobile App,Thailand,4.0,0
+10339,2026-05-04 03:43:25.405405406,2256,Headphones,Electronics,2,82.99,0.0,165.98,PayPal,Marketplace,UK,3.3,0
+10340,2026-05-04 12:28:06.486486486,2323,Webcam,Electronics,4,63.52,0.1,228.68,Credit Card,Website,Thailand,3.2,0
+10341,2026-05-04 21:12:47.567567568,2128,Laptop,Electronics,3,956.65,0.2,2295.96,Credit Card,Mobile App,UK,4.0,0
+10342,2026-05-05 05:57:28.648648648,2018,Tablet,Electronics,4,334.61,0.1,1204.58,Debit Card,Mobile App,India,3.2,0
+10343,2026-05-05 14:42:09.729729730,2281,Phone,Electronics,2,550.98,0.0,1101.97,Mobile Payment,Website,India,2.8,0
+10344,2026-05-05 23:26:50.810810812,2223,Mouse,Electronics,2,32.07,0.05,60.93,Mobile Payment,Website,UK,4.7,0
+10345,2026-05-06 08:11:31.891891892,2054,Webcam,Electronics,1,60.32,0.1,54.29,Mobile Payment,Marketplace,USA,4.1,0
+10346,2026-05-06 16:56:12.972972974,2058,Headphones,Electronics,5,77.47,0.05,367.99,Credit Card,Marketplace,India,5.0,0
+10347,2026-05-07 01:40:54.054054054,2323,Phone,Electronics,4,496.41,0.15,1687.8,Mobile Payment,Mobile App,Canada,4.3,0
+10348,2026-05-07 10:25:35.135135136,2174,Mouse,Electronics,1,38.85,0.15,33.02,Mobile Payment,Mobile App,Thailand,2.9,0
+10349,2026-05-07 19:10:16.216216216,2280,Laptop,Electronics,5,794.53,0.1,3575.39,Debit Card,Website,USA,3.9,0
+10350,2026-05-08 03:54:57.297297298,2114,Laptop,Electronics,4,964.87,0.05,3666.49,Mobile Payment,Mobile App,Thailand,3.1,0
+10351,2026-05-08 12:39:38.378378378,2288,Tablet,Electronics,3,389.3,0.05,1109.52,Credit Card,Mobile App,USA,2.6,0
+10352,2026-05-08 21:24:19.459459460,2342,Laptop,Electronics,4,833.84,0.0,3335.35,Credit Card,Mobile App,USA,3.5,0
+10353,2026-05-09 06:09:00.540540540,2151,Mouse,Electronics,2,35.84,0.05,68.1,Credit Card,Marketplace,UK,4.5,0
+10354,2026-05-09 14:53:41.621621622,2127,Webcam,Electronics,2,70.35,0.05,133.67,Debit Card,Mobile App,USA,4.0,0
+10355,2026-05-09 23:38:22.702702704,2155,Phone,Electronics,3,592.7,0.1,1600.28,Debit Card,Website,Thailand,2.8,0
+10356,2026-05-10 08:23:03.783783784,2273,Headphones,Electronics,1,84.13,0.1,75.71,PayPal,Mobile App,UK,3.5,0
+10357,2026-05-10 17:07:44.864864866,2104,Mouse,Electronics,5,33.46,0.0,167.29,Mobile Payment,Website,Australia,3.7,0
+10358,2026-05-11 01:52:25.945945946,2299,Mouse,Electronics,4,39.14,0.05,148.72,Debit Card,Website,Canada,2.6,0
+10359,2026-05-11 10:37:07.027027028,2246,Headphones,Electronics,2,102.05,0.0,204.11,Credit Card,Website,USA,4.3,0
+10360,2026-05-11 19:21:48.108108108,2176,Mouse,Electronics,1,39.12,0.0,39.12,Credit Card,Website,India,3.6,0
+10361,2026-05-12 04:06:29.189189190,2039,Mouse,Electronics,3,34.15,0.15,87.09,Debit Card,Mobile App,Germany,2.8,0
+10362,2026-05-12 12:51:10.270270270,2170,Webcam,Electronics,2,75.89,0.0,151.78,Debit Card,Mobile App,Thailand,2.8,0
+10363,2026-05-12 21:35:51.351351352,2247,Laptop,Electronics,3,843.97,0.05,2405.3,Debit Card,Mobile App,Thailand,4.6,0
+10364,2026-05-13 06:20:32.432432432,2026,Tablet,Electronics,4,379.72,0.0,1518.88,PayPal,Mobile App,Australia,3.5,0
+10365,2026-05-13 15:05:13.513513514,2306,Mouse,Electronics,5,31.9,0.15,135.57,Credit Card,Website,Australia,4.6,0
+10366,2026-05-13 23:49:54.594594594,2013,Phone,Electronics,2,565.04,0.1,1017.07,PayPal,Marketplace,India,4.9,0
+10367,2026-05-14 08:34:35.675675676,2316,Mouse,Electronics,2,31.7,0.0,63.41,PayPal,Website,Germany,4.5,0
+10368,2026-05-14 17:19:16.756756758,2313,Laptop,Electronics,4,807.05,0.1,2905.38,Mobile Payment,Website,UK,3.4,1
+10369,2026-05-15 02:03:57.837837838,2036,Laptop,Electronics,1,940.53,0.1,846.48,Credit Card,Mobile App,UK,2.1,0
+10370,2026-05-15 10:48:38.918918920,2173,Tablet,Electronics,5,346.61,0.2,1386.43,Credit Card,Website,Thailand,4.0,0
+10371,2026-05-15 19:33:20.000000000,2020,Laptop,Electronics,2,740.65,0.0,1481.29,Debit Card,Website,Thailand,5.0,0
+10372,2026-05-16 04:18:01.081081082,2321,Mouse,Electronics,5,30.47,0.15,129.52,Debit Card,Mobile App,USA,3.8,0
+10373,2026-05-16 13:02:42.162162162,2264,Mouse,Electronics,2,39.63,0.2,63.41,Mobile Payment,Mobile App,Canada,2.4,0
+10374,2026-05-16 21:47:23.243243244,2142,Webcam,Electronics,5,70.15,0.2,280.58,PayPal,Website,UK,3.3,0
+10375,2026-05-17 06:32:04.324324324,2143,Headphones,Electronics,3,87.55,0.1,236.4,Debit Card,Marketplace,Australia,3.7,0
+10376,2026-05-17 15:16:45.405405406,2092,Phone,Electronics,2,601.29,0.1,1082.33,Debit Card,Mobile App,Thailand,3.0,0
+10377,2026-05-18 00:01:26.486486486,2322,Tablet,Electronics,5,418.28,0.05,1986.85,Credit Card,Marketplace,UK,2.0,0
+10378,2026-05-18 08:46:07.567567568,2288,Headphones,Electronics,1,85.47,0.15,72.65,Credit Card,Website,Thailand,3.7,0
+10379,2026-05-18 17:30:48.648648650,2215,Headphones,Electronics,3,95.23,0.1,257.11,Debit Card,Mobile App,USA,3.3,0
+10380,2026-05-19 02:15:29.729729730,2342,Phone,Electronics,3,594.74,0.1,1605.79,Credit Card,Marketplace,Australia,5.0,0
+10381,2026-05-19 11:00:10.810810812,2051,Tablet,Electronics,1,397.63,0.05,377.75,Mobile Payment,Mobile App,Canada,3.9,0
+10382,2026-05-19 19:44:51.891891892,2153,Tablet,Electronics,5,340.28,0.1,1531.27,Debit Card,Mobile App,India,4.1,0
+10383,2026-05-20 04:29:32.972972974,2186,Mouse,Electronics,4,38.95,0.15,132.42,Credit Card,Website,Thailand,3.7,0
+10384,2026-05-20 13:14:14.054054054,2063,Mouse,Electronics,1,35.41,0.0,35.41,Mobile Payment,Website,UK,3.9,0
+10385,2026-05-20 21:58:55.135135136,2190,Tablet,Electronics,5,355.2,0.15,1509.61,Credit Card,Mobile App,USA,2.6,0
+10386,2026-05-21 06:43:36.216216216,2125,Headphones,Electronics,1,87.98,0.1,79.18,Credit Card,Website,USA,3.1,0
+10387,2026-05-21 15:28:17.297297298,2150,Webcam,Electronics,1,60.29,0.15,51.25,Credit Card,Marketplace,Germany,4.6,0
+10388,2026-05-22 00:12:58.378378378,2314,Laptop,Electronics,2,755.11,0.05,1434.7,Debit Card,Website,Canada,3.9,0
+10389,2026-05-22 08:57:39.459459460,2058,Mouse,Electronics,5,37.79,0.05,179.49,PayPal,Marketplace,Germany,3.5,0
+10390,2026-05-22 17:42:20.540540540,2342,Mouse,Electronics,4,29.75,0.2,95.2,Credit Card,Marketplace,Thailand,4.1,0
+10391,2026-05-23 02:27:01.621621622,2305,Tablet,Electronics,2,370.49,0.05,703.93,Mobile Payment,Website,Germany,4.2,0
+10392,2026-05-23 11:11:42.702702704,2180,Tablet,Electronics,1,382.57,0.15,325.18,Debit Card,Website,Thailand,5.0,0
+10393,2026-05-23 19:56:23.783783784,2170,Phone,Electronics,1,476.51,0.05,452.69,Debit Card,Marketplace,Germany,3.9,0
+10394,2026-05-24 04:41:04.864864866,2326,Tablet,Electronics,1,433.93,0.1,390.54,Mobile Payment,Marketplace,USA,3.1,1
+10395,2026-05-24 13:25:45.945945946,2271,Laptop,Electronics,5,780.16,0.05,3705.77,Credit Card,Website,USA,3.7,0
+10396,2026-05-24 22:10:27.027027028,2054,Mouse,Electronics,5,32.94,0.1,148.25,PayPal,Website,UK,4.2,0
+10397,2026-05-25 06:55:08.108108108,2101,Laptop,Electronics,2,800.01,0.05,1520.01,Credit Card,Mobile App,India,4.5,0
+10398,2026-05-25 15:39:49.189189190,2264,Phone,Electronics,4,505.52,0.0,2022.07,Mobile Payment,Mobile App,Thailand,2.7,0
+10399,2026-05-26 00:24:30.270270270,2053,Mouse,Electronics,2,29.77,0.05,56.55,Debit Card,Website,USA,4.0,0
+10400,2026-05-26 09:09:11.351351352,2060,Webcam,Electronics,3,74.82,0.0,224.45,PayPal,Mobile App,Germany,3.2,0
+10401,2026-05-26 17:53:52.432432432,2108,Phone,Electronics,1,627.03,0.2,501.62,Debit Card,Website,USA,3.4,0
+10402,2026-05-27 02:38:33.513513514,2005,Phone,Electronics,1,504.51,0.2,403.61,Mobile Payment,Website,Thailand,4.4,0
+10403,2026-05-27 11:23:14.594594594,2103,Laptop,Electronics,1,891.58,0.05,847.0,Credit Card,Website,USA,4.3,0
+10404,2026-05-27 20:07:55.675675676,2196,Headphones,Electronics,2,96.53,0.1,173.76,PayPal,Website,USA,3.3,0
+10405,2026-05-28 04:52:36.756756758,2262,Laptop,Electronics,2,938.85,0.05,1783.81,Debit Card,Website,Germany,3.7,0
+10406,2026-05-28 13:37:17.837837838,2350,Headphones,Electronics,1,87.91,0.1,79.12,Debit Card,Mobile App,Australia,3.4,0
+10407,2026-05-28 22:21:58.918918920,2047,Mouse,Electronics,2,32.93,0.15,55.98,Debit Card,Website,UK,5.0,0
+10408,2026-05-29 07:06:40.000000000,2311,Laptop,Electronics,5,805.45,0.2,3221.8,Credit Card,Website,India,4.0,0
+10409,2026-05-29 15:51:21.081081082,2308,Mouse,Electronics,5,37.23,0.05,176.85,PayPal,Website,USA,3.2,0
+10410,2026-05-30 00:36:02.162162162,2144,Mouse,Electronics,2,38.33,0.15,65.15,Credit Card,Marketplace,Thailand,4.7,0
+10411,2026-05-30 09:20:43.243243244,2269,Laptop,Electronics,1,768.81,0.05,730.37,Credit Card,Website,Thailand,4.8,0
+10412,2026-05-30 18:05:24.324324324,2124,Mouse,Electronics,2,33.64,0.2,53.83,Credit Card,website,USA,5.0,0
+10413,2026-05-31 02:50:05.405405406,2106,Tablet,Electronics,2,425.82,0.0,851.64,Mobile Payment,Mobile App,Thailand,5.0,0
+10414,2026-05-31 11:34:46.486486486,2158,Mouse,Electronics,2,38.22,0.1,68.8,Mobile Payment,Marketplace,India,4.3,0
+10415,2026-05-31 20:19:27.567567568,2147,Headphones,Electronics,3,103.09,0.1,278.35,Mobile Payment,Website,Australia,3.6,0
+10416,2026-06-01 05:04:08.648648650,2145,Headphones,Electronics,5,96.86,0.1,435.89,PayPal,Mobile App,Thailand,3.7,0
+10417,2026-06-01 13:48:49.729729730,2120,Headphones,Electronics,4,87.12,0.0,348.47,Credit Card,Mobile App,UK,3.6,0
+10418,2026-06-01 22:33:30.810810812,2319,Mouse,Electronics,4,35.95,0.2,115.05,Credit Card,Mobile App,Canada,3.5,0
+10419,2026-06-02 07:18:11.891891892,2275,Webcam,Electronics,3,73.38,0.0,220.14,Mobile Payment,Website,India,4.7,0
+10420,2026-06-02 16:02:52.972972974,2092,Headphones,Electronics,2,78.62,0.1,141.51,Credit Card,Mobile App,Germany,3.8,0
+10421,2026-06-03 00:47:34.054054054,2058,Mouse,Electronics,3,35.47,0.0,106.4,Credit Card,Website,UK,4.5,0
+10422,2026-06-03 09:32:15.135135136,2346,Phone,Electronics,3,584.54,0.05,1665.93,Debit Card,Mobile App,Australia,4.3,0
+10423,2026-06-03 18:16:56.216216216,2229,Laptop,Electronics,1,765.17,0.1,688.65,Credit Card,Mobile App,UK,3.0,0
+10424,2026-06-04 03:01:37.297297298,2117,Phone,Electronics,5,596.3,0.05,2832.45,Debit Card,Website,UK,2.6,0
+10425,2026-06-04 11:46:18.378378378,2318,Phone,Electronics,4,563.82,0.0,2255.29,Credit Card,Marketplace,Thailand,2.9,0
+10426,2026-06-04 20:30:59.459459460,2279,Phone,Electronics,2,624.62,0.0,1249.23,PayPal,Website,Thailand,3.5,0
+10427,2026-06-05 05:15:40.540540540,2127,Mouse,Electronics,4,30.2,0.05,114.74,Mobile Payment,Marketplace,UK,3.9,0
+10428,2026-06-05 14:00:21.621621622,2129,Laptop,Electronics,4,790.16,0.15,2686.54,Debit Card,Mobile App,Thailand,3.3,0
+10429,2026-06-05 22:45:02.702702704,2058,Headphones,Electronics,5,92.74,0.15,394.15,Mobile Payment,Website,Thailand,4.3,0
+10430,2026-06-06 07:29:43.783783784,2122,Phone,Electronics,4,516.43,0.0,2065.73,Debit Card,Website,Canada,3.4,0
+10431,2026-06-06 16:14:24.864864866,2001,Mouse,Electronics,4,37.25,0.05,141.56,Debit Card,Marketplace,Thailand,4.0,0
+10432,2026-06-07 00:59:05.945945946,2239,Mouse,Electronics,3,37.72,0.0,113.16,Debit Card,Website,UK,3.9,0
+10433,2026-06-07 09:43:47.027027028,2290,Tablet,Electronics,5,334.69,0.0,1673.43,PayPal,Website,UK,5.0,1
+10434,2026-06-07 18:28:28.108108108,2096,Mouse,Electronics,1,35.15,0.1,31.63,Credit Card,Website,India,3.1,0
+10435,2026-06-08 03:13:09.189189190,2126,Laptop,Electronics,2,852.27,0.1,1534.08,Debit Card,Mobile App,UK,5.0,0
+10436,2026-06-08 11:57:50.270270270,2118,Webcam,Electronics,4,67.25,0.0,269.02,PayPal,Mobile App,Thailand,3.4,0
+10437,2026-06-08 20:42:31.351351352,2048,Phone,Electronics,2,621.43,0.0,1242.87,Debit Card,Website,UK,2.9,0
+10438,2026-06-09 05:27:12.432432432,2089,Mouse,Electronics,1,38.44,0.0,38.44,Credit Card,Website,Germany,3.6,0
+10439,2026-06-09 14:11:53.513513514,2237,Laptop,Electronics,2,900.29,0.15,1530.49,Debit Card,Website,India,5.0,0
+10440,2026-06-09 22:56:34.594594596,2272,Headphones,Electronics,1,95.79,0.2,76.63,PayPal,Website,USA,4.4,0
+10441,2026-06-10 07:41:15.675675676,2189,Webcam,Electronics,3,69.2,0.0,207.59,Credit Card,Website,USA,4.2,0
+10442,2026-06-10 16:25:56.756756758,2192,Phone,Electronics,4,619.46,0.0,2477.86,PayPal,Mobile App,Germany,4.4,0
+10443,2026-06-11 01:10:37.837837838,2069,Phone,Electronics,1,582.11,0.15,494.79,Credit Card,Website,Thailand,3.3,0
+10444,2026-06-11 09:55:18.918918920,2278,Laptop,Electronics,2,908.39,0.2,1453.42,Credit Card,Website,UK,4.0,0
+10445,2026-06-11 18:40:00.000000000,2349,Phone,Electronics,4,609.68,0.05,2316.78,Mobile Payment,Website,USA,3.8,0
+10446,2026-06-12 03:24:41.081081082,2247,Headphones,Electronics,3,83.9,0.0,251.7,Mobile Payment,Marketplace,Thailand,5.0,0
+10447,2026-06-12 12:09:22.162162162,2076,Laptop,Electronics,4,928.3,0.0,3713.21,Mobile Payment,Marketplace,USA,3.7,0
+10448,2026-06-12 20:54:03.243243244,2154,Phone,Electronics,1,499.71,0.1,449.74,Credit Card,Marketplace,Thailand,3.5,0
+10449,2026-06-13 05:38:44.324324324,2144,Laptop,Electronics,3,810.56,0.05,2310.1,Debit Card,Website,Canada,3.0,0
+10450,2026-06-13 14:23:25.405405406,2086,Webcam,Electronics,2,66.55,0.0,133.1,PayPal,Website,India,3.9,0
+10451,2026-06-13 23:08:06.486486486,2185,Laptop,Electronics,3,972.02,0.1,2624.46,PayPal,Website,Thailand,4.0,0
+10452,2026-06-14 07:52:47.567567568,2285,Phone,Electronics,3,608.83,0.0,1826.49,PayPal,Website,Australia,3.0,1
+10453,2026-06-14 16:37:28.648648650,2220,Laptop,Electronics,5,-901.3,0.15,3830.52,Mobile Payment,Mobile App,Thailand,4.1,0
+10454,2026-06-15 01:22:09.729729730,2069,Tablet,Electronics,3,405.88,0.05,1156.77,Credit Card,Mobile App,UK,4.0,0
+10455,2026-06-15 10:06:50.810810812,2047,Mouse,Electronics,3,35.65,0.0,106.96,Mobile Payment,Marketplace,Thailand,4.5,0
+10456,2026-06-15 18:51:31.891891892,2094,Tablet,Electronics,4,430.97,0.1,1551.49,Debit Card,Marketplace,India,4.6,0
+10457,2026-06-16 03:36:12.972972974,2238,Phone,Electronics,2,549.38,0.05,1043.83,Credit Card,Website,Australia,3.9,0
+10458,2026-06-16 12:20:54.054054054,2204,Webcam,Electronics,4,67.49,0.2,215.97,PayPal,Mobile App,Canada,3.1,0
+10459,2026-06-16 21:05:35.135135136,2218,Webcam,Electronics,4,62.92,0.1,226.53,Mobile Payment,Website,Australia,3.2,0
+10460,2026-06-17 05:50:16.216216216,2341,Phone,Electronics,1,597.22,0.05,567.36,Mobile Payment,Website,Canada,5.0,0
+10461,2026-06-17 14:34:57.297297298,2039,Webcam,Electronics,4,74.92,0.1,269.72,Debit Card,Mobile App,India,3.9,0
+10462,2026-06-17 23:19:38.378378378,2100,Mouse,Electronics,5,33.79,0.05,160.48,Debit Card,Website,Canada,5.0,0
+10463,2026-06-18 08:04:19.459459460,2289,Phone,Electronics,5,471.66,0.2,1886.63,Mobile Payment,Website,India,4.1,0
+10464,2026-06-18 16:49:00.540540540,2254,Webcam,Electronics,1,77.12,0.05,73.26,Debit Card,Website,UK,4.3,0
+10465,2026-06-19 01:33:41.621621622,2222,Webcam,Electronics,2,59.74,0.1,107.53,PayPal,Mobile App,Thailand,4.5,0
+10466,2026-06-19 10:18:22.702702704,2023,Tablet,Electronics,2,403.22,0.0,806.44,Debit Card,Mobile App,UK,2.9,0
+10467,2026-06-19 19:03:03.783783784,2250,Laptop,Electronics,4,969.92,0.05,3685.68,Debit Card,Website,Thailand,4.0,0
+10468,2026-06-20 03:47:44.864864866,2010,Laptop,Electronics,4,834.1,0.15,2835.95,Mobile Payment,Marketplace,UK,2.9,0
+10469,2026-06-20 12:32:25.945945946,2246,Mouse,Electronics,4,32.22,0.15,109.54,Mobile Payment,Website,UK,3.6,0
+10470,2026-06-20 21:17:07.027027028,2325,Mouse,Electronics,2,37.15,0.0,74.3,Credit Card,Website,Canada,4.2,0
+10471,2026-06-21 06:01:48.108108108,2100,Headphones,Electronics,3,98.56,0.0,295.69,Credit Card,Mobile App,Thailand,3.1,0
+10472,2026-06-21 14:46:29.189189190,2290,Tablet,Electronics,5,385.29,0.15,1637.5,Mobile Payment,Mobile App,Thailand,4.2,1
+10473,2026-06-21 23:31:10.270270270,2180,Headphones,Electronics,3,102.61,0.2,246.26,Debit Card,Marketplace,UK,2.8,0
+10474,2026-06-22 08:15:51.351351352,2223,Headphones,Electronics,3,77.9,0.0,233.69,Debit Card,Website,India,4.6,1
+10475,2026-06-22 17:00:32.432432432,2250,Tablet,Electronics,2,380.55,0.05,723.04,Credit Card,Mobile App,USA,3.3,0
+10476,2026-06-23 01:45:13.513513514,2147,Laptop,Electronics,3,905.71,0.05,2581.26,Credit Card,Mobile App,USA,3.1,0
+10477,2026-06-23 10:29:54.594594596,2096,Mouse,Electronics,1,38.81,0.15,32.99,Credit Card,Marketplace,Canada,2.8,0
+10478,2026-06-23 19:14:35.675675676,2257,Phone,Electronics,4,497.08,0.0,1988.31,PayPal,Website,UK,3.4,0
+10479,2026-06-24 03:59:16.756756758,2325,Webcam,Electronics,1,76.3,0.0,76.3,PayPal,Mobile App,Thailand,2.5,0
+10480,2026-06-24 12:43:57.837837838,2004,Phone,Electronics,5,558.7,0.15,2374.46,Credit Card,Mobile App,USA,3.4,0
+10481,2026-06-24 21:28:38.918918920,2016,Laptop,Electronics,4,823.62,0.0,3294.48,Debit Card,Website,Thailand,4.6,0
+10482,2026-06-25 06:13:20.000000000,2280,Laptop,Electronics,3,756.09,0.05,2154.85,Credit Card,Mobile App,India,3.7,0
+10483,2026-06-25 14:58:01.081081082,2336,Tablet,Electronics,5,421.64,0.05,2002.81,PayPal,Website,Thailand,3.0,0
+10484,2026-06-25 23:42:42.162162162,2247,Mouse,Electronics,4,31.4,0.05,119.33,Debit Card,Mobile App,USA,4.0,0
+10485,2026-06-26 08:27:23.243243244,2258,Laptop,Electronics,3,801.5,0.05,2284.26,PayPal,Marketplace,Thailand,3.9,0
+10486,2026-06-26 17:12:04.324324324,2160,Mouse,Electronics,1,32.8,0.1,29.52,Debit Card,Mobile App,Thailand,5.0,0
+10487,2026-06-27 01:56:45.405405406,2340,Headphones,Electronics,4,100.03,0.0,400.11,PayPal,Mobile App,Australia,4.4,0
+10488,2026-06-27 10:41:26.486486486,2152,Mouse,Electronics,3,36.81,0.1,99.4,Debit Card,Mobile App,Thailand,4.0,0
+10489,2026-06-27 19:26:07.567567568,2178,Phone,Electronics,1,598.95,0.15,509.11,Debit Card,Website,Thailand,4.4,0
+10490,2026-06-28 04:10:48.648648650,2163,Mouse,Electronics,5,32.38,0.15,137.61,Debit Card,Website,USA,3.7,0
+10491,2026-06-28 12:55:29.729729730,2033,Webcam,Electronics,5,72.62,0.0,363.11,Debit Card,Mobile App,Thailand,3.7,0
+10492,2026-06-28 21:40:10.810810812,2179,Phone,Electronics,5,561.84,0.0,2809.19,Mobile Payment,Website,Thailand,5.0,0
+10493,2026-06-29 06:24:51.891891892,2101,Laptop,Electronics,5,934.87,0.05,4440.64,PayPal,Website,Australia,2.7,0
+10494,2026-06-29 15:09:32.972972974,2268,Mouse,Electronics,2,39.26,0.05,74.6,PayPal,Mobile App,Australia,4.5,0
+10495,2026-06-29 23:54:14.054054054,2323,Mouse,Electronics,4,29.88,0.05,113.54,Mobile Payment,Website,Germany,3.7,0
+10496,2026-06-30 08:38:55.135135136,2065,Laptop,Electronics,4,894.38,0.1,3219.75,Debit Card,Website,Germany,3.6,0
+10497,2026-06-30 17:23:36.216216216,2168,Webcam,Electronics,2,60.59,0.0,121.18,Debit Card,Mobile App,Canada,3.4,0
+10498,2026-07-01 02:08:17.297297298,2330,Mouse,Electronics,3,35.51,0.0,106.54,PayPal,Website,Thailand,3.9,0
+10499,2026-07-01 10:52:58.378378378,2043,Mouse,Electronics,3,32.77,0.05,93.39,Mobile Payment,Marketplace,Australia,3.8,0
+10500,2026-07-01 19:37:39.459459460,2044,Mouse,Electronics,5,32.97,0.1,148.37,Debit Card,Marketplace,Germany,3.5,0
+10501,2026-07-02 04:22:20.540540542,2285,Webcam,Electronics,1,66.91,0.0,66.91,Debit Card,Mobile App,Australia,3.3,1
+10502,2026-07-02 13:07:01.621621622,2012,Tablet,Electronics,3,393.83,0.1,1063.33,Debit Card,Website,UK,2.5,0
+10503,2026-07-02 21:51:42.702702704,2095,Phone,Electronics,1,522.62,0.05,496.49,Credit Card,Mobile App,Thailand,3.3,0
+10504,2026-07-03 06:36:23.783783784,2302,Phone,Electronics,4,588.4,0.15,2000.54,Mobile Payment,Marketplace,Germany,3.4,0
+10505,2026-07-03 15:21:04.864864866,2253,Webcam,Electronics,1,68.0,0.15,57.8,Debit Card,Mobile App,Canada,3.9,0
+10506,2026-07-04 00:05:45.945945946,2242,Webcam,Electronics,4,60.94,0.05,231.55,Credit Card,Website,India,5.0,0
+10507,2026-07-04 08:50:27.027027028,2035,Phone,Electronics,2,596.82,0.0,1193.64,Mobile Payment,Mobile App,Thailand,3.4,0
+10508,2026-07-04 17:35:08.108108108,2215,Mouse,Electronics,2,32.75,0.05,62.23,Debit Card,Marketplace,Thailand,3.1,0
+10509,2026-07-05 02:19:49.189189190,2337,Webcam,Electronics,5,68.59,0.0,342.94,PayPal,Mobile App,Thailand,3.3,0
+10510,2026-07-05 11:04:30.270270270,2090,Headphones,Electronics,3,95.01,0.1,256.52,Credit Card,Mobile App,Australia,3.9,0
+10511,2026-07-05 19:49:11.351351352,2264,Tablet,Electronics,5,360.9,0.15,1533.83,Credit Card,Mobile App,Thailand,4.2,0
+10512,2026-07-06 04:33:52.432432432,2093,Headphones,Electronics,4,78.03,0.1,280.9,Debit Card,Mobile App,Thailand,4.3,0
+10513,2026-07-06 13:18:33.513513514,2090,Laptop,Electronics,5,817.85,0.15,3475.86,Debit Card,Website,India,4.4,0
+10514,2026-07-06 22:03:14.594594596,2115,Phone,Electronics,1,623.33,0.05,592.17,Credit Card,Mobile App,Thailand,4.5,0
+10515,2026-07-07 06:47:55.675675676,2105,Laptop,Electronics,4,886.14,0.0,3544.57,PayPal,Website,Australia,3.6,0
+10516,2026-07-07 15:32:36.756756758,2196,Laptop,Electronics,2,893.73,0.1,1608.71,PayPal,Website,USA,5.0,0
+10517,2026-07-08 00:17:17.837837838,2314,Tablet,Electronics,3,395.08,0.05,1125.98,Mobile Payment,Website,,3.6,0
+10518,2026-07-08 09:01:58.918918920,2114,Headphones,Electronics,4,81.87,0.1,294.74,Debit Card,Mobile App,UK,3.9,0
+10519,2026-07-08 17:46:40.000000000,2075,Laptop,Electronics,4,829.18,0.05,3150.87,PayPal,Website,Germany,4.7,1
+10520,2026-07-09 02:31:21.081081082,2217,Webcam,Electronics,1,75.27,0.0,75.27,Mobile Payment,Mobile App,India,4.2,0
+10521,2026-07-09 11:16:02.162162162,2277,Phone,Electronics,3,484.23,0.2,1162.14,PayPal,Mobile App,Thailand,2.2,0
+10522,2026-07-09 20:00:43.243243244,2249,Mouse,Electronics,2,32.67,0.0,65.33,Debit Card,Website,Thailand,3.8,0
+10523,2026-07-10 04:45:24.324324324,2164,Mouse,Electronics,4,32.65,0.2,104.48,Mobile Payment,Website,Thailand,4.4,0
+10524,2026-07-10 13:30:05.405405406,2192,Phone,Electronics,4,538.78,0.2,1724.11,Mobile Payment,Website,Canada,2.9,0
+10525,2026-07-10 22:14:46.486486486,2227,Tablet,Electronics,1,434.76,0.15,369.55,Mobile Payment,Marketplace,Germany,4.3,0
+10526,2026-07-11 06:59:27.567567568,2177,Laptop,Electronics,5,739.71,0.1,3328.71,PayPal,Mobile App,USA,4.1,0
+10527,2026-07-11 15:44:08.648648650,2099,Headphones,Electronics,2,90.5,0.1,162.91,Debit Card,Mobile App,UK,4.6,0
+10528,2026-07-12 00:28:49.729729730,2036,Headphones,Electronics,3,81.34,0.15,207.42,Mobile Payment,Website,Thailand,3.3,0
+10529,2026-07-12 09:13:30.810810812,2096,Phone,Electronics,4,627.66,0.05,2385.11,Credit Card,Mobile App,Australia,4.5,0
+10530,2026-07-12 17:58:11.891891892,2152,Headphones,Electronics,4,79.56,0.05,302.32,Debit Card,Marketplace,India,3.9,0
+10531,2026-07-13 02:42:52.972972974,2151,Phone,Electronics,2,534.09,0.1,961.37,Credit Card,Marketplace,Thailand,5.0,0
+10532,2026-07-13 11:27:34.054054054,2190,Phone,Electronics,5,589.25,0.05,2798.94,Credit Card,Mobile App,UK,5.0,1
+10533,2026-07-13 20:12:15.135135136,2224,Headphones,Electronics,4,95.52,0.05,362.99,Mobile Payment,Website,Thailand,4.9,0
+10534,2026-07-14 04:56:56.216216216,2037,Phone,Electronics,2,537.25,0.05,1020.78,Mobile Payment,Website,UK,4.1,0
+10535,2026-07-14 13:41:37.297297298,2268,Headphones,Electronics,1,85.86,0.1,77.27,PayPal,Website,UK,5.0,0
+10536,2026-07-14 22:26:18.378378378,2183,Tablet,Electronics,5,368.33,0.15,1565.39,PayPal,Website,Thailand,4.2,0
+10537,2026-07-15 07:10:59.459459460,2013,Mouse,Electronics,3,32.52,0.0,97.57,PayPal,Website,USA,3.2,0
+10538,2026-07-15 15:55:40.540540542,2279,Laptop,Electronics,4,774.86,0.2,2479.55,Debit Card,Website,USA,3.8,0
+10539,2026-07-16 00:40:21.621621622,2217,Tablet,Electronics,2,378.07,0.1,680.52,PayPal,Website,UK,4.3,0
+10540,2026-07-16 09:25:02.702702704,2286,Headphones,Electronics,1,83.75,0.15,71.19,Credit Card,Marketplace,UK,4.4,0
+10541,2026-07-16 18:09:43.783783784,2273,Tablet,Electronics,3,355.77,0.1,960.58,PayPal,Mobile App,Thailand,3.0,0
+10542,2026-07-17 02:54:24.864864866,2062,Mouse,Electronics,2,36.65,0.15,62.3,Mobile Payment,Marketplace,Australia,3.0,0
+10543,2026-07-17 11:39:05.945945946,2084,Webcam,Electronics,2,79.84,0.0,159.68,PayPal,Mobile App,Canada,3.6,0
+10544,2026-07-17 20:23:47.027027028,2217,Headphones,Electronics,3,92.8,0.15,236.64,Debit Card,Website,USA,4.2,0
+10545,2026-07-18 05:08:28.108108108,2342,Webcam,Electronics,1,61.12,0.0,61.12,Debit Card,Mobile App,Thailand,4.3,0
+10546,2026-07-18 13:53:09.189189190,2187,Mouse,Electronics,1,30.54,0.15,25.96,Credit Card,Website,Australia,3.9,0
+10547,2026-07-18 22:37:50.270270270,2019,Mouse,Electronics,5,39.74,0.2,158.96,Debit Card,Mobile App,India,3.2,0
+10548,2026-07-19 07:22:31.351351352,2177,Webcam,Electronics,4,65.74,0.05,249.82,PayPal,Website,Thailand,5.0,0
+10549,2026-07-19 16:07:12.432432432,2100,Webcam,Electronics,3,61.43,0.0,184.3,Mobile Payment,Marketplace,USA,3.0,0
+10550,2026-07-20 00:51:53.513513514,2233,Laptop,Electronics,3,875.26,0.15,2231.9,Debit Card,Website,Thailand,4.7,0
+10551,2026-07-20 09:36:34.594594596,2076,Laptop,Electronics,3,881.53,0.05,2512.36,Credit Card,Website,UK,4.3,0
+10552,2026-07-20 18:21:15.675675676,2265,Headphones,Electronics,1,94.01,0.15,79.91,PayPal,Marketplace,Thailand,4.7,0
+10553,2026-07-21 03:05:56.756756758,2284,Laptop,Electronics,4,790.69,0.0,3162.75,Credit Card,Website,USA,3.5,0
+10554,2026-07-21 11:50:37.837837838,2206,Tablet,Electronics,5,324.72,0.0,1623.61,Debit Card,Mobile App,Canada,3.7,0
+10555,2026-07-21 20:35:18.918918920,2223,Phone,Electronics,2,626.73,0.2,1002.76,Debit Card,Mobile App,UK,3.8,0
+10556,2026-07-22 05:20:00.000000000,2052,Phone,Electronics,2,508.9,0.1,916.02,Credit Card,Marketplace,USA,3.5,0
+10557,2026-07-22 14:04:41.081081082,2339,Webcam,Electronics,3,73.7,0.15,187.93,PayPal,Marketplace,USA,4.0,0
+10558,2026-07-22 22:49:22.162162162,2144,Mouse,Electronics,4,37.17,0.05,141.24,Debit Card,Marketplace,UK,4.9,0
+10559,2026-07-23 07:34:03.243243244,2069,Laptop,Electronics,1,878.05,0.1,790.25,Mobile Payment,Website,Thailand,2.9,0
+10560,2026-07-23 16:18:44.324324324,2099,Headphones,Electronics,4,84.95,0.1,305.81,Debit Card,Marketplace,Thailand,3.3,0
+10561,2026-07-24 01:03:25.405405406,2025,Mouse,Electronics,4,32.6,0.1,117.35,PayPal,Mobile App,Germany,3.3,0
+10562,2026-07-24 09:48:06.486486488,2053,Laptop,Electronics,1,874.91,0.1,787.41,Debit Card,Mobile App,Thailand,3.7,0
+10563,2026-07-24 18:32:47.567567568,2151,Mouse,Electronics,3,38.84,0.1,104.88,Credit Card,Website,Canada,3.7,0
+10564,2026-07-25 03:17:28.648648650,2144,Phone,Electronics,4,623.71,0.05,2370.1,Debit Card,Mobile App,India,4.3,0
+10565,2026-07-25 12:02:09.729729730,2057,Phone,Electronics,2,484.97,0.05,921.45,Debit Card,Marketplace,Thailand,3.8,0
+10566,2026-07-25 20:46:50.810810812,2039,Mouse,Electronics,1,31.38,0.15,26.67,PayPal,Marketplace,USA,4.0,0
+10567,2026-07-26 05:31:31.891891892,2109,Phone,Electronics,5,623.38,0.0,3116.91,Credit Card,Website,UK,4.1,0
+10568,2026-07-26 14:16:12.972972974,2181,Headphones,Electronics,3,96.39,0.1,260.24,PayPal,Website,Germany,4.0,0
+10569,2026-07-26 23:00:54.054054054,2042,Mouse,Electronics,1,39.02,0.0,39.02,Debit Card,Website,India,4.3,0
+10570,2026-07-27 07:45:35.135135136,2186,Laptop,Electronics,5,774.17,0.1,3483.77,Mobile Payment,Marketplace,Canada,3.7,0
+10571,2026-07-27 16:30:16.216216216,2223,Headphones,Electronics,5,92.36,0.1,415.64,Debit Card,Mobile App,Thailand,5.0,0
+10572,2026-07-28 01:14:57.297297298,2122,Mouse,Electronics,4,37.11,0.0,148.45,PayPal,Mobile App,Canada,5.0,0
+10573,2026-07-28 09:59:38.378378378,2133,Laptop,Electronics,4,895.93,0.0,3583.71,Mobile Payment,Website,USA,4.3,0
+10574,2026-07-28 18:44:19.459459460,2163,Mouse,Electronics,4,34.04,0.0,136.14,PayPal,Website,USA,4.0,0
+10575,2026-07-29 03:29:00.540540540,2215,Headphones,Electronics,1,76.92,0.1,69.22,PayPal,Mobile App,Thailand,4.2,0
+10576,2026-07-29 12:13:41.621621624,2221,Headphones,Electronics,1,92.24,0.15,78.4,Credit Card,Marketplace,Thailand,3.0,0
+10577,2026-07-29 20:58:22.702702704,2235,Headphones,Electronics,3,83.33,0.0,250.0,Mobile Payment,Mobile App,Australia,3.9,0
+10578,2026-07-30 05:43:03.783783784,2331,Phone,Electronics,4,541.79,0.1,1950.45,Debit Card,Website,USA,3.3,0
+10579,2026-07-30 14:27:44.864864864,2146,Mouse,Electronics,5,39.8,0.05,189.07,PayPal,Mobile App,USA,4.2,0
+10580,2026-07-30 23:12:25.945945948,2239,Mouse,Electronics,2,33.94,0.05,64.49,Debit Card,Website,USA,3.3,0
+10581,2026-07-31 07:57:07.027027028,2076,Headphones,Electronics,3,99.17,0.2,238.02,Credit Card,Marketplace,Germany,3.6,0
+10582,2026-07-31 16:41:48.108108108,2009,Webcam,Electronics,1,63.46,0.05,60.29,Credit Card,Website,Australia,2.5,0
+10583,2026-08-01 01:26:29.189189188,2074,Headphones,Electronics,3,94.66,0.05,269.77,Mobile Payment,Mobile App,Thailand,3.0,0
+10584,2026-08-01 10:11:10.270270272,2253,Tablet,Electronics,3,434.38,0.0,1303.14,Credit Card,Website,Thailand,4.0,0
+10585,2026-08-01 18:55:51.351351352,2230,Headphones,Electronics,3,79.25,0.0,237.75,Credit Card,Mobile App,Thailand,3.2,0
+10586,2026-08-02 03:40:32.432432432,2007,Headphones,Electronics,3,76.72,0.05,218.67,Debit Card,Mobile App,India,4.5,0
+10587,2026-08-02 12:25:13.513513516,2174,Headphones,Electronics,2,88.21,0.0,176.41,Credit Card,Mobile App,UK,3.1,0
+10588,2026-08-02 21:09:54.594594596,2141,Webcam,Electronics,4,61.45,0.1,221.2,Credit Card,Website,UK,4.1,0
+10589,2026-08-03 05:54:35.675675676,2168,Tablet,Electronics,5,408.32,0.05,1939.5,PayPal,Website,UK,3.3,0
+10590,2026-08-03 14:39:16.756756756,2170,Laptop,Electronics,3,955.71,0.1,2580.42,Credit Card,Website,USA,4.1,1
+10591,2026-08-03 23:23:57.837837840,2283,Phone,Electronics,3,539.11,0.0,1617.34,PayPal,Mobile App,Australia,2.7,0
+10592,2026-08-04 08:08:38.918918920,2122,Tablet,Electronics,3,352.49,0.05,1004.61,Credit Card,Website,UK,3.5,0
+10593,2026-08-04 16:53:20.000000000,2194,Webcam,Electronics,4,68.62,0.1,247.04,Credit Card,Mobile App,Thailand,3.2,0
+10594,2026-08-05 01:38:01.081081080,2005,Headphones,Electronics,1,96.03,0.2,76.83,Mobile Payment,Marketplace,Thailand,4.4,0
+10595,2026-08-05 10:22:42.162162164,2029,Headphones,Electronics,1,76.74,0.0,76.74,Mobile Payment,Marketplace,UK,4.1,0
+10596,2026-08-05 19:07:23.243243244,2165,Tablet,Electronics,2,390.2,0.15,663.34,PayPal,Website,India,2.9,0
+10597,2026-08-06 03:52:04.324324324,2339,Headphones,Electronics,1,93.06,0.1,83.75,Credit Card,Mobile App,USA,3.7,1
+10598,2026-08-06 12:36:45.405405404,2136,Phone,Electronics,3,572.72,0.1,1546.34,Debit Card,Website,Germany,3.3,0
+10599,2026-08-06 21:21:26.486486488,2321,Tablet,Electronics,3,350.59,0.1,946.59,Mobile Payment,Mobile App,Australia,4.5,0
+10600,2026-08-07 06:06:07.567567568,2342,Webcam,Electronics,3,74.5,0.0,223.49,Debit Card,Marketplace,Thailand,4.7,0
+10601,2026-08-07 14:50:48.648648648,2145,Mouse,Electronics,2,30.71,0.0,61.42,Mobile Payment,Website,Thailand,2.8,0
+10602,2026-08-07 23:35:29.729729732,2327,Tablet,Electronics,3,345.72,0.1,933.44,Mobile Payment,Website,Thailand,4.4,0
+10603,2026-08-08 08:20:10.810810812,2217,Laptop,Electronics,1,946.25,0.05,898.94,Credit Card,Marketplace,Canada,3.2,0
+10604,2026-08-08 17:04:51.891891892,2301,Phone,Electronics,4,589.39,0.2,1886.05,Mobile Payment,Marketplace,,3.6,0
+10605,2026-08-09 01:49:32.972972972,2132,Laptop,Electronics,4,726.01,0.05,2758.82,Debit Card,Website,USA,3.8,0
+10606,2026-08-09 10:34:14.054054056,2292,Headphones,Electronics,5,83.21,0.0,416.03,Mobile Payment,Mobile App,UK,5.0,0
+10607,2026-08-09 19:18:55.135135136,2070,Phone,Electronics,1,502.88,0.1,452.59,PayPal,Website,Canada,3.1,1
+10608,2026-08-10 04:03:36.216216216,2252,Headphones,Electronics,3,83.81,0.05,238.86,Credit Card,Website,Thailand,4.4,0
+10609,2026-08-10 12:48:17.297297296,2275,Tablet,Electronics,4,351.22,0.1,1264.4,Credit Card,Marketplace,USA,3.0,0
+10610,2026-08-10 21:32:58.378378380,2182,Laptop,Electronics,1,738.44,0.1,664.6,PayPal,Marketplace,UK,2.9,0
+10611,2026-08-11 06:17:39.459459460,2167,Tablet,Electronics,4,375.32,0.2,1201.02,PayPal,Mobile App,UK,3.8,0
+10612,2026-08-11 15:02:20.540540540,2091,Phone,Electronics,3,588.4,0.15,1500.42,PayPal,Website,Australia,3.8,0
+10613,2026-08-11 23:47:01.621621624,2202,Tablet,Electronics,4,392.17,0.1,1411.8,Mobile Payment,Marketplace,Thailand,1.8,0
+10614,2026-08-12 08:31:42.702702704,2346,Phone,Electronics,5,578.52,0.1,2603.36,Credit Card,Website,Australia,4.6,0
+10615,2026-08-12 17:16:23.783783784,2019,Mouse,Electronics,5,30.6,0.2,122.41,PayPal,Website,Canada,2.3,0
+10616,2026-08-13 02:01:04.864864864,2039,Phone,Electronics,4,624.5,0.05,2373.08,Mobile Payment,Mobile App,UK,3.7,0
+10617,2026-08-13 10:45:45.945945948,2126,Mouse,Electronics,1,38.55,0.0,38.55,PayPal,Website,Canada,4.7,0
+10618,2026-08-13 19:30:27.027027028,2173,Tablet,Electronics,1,414.78,,394.04,Debit Card,Mobile App,USA,5.0,0
+10619,2026-08-14 04:15:08.108108108,2141,Mouse,Electronics,1,38.39,0.0,38.39,Debit Card,Mobile App,Thailand,3.5,0
+10620,2026-08-14 12:59:49.189189188,2242,Headphones,Electronics,4,101.68,0.1,366.06,Credit Card,Website,Canada,2.8,0
+10621,2026-08-14 21:44:30.270270272,2220,Webcam,Electronics,1,70.93,0.1,63.84,Mobile Payment,Website,UK,4.7,0
+10622,2026-08-15 06:29:11.351351352,2126,Webcam,Electronics,3,63.71,0.1,172.01,Debit Card,Website,Canada,4.4,0
+10623,2026-08-15 15:13:52.432432432,2058,Tablet,Electronics,5,393.31,0.0,1966.57,Debit Card,Website,USA,3.5,0
+10624,2026-08-15 23:58:33.513513516,2148,Headphones,Electronics,3,96.56,0.1,260.71,Mobile Payment,Mobile App,Germany,3.4,0
+10625,2026-08-16 08:43:14.594594596,2317,Tablet,Electronics,1,407.12,0.05,386.77,PayPal,Marketplace,UK,3.3,0
+10626,2026-08-16 17:27:55.675675676,2001,Headphones,Electronics,3,90.58,0.1,244.56,Mobile Payment,Website,Thailand,3.6,0
+10627,2026-08-17 02:12:36.756756756,2348,Laptop,Electronics,1,739.96,0.1,665.96,PayPal,Website,USA,4.0,1
+10628,2026-08-17 10:57:17.837837840,2190,Tablet,Electronics,4,365.31,0.05,1388.17,Debit Card,Mobile App,Australia,3.4,0
+10629,2026-08-17 19:41:58.918918920,2191,Headphones,Electronics,3,101.36,0.0,304.08,Debit Card,Marketplace,Australia,3.5,0
+10630,2026-08-18 04:26:40.000000000,2312,Headphones,Electronics,4,92.28,0.0,369.12,Debit Card,Website,UK,4.2,0
+10631,2026-08-18 13:11:21.081081080,2117,Webcam,Electronics,4,70.8,0.15,240.74,Credit Card,Website,Germany,2.8,0
+10632,2026-08-18 21:56:02.162162164,2134,Headphones,Electronics,2,83.76,0.2,134.01,Credit Card,Mobile App,Thailand,3.5,0
+10633,2026-08-19 06:40:43.243243244,2058,Mouse,Electronics,1,33.62,0.1,30.26,Credit Card,Website,USA,2.6,0
+10634,2026-08-19 15:25:24.324324324,2044,Phone,Electronics,5,615.23,0.0,3076.16,Mobile Payment,Website,Germany,3.9,0
+10635,2026-08-20 00:10:05.405405408,2173,Phone,Electronics,1,577.47,0.05,548.59,Debit Card,Mobile App,Germany,2.4,0
+10636,2026-08-20 08:54:46.486486488,2160,Tablet,Electronics,5,412.76,0.1,1857.43,Debit Card,Mobile App,Canada,4.4,0
+10637,2026-08-20 17:39:27.567567568,2173,Tablet,Electronics,1,374.8,0.15,318.58,Mobile Payment,Mobile App,Germany,2.9,0
+10638,2026-08-21 02:24:08.648648648,2317,Mouse,Electronics,4,36.37,0.0,145.47,Credit Card,Mobile App,Thailand,2.6,0
+10639,2026-08-21 11:08:49.729729732,2303,Phone,Electronics,3,508.48,0.0,1525.45,Mobile Payment,Mobile App,Germany,3.5,0
+10640,2026-08-21 19:53:30.810810812,2149,Webcam,Electronics,3,74.31,0.1,200.65,Credit Card,Website,USA,5.0,0
+10641,2026-08-22 04:38:11.891891892,2080,Tablet,Electronics,2,371.75,0.05,706.32,Debit Card,Website,Thailand,4.3,0
+10642,2026-08-22 13:22:52.972972972,2213,Headphones,Electronics,5,88.45,0.05,420.13,PayPal,Website,Thailand,2.5,0
+10643,2026-08-22 22:07:34.054054056,2203,Headphones,Electronics,5,94.03,0.0,470.16,Credit Card,Website,USA,2.9,0
+10644,2026-08-23 06:52:15.135135136,2252,Phone,Electronics,5,621.99,0.1,2798.94,Debit Card,Mobile App,Thailand,3.5,0
+10645,2026-08-23 15:36:56.216216216,2229,Tablet,Electronics,4,330.3,0.15,1123.01,Debit Card,Marketplace,USA,5.0,0
+10646,2026-08-24 00:21:37.297297296,2164,Tablet,Electronics,5,417.02,0.2,1668.08,PayPal,Marketplace,Thailand,3.1,0
+10647,2026-08-24 09:06:18.378378380,2227,Laptop,Electronics,3,797.06,0.1,2152.06,Debit Card,Mobile App,Thailand,3.1,0
+10648,2026-08-24 17:50:59.459459460,2147,Tablet,Electronics,4,373.61,0.1,1344.98,Debit Card,Website,UK,4.9,0
+10649,2026-08-25 02:35:40.540540540,2020,Laptop,Electronics,1,728.09,0.0,728.09,Credit Card,Website,USA,3.9,0
+10650,2026-08-25 11:20:21.621621624,2047,Tablet,Electronics,5,357.32,0.1,1607.94,Credit Card,Marketplace,USA,4.5,0
+10651,2026-08-25 20:05:02.702702704,2233,Headphones,Electronics,5,90.07,0.05,427.84,PayPal,Mobile App,Australia,3.3,0
+10652,2026-08-26 04:49:43.783783784,2305,Headphones,Electronics,1,78.02,0.1,70.22,PayPal,Mobile App,Germany,3.7,0
+10653,2026-08-26 13:34:24.864864864,2014,Headphones,Electronics,5,89.76,0.05,426.36,Debit Card,Mobile App,Australia,4.7,0
+10654,2026-08-26 22:19:05.945945948,2143,Laptop,Electronics,1,958.91,0.0,958.91,Credit Card,Mobile App,USA,3.7,0
+10655,2026-08-27 07:03:47.027027028,2001,Headphones,Electronics,4,79.35,0.0,317.38,PayPal,Marketplace,Australia,4.6,0
+10656,2026-08-27 15:48:28.108108108,2054,Phone,Electronics,3,593.63,0.05,1691.85,PayPal,Website,Thailand,4.1,0
+10657,2026-08-28 00:33:09.189189188,2259,Tablet,Electronics,1,369.7,0.0,369.7,Mobile Payment,Mobile App,Thailand,3.1,0
+10658,2026-08-28 09:17:50.270270272,2144,Mouse,Electronics,2,36.63,0.0,73.26,PayPal,Marketplace,USA,3.8,0
+10659,2026-08-28 18:02:31.351351352,2012,Laptop,Electronics,1,788.86,0.2,631.09,Debit Card,Website,Australia,4.5,0
+10660,2026-08-29 02:47:12.432432432,2330,Headphones,Electronics,5,80.81,0.05,383.83,Credit Card,Mobile App,Thailand,4.3,0
+10661,2026-08-29 11:31:53.513513516,2224,Headphones,Electronics,4,80.83,0.1,291.0,PayPal,Website,Thailand,3.8,0
+10662,2026-08-29 20:16:34.594594596,2272,Tablet,Electronics,4,331.04,0.15,1125.52,Mobile Payment,Marketplace,Thailand,2.5,0
+10663,2026-08-30 05:01:15.675675676,2156,Phone,Electronics,1,498.13,0.2,398.51,Credit Card,Website,Germany,2.5,0
+10664,2026-08-30 13:45:56.756756756,2008,Phone,Electronics,3,577.1,0.1,1558.16,PayPal,Mobile App,Canada,2.7,0
+10665,2026-08-30 22:30:37.837837840,2122,Mouse,Electronics,2,39.01,0.15,66.31,Mobile Payment,Website,Thailand,3.4,0
+10666,2026-08-31 07:15:18.918918920,2348,Tablet,Electronics,4,415.81,0.05,1580.08,PayPal,Mobile App,UK,3.5,0
+10667,2026-08-31 16:00:00.000000000,2164,Phone,Electronics,5,580.55,0.05,2757.6,Credit Card,Website,UK,2.8,0
+10668,2026-09-01 00:44:41.081081080,2090,Tablet,Electronics,5,335.59,0.05,1594.05,Credit Card,Website,Canada,4.5,0
+10669,2026-09-01 09:29:22.162162164,2136,Headphones,Electronics,3,84.31,0.1,227.63,Credit Card,Mobile App,Thailand,2.9,0
+10670,2026-09-01 18:14:03.243243244,2186,Laptop,Electronics,4,801.5,0.1,2885.4,Debit Card,Marketplace,Germany,2.8,0
+10671,2026-09-02 02:58:44.324324324,2316,Tablet,Electronics,1,351.5,0.05,333.92,PayPal,Website,USA,3.9,0
+10672,2026-09-02 11:43:25.405405408,2178,Headphones,Electronics,5,90.41,0.0,452.03,Debit Card,Website,Canada,4.5,0
+10673,2026-09-02 20:28:06.486486488,2028,Mouse,Electronics,3,35.37,0.1,95.51,Credit Card,Mobile App,Thailand,5.0,0
+10674,2026-09-03 05:12:47.567567568,2220,Phone,Electronics,4,526.39,0.0,2105.54,Mobile Payment,Mobile App,USA,4.2,0
+10675,2026-09-03 13:57:28.648648648,2041,Phone,Electronics,4,525.88,0.1,1893.15,PayPal,Marketplace,USA,4.9,0
+10676,2026-09-03 22:42:09.729729732,2228,Phone,Electronics,4,604.21,0.1,2175.16,Debit Card,Website,UK,3.0,0
+10677,2026-09-04 07:26:50.810810812,2192,Headphones,Electronics,4,97.81,0.1,352.12,PayPal,Mobile App,Thailand,5.0,0
+10678,2026-09-04 16:11:31.891891892,2145,Phone,Electronics,4,518.29,0.15,1762.17,Mobile Payment,Website,Australia,2.5,0
+10679,2026-09-05 00:56:12.972972972,2201,Headphones,Electronics,5,101.17,0.15,429.98,Debit Card,Website,Thailand,3.4,0
+10680,2026-09-05 09:40:54.054054056,2212,Webcam,Electronics,3,79.51,0.05,226.6,Credit Card,Mobile App,,4.2,0
+10681,2026-09-05 18:25:35.135135136,2220,Webcam,Electronics,4,66.36,0.1,238.9,Debit Card,Mobile App,Australia,2.7,0
+10682,2026-09-06 03:10:16.216216216,2240,Tablet,Electronics,2,363.4,0.1,654.13,PayPal,Mobile App,UK,3.2,0
+10683,2026-09-06 11:54:57.297297296,2046,Mouse,Electronics,2,35.06,0.0,70.12,PayPal,Website,Australia,3.0,0
+10684,2026-09-06 20:39:38.378378380,2035,Headphones,Electronics,3,101.91,0.0,305.73,PayPal,Website,Canada,3.6,0
+10685,2026-09-07 05:24:19.459459460,2253,Headphones,Electronics,1,100.16,0.05,95.15,PayPal,Website,USA,4.8,1
+10686,2026-09-07 14:09:00.540540540,2082,Laptop,Electronics,1,748.65,0.05,711.22,Credit Card,Marketplace,Australia,3.8,0
+10687,2026-09-07 22:53:41.621621624,2256,Mouse,Electronics,1,33.87,0.1,30.49,Debit Card,Website,Thailand,3.5,0
+10688,2026-09-08 07:38:22.702702704,2197,Laptop,Electronics,2,863.61,0.15,1468.14,Credit Card,Website,UK,1.8,0
+10689,2026-09-08 16:23:03.783783784,2303,Phone,Electronics,1,550.52,0.0,550.52,Credit Card,Website,Australia,4.1,0
+10690,2026-09-09 01:07:44.864864864,2010,Laptop,Electronics,5,771.94,0.0,3859.68,Credit Card,Mobile App,USA,4.4,0
+10691,2026-09-09 09:52:25.945945948,2312,Headphones,Electronics,4,99.69,0.2,319.0,PayPal,Website,USA,2.6,0
+10692,2026-09-09 18:37:07.027027028,2286,Phone,Electronics,2,579.2,0.0,1158.39,PayPal,Marketplace,USA,3.8,0
+10693,2026-09-10 03:21:48.108108108,2242,Phone,Electronics,3,605.75,0.05,1726.4,PayPal,Website,Australia,3.9,0
+10694,2026-09-10 12:06:29.189189188,2251,Laptop,Electronics,3,941.48,0.1,2542.01,Debit Card,Marketplace,India,4.5,0
+10695,2026-09-10 20:51:10.270270272,2005,Laptop,Electronics,4,913.33,0.1,3287.99,Mobile Payment,Website,UK,3.3,1
+10696,2026-09-11 05:35:51.351351352,2119,Headphones,Electronics,2,88.36,0.0,176.72,PayPal,Mobile App,Canada,3.2,0
+10697,2026-09-11 14:20:32.432432432,2289,Headphones,Electronics,1,92.98,0.0,92.98,Debit Card,Marketplace,Germany,3.5,0
+10698,2026-09-11 23:05:13.513513516,2065,Tablet,Electronics,1,341.28,0.0,341.28,PayPal,Website,Thailand,4.7,0
+10699,2026-09-12 07:49:54.594594596,2146,Tablet,Electronics,5,399.8,0.1,1799.08,PayPal,Marketplace,Thailand,4.5,0
+10700,2026-09-12 16:34:35.675675676,2224,Headphones,Electronics,5,81.34,0.1,366.03,Credit Card,Mobile App,Canada,3.8,0
+10701,2026-09-13 01:19:16.756756756,2239,Laptop,Electronics,1,899.46,0.0,899.46,Credit Card,Marketplace,Australia,4.5,0
+10702,2026-09-13 10:03:57.837837840,2177,Phone,Electronics,3,505.38,0.1,1364.54,Credit Card,Mobile App,Germany,2.1,0
+10703,2026-09-13 18:48:38.918918920,2267,Mouse,Electronics,3,30.98,0.15,79.01,Debit Card,Website,USA,4.4,0
+10704,2026-09-14 03:33:20.000000000,2341,Headphones,Electronics,5,80.96,0.0,404.81,Mobile Payment,Website,Thailand,3.0,0
+10705,2026-09-14 12:18:01.081081080,2282,Phone,Electronics,4,467.83,0.05,1777.75,Mobile Payment,Website,USA,5.0,0
+10706,2026-09-14 21:02:42.162162164,2063,Headphones,Electronics,1,95.91,0.1,86.32,Debit Card,Website,Thailand,3.1,0
+10707,2026-09-15 05:47:23.243243244,2217,Phone,Electronics,5,588.35,0.05,2794.64,PayPal,Website,Thailand,3.2,0
+10708,2026-09-15 14:32:04.324324324,2342,Headphones,Electronics,5,90.4,0.05,429.42,Debit Card,Website,Australia,4.2,0
+10709,2026-09-15 23:16:45.405405408,2315,Laptop,Electronics,1,763.65,0.1,687.28,PayPal,Website,Thailand,4.3,0
+10710,2026-09-16 08:01:26.486486488,2283,Laptop,Electronics,1,743.81,0.15,632.24,Debit Card,Mobile App,Australia,3.5,0
+10711,2026-09-16 16:46:07.567567568,2177,Laptop,Electronics,3,727.38,0.15,1854.81,Debit Card,Website,USA,4.1,0
+10712,2026-09-17 01:30:48.648648648,2098,Mouse,Electronics,4,31.49,0.1,113.37,Debit Card,Website,UK,4.1,0
+10713,2026-09-17 10:15:29.729729732,2105,Webcam,Electronics,4,78.21,0.1,281.55,Mobile Payment,Mobile App,Thailand,4.1,0
+10714,2026-09-17 19:00:10.810810812,2099,Phone,Electronics,1,507.35,0.05,481.99,Credit Card,Website,USA,3.5,0
+10715,2026-09-18 03:44:51.891891892,2311,Phone,Electronics,2,525.95,0.1,946.72,Debit Card,Website,Thailand,4.2,0
+10716,2026-09-18 12:29:32.972972972,2006,Webcam,Electronics,5,61.71,0.05,293.13,Mobile Payment,Website,India,4.8,0
+10717,2026-09-18 21:14:14.054054056,2197,Laptop,Electronics,5,779.2,0.0,3896.01,Credit Card,Marketplace,Australia,2.9,0
+10718,2026-09-19 05:58:55.135135136,2133,Phone,Electronics,1,553.17,0.1,497.85,Credit Card,Marketplace,USA,3.2,0
+10719,2026-09-19 14:43:36.216216216,2259,Mouse,Electronics,2,36.13,0.1,65.04,Debit Card,Website,Thailand,3.8,0
+10720,2026-09-19 23:28:17.297297296,2023,Phone,Electronics,3,507.98,0.05,1447.75,PayPal,Mobile App,India,3.1,0
+10721,2026-09-20 08:12:58.378378380,2053,Headphones,Electronics,1,78.06,0.2,62.45,PayPal,Mobile App,USA,2.5,0
+10722,2026-09-20 16:57:39.459459460,2165,Mouse,Electronics,1,33.86,0.0,33.86,PayPal,Mobile App,Thailand,4.6,0
+10723,2026-09-21 01:42:20.540540540,2202,Phone,Electronics,5,506.14,0.05,2404.18,Debit Card,Mobile App,UK,2.2,0
+10724,2026-09-21 10:27:01.621621624,2083,Laptop,Electronics,1,778.49,0.0,778.49,PayPal,Mobile App,India,3.5,0
+10725,2026-09-21 19:11:42.702702704,2145,Phone,Electronics,1,625.88,0.15,532.0,Mobile Payment,Website,Thailand,4.3,0
+10726,2026-09-22 03:56:23.783783784,2085,Mouse,Electronics,1,36.22,0.1,32.6,Mobile Payment,Website,Thailand,4.0,1
+10727,2026-09-22 12:41:04.864864864,2078,Mouse,Electronics,5,35.6,0.05,169.09,Mobile Payment,Mobile App,India,3.5,0
+10728,2026-09-22 21:25:45.945945948,2001,Webcam,Electronics,3,68.23,0.1,184.22,Mobile Payment,Marketplace,Thailand,3.0,0
+10729,2026-09-23 06:10:27.027027028,2051,Laptop,Electronics,3,831.88,0.05,2370.86,Credit Card,Mobile App,Thailand,4.0,0
+10730,2026-09-23 14:55:08.108108108,2173,Webcam,Electronics,1,70.86,0.15,60.23,Mobile Payment,Marketplace,UK,3.1,0
+10731,2026-09-23 23:39:49.189189188,2205,Mouse,Electronics,5,37.06,0.05,176.05,PayPal,Marketplace,Germany,4.0,0
+10732,2026-09-24 08:24:30.270270272,2260,Headphones,Electronics,3,95.46,0.05,272.06,Debit Card,Website,USA,3.9,0
+10733,2026-09-24 17:09:11.351351352,2288,Mouse,Electronics,3,31.55,0.2,75.73,PayPal,Mobile App,India,3.9,0
+10734,2026-09-25 01:53:52.432432432,2034,Mouse,Electronics,3,35.0,0.05,99.75,Mobile Payment,Mobile App,Canada,3.4,0
+10735,2026-09-25 10:38:33.513513516,2348,Headphones,Electronics,5,87.62,0.0,438.11,Credit Card,Marketplace,Thailand,5.0,0
+10736,2026-09-25 19:23:14.594594596,2095,Headphones,Electronics,5,100.0,0.1,450.02,Mobile Payment,Marketplace,India,4.1,0
+10737,2026-09-26 04:07:55.675675676,2072,Phone,Electronics,1,571.68,0.2,457.35,Debit Card,Mobile App,USA,3.6,0
+10738,2026-09-26 12:52:36.756756756,2039,Laptop,Electronics,4,858.29,0.05,3261.5,PayPal,Website,Thailand,4.0,0
+10739,2026-09-26 21:37:17.837837840,2154,Headphones,Electronics,3,79.62,0.0,238.85,Debit Card,Mobile App,UK,3.3,0
+10740,2026-09-27 06:21:58.918918920,2250,Phone,Electronics,4,567.43,0.05,2156.23,Debit Card,Website,USA,3.5,1
+10741,2026-09-27 15:06:40.000000000,2162,Mouse,Electronics,5,30.98,0.1,139.41,Debit Card,Mobile App,Thailand,5.0,0
+10742,2026-09-27 23:51:21.081081080,2118,Mouse,Electronics,5,33.29,0.0,166.45,PayPal,Marketplace,Thailand,3.3,0
+10743,2026-09-28 08:36:02.162162164,2259,Webcam,Electronics,5,62.5,0.1,281.25,Mobile Payment,Website,USA,3.7,0
+10744,2026-09-28 17:20:43.243243244,2306,Laptop,Electronics,4,898.98,0.2,2876.73,Debit Card,Mobile App,Australia,3.5,0
+10745,2026-09-29 02:05:24.324324324,2268,Phone,Electronics,5,501.53,0.05,2382.28,PayPal,Website,UK,3.1,0
+10746,2026-09-29 10:50:05.405405408,2054,Laptop,Electronics,1,822.42,0.05,781.3,Credit Card,Website,India,4.1,1
+10747,2026-09-29 19:34:46.486486488,2236,Headphones,Electronics,5,100.68,0.05,478.25,PayPal,Website,Thailand,3.8,0
+10748,2026-09-30 04:19:27.567567568,2222,Webcam,Electronics,2,63.79,0.0,127.58,Credit Card,Mobile App,Thailand,4.4,0
+10749,2026-09-30 13:04:08.648648648,2251,Mouse,Electronics,4,35.08,0.15,119.28,PayPal,Marketplace,Thailand,4.4,0
+10750,2026-09-30 21:48:49.729729732,2313,Tablet,Electronics,2,370.8,0.05,704.51,Mobile Payment,Marketplace,Thailand,4.4,0
+10751,2026-10-01 06:33:30.810810812,2112,Mouse,Electronics,5,29.94,0.05,142.22,Debit Card,Website,Thailand,3.2,0
+10752,2026-10-01 15:18:11.891891892,2255,Mouse,Electronics,1,38.07,0.1,34.27,Mobile Payment,Marketplace,Australia,4.2,0
+10753,2026-10-02 00:02:52.972972972,2303,Phone,Electronics,3,478.89,0.05,1364.84,PayPal,Mobile App,Germany,4.3,1
+10754,2026-10-02 08:47:34.054054056,2207,Mouse,Electronics,5,34.73,0.1,156.28,Debit Card,Website,India,3.1,0
+10755,2026-10-02 17:32:15.135135136,2229,Phone,Electronics,1,560.01,0.0,560.01,Credit Card,Website,Thailand,3.6,0
+10756,2026-10-03 02:16:56.216216216,2341,Phone,Electronics,4,571.19,0.15,1942.05,PayPal,Website,Germany,2.8,0
+10757,2026-10-03 11:01:37.297297300,2066,Headphones,Electronics,2,95.09,0.2,152.15,Debit Card,Marketplace,USA,4.3,0
+10758,2026-10-03 19:46:18.378378380,2075,Phone,Electronics,2,509.29,0.1,916.72,Credit Card,Mobile App,Thailand,4.3,0
+10759,2026-10-04 04:30:59.459459460,2103,Headphones,Electronics,2,76.77,0.2,122.83,Credit Card,Mobile App,Germany,4.8,0
+10760,2026-10-04 13:15:40.540540540,2192,Headphones,Electronics,4,96.03,0.0,384.13,Mobile Payment,Website,Canada,3.6,0
+10761,2026-10-04 22:00:21.621621624,2252,Headphones,Electronics,1,90.96,0.05,86.41,PayPal,Mobile App,Thailand,4.1,0
+10762,2026-10-05 06:45:02.702702704,2226,Tablet,Electronics,4,418.32,0.1,1505.94,Credit Card,Website,USA,4.5,0
+10763,2026-10-05 15:29:43.783783784,2294,Headphones,Electronics,2,98.68,0.1,177.62,Debit Card,Website,Thailand,3.3,0
+10764,2026-10-06 00:14:24.864864864,2306,Headphones,Electronics,5,99.27,0.05,471.53,Credit Card,Mobile App,Canada,3.2,0
+10765,2026-10-06 08:59:05.945945948,2098,Headphones,Electronics,3,89.6,0.05,255.35,Credit Card,Website,USA,3.3,0
+10766,2026-10-06 17:43:47.027027028,2338,Tablet,Electronics,4,361.03,0.0,1444.13,Mobile Payment,Marketplace,India,3.6,0
+10767,2026-10-07 02:28:28.108108108,2286,Laptop,Electronics,4,924.35,0.05,3512.52,Mobile Payment,Website,Thailand,3.2,0
+10768,2026-10-07 11:13:09.189189188,2335,Headphones,Electronics,1,88.68,0.0,88.68,Debit Card,Mobile App,USA,3.3,0
+10769,2026-10-07 19:57:50.270270272,2347,Phone,Electronics,1,497.77,0.1,447.99,Mobile Payment,Website,UK,4.4,0
+10770,2026-10-08 04:42:31.351351352,2308,Headphones,Electronics,4,99.58,0.0,398.34,Credit Card,Mobile App,UK,3.7,0
+10771,2026-10-08 13:27:12.432432432,2249,Webcam,Electronics,2,78.03,0.0,156.07,Credit Card,Website,USA,4.0,0
+10772,2026-10-08 22:11:53.513513516,2166,Tablet,Electronics,3,376.16,0.1,1015.63,Mobile Payment,Website,Canada,3.4,0
+10773,2026-10-09 06:56:34.594594596,2335,Headphones,Electronics,1,78.54,0.1,70.69,Credit Card,Marketplace,Germany,3.4,0
+10774,2026-10-09 15:41:15.675675676,2030,Mouse,Electronics,2,33.82,0.15,57.5,Credit Card,Website,India,4.0,0
+10775,2026-10-10 00:25:56.756756756,2247,Mouse,Electronics,5,38.19,0.1,171.84,Debit Card,Marketplace,Australia,3.9,0
+10776,2026-10-10 09:10:37.837837840,2106,Mouse,Electronics,1,39.22,0.05,37.26,Mobile Payment,Marketplace,Germany,4.3,0
+10777,2026-10-10 17:55:18.918918920,2051,Webcam,Electronics,2,63.77,0.15,108.41,Credit Card,Website,UK,4.7,0
+10778,2026-10-11 02:40:00.000000000,2081,Laptop,Electronics,2,739.58,0.1,1331.24,Mobile Payment,Website,Australia,3.3,0
+10779,2026-10-11 11:24:41.081081080,2133,Laptop,Electronics,3,946.22,0.0,2838.67,Debit Card,Mobile App,USA,4.4,0
+10780,2026-10-11 20:09:22.162162164,2285,Headphones,Electronics,3,87.01,0.1,234.94,Mobile Payment,Marketplace,USA,3.0,0
+10781,2026-10-12 04:54:03.243243244,2138,Phone,Electronics,5,556.89,0.2,2227.56,Credit Card,Marketplace,USA,5.0,0
+10782,2026-10-12 13:38:44.324324324,2184,Tablet,Electronics,2,433.36,0.05,823.38,Mobile Payment,Mobile App,USA,3.2,0
+10783,2026-10-12 22:23:25.405405408,2330,Tablet,Electronics,2,330.59,0.05,628.12,Credit Card,Mobile App,Thailand,4.3,0
+10784,2026-10-13 07:08:06.486486488,2273,Headphones,Electronics,3,94.0,0.0,282.01,Credit Card,Website,India,3.0,0
+10785,2026-10-13 15:52:47.567567568,2340,Webcam,Electronics,1,61.06,0.0,61.06,Credit Card,Marketplace,USA,3.7,1
+10786,2026-10-14 00:37:28.648648648,2069,Webcam,Electronics,1,67.38,0.05,64.02,Debit Card,Marketplace,Thailand,4.9,0
+10787,2026-10-14 09:22:09.729729732,2034,Headphones,Electronics,4,98.2,0.1,353.53,Mobile Payment,Website,UK,3.2,0
+10788,2026-10-14 18:06:50.810810812,2262,Mouse,Electronics,3,34.3,0.0,102.9,Debit Card,Website,Thailand,5.0,0
+10789,2026-10-15 02:51:31.891891892,2053,Tablet,Electronics,4,436.68,0.2,1397.37,Mobile Payment,Website,Thailand,3.8,0
+10790,2026-10-15 11:36:12.972972972,2205,Mouse,Electronics,3,35.62,0.15,90.83,Debit Card,Website,Thailand,4.5,0
+10791,2026-10-15 20:20:54.054054056,2126,Laptop,Electronics,5,804.4,0.1,3619.78,PayPal,Marketplace,USA,4.1,0
+10792,2026-10-16 05:05:35.135135136,2235,Mouse,Electronics,2,32.06,0.15,54.5,Credit Card,Website,USA,4.1,0
+10793,2026-10-16 13:50:16.216216216,2043,Headphones,Electronics,5,85.96,0.0,429.82,Credit Card,Website,Australia,2.8,0
+10794,2026-10-16 22:34:57.297297300,2240,Tablet,Electronics,3,365.47,0.05,1041.59,Debit Card,Website,Canada,3.5,0
+10795,2026-10-17 07:19:38.378378380,2111,Phone,Electronics,2,478.84,0.1,861.91,PayPal,Marketplace,USA,4.6,0
+10796,2026-10-17 16:04:19.459459460,2249,Tablet,Electronics,1,365.13,0.15,310.36,Credit Card,Mobile App,USA,3.6,1
+10797,2026-10-18 00:49:00.540540540,2151,Phone,Electronics,1,544.1,0.15,462.48,Mobile Payment,Website,USA,3.9,0
+10798,2026-10-18 09:33:41.621621624,2183,Phone,Electronics,4,586.75,0.05,2229.66,Debit Card,Website,Australia,2.7,0
+10799,2026-10-18 18:18:22.702702704,2336,Headphones,Electronics,3,94.23,0.2,226.16,Credit Card,Marketplace,Thailand,3.4,0
+10800,2026-10-19 03:03:03.783783784,2095,Headphones,Electronics,3,95.64,0.0,286.91,Credit Card,Marketplace,Thailand,4.6,0
+10801,2026-10-19 11:47:44.864864864,2008,Headphones,Electronics,1,76.73,0.15,65.22,Debit Card,Website,Australia,2.9,0
+10802,2026-10-19 20:32:25.945945948,2184,Mouse,Electronics,5,32.04,0.2,128.14,Debit Card,Website,USA,4.3,0
+10803,2026-10-20 05:17:07.027027028,2281,Headphones,Electronics,2,94.37,0.0,188.73,Mobile Payment,Website,Thailand,3.9,0
+10804,2026-10-20 14:01:48.108108108,2195,Headphones,Electronics,5,89.57,0.1,403.05,Mobile Payment,Website,Thailand,3.6,0
+10805,2026-10-20 22:46:29.189189188,2195,Laptop,Electronics,5,723.85,0.0,3619.27,Credit Card,Mobile App,India,3.6,0
+10806,2026-10-21 07:31:10.270270272,2155,Webcam,Electronics,1,76.39,0.05,72.57,Credit Card,Marketplace,Germany,3.5,0
+10807,2026-10-21 16:15:51.351351352,2093,Tablet,Electronics,1,411.1,0.1,369.99,Debit Card,Mobile App,Canada,3.5,0
+10808,2026-10-22 01:00:32.432432432,2160,Mouse,Electronics,1,35.51,0.1,31.96,Credit Card,Marketplace,UK,4.5,1
+10809,2026-10-22 09:45:13.513513516,2061,Mouse,Electronics,4,30.45,0.2,97.43,Credit Card,Website,UK,3.5,0
+10810,2026-10-22 18:29:54.594594596,2122,Headphones,Electronics,5,97.2,0.1,437.38,Debit Card,Mobile App,India,5.0,0
+10811,2026-10-23 03:14:35.675675676,2051,Laptop,Electronics,3,871.35,0.05,2483.34,Credit Card,Mobile App,India,4.0,0
+10812,2026-10-23 11:59:16.756756756,2277,Mouse,Electronics,2,37.96,0.15,64.53,Credit Card,Website,Thailand,3.4,0
+10813,2026-10-23 20:43:57.837837840,2005,Webcam,Electronics,4,-75.29,0.2,240.92,PayPal,Website,Australia,4.5,0
+10814,2026-10-24 05:28:38.918918920,2092,Phone,Electronics,3,600.0,0.0,1799.99,Mobile Payment,Mobile App,Thailand,4.2,0
+10815,2026-10-24 14:13:20.000000000,2170,Phone,Electronics,5,552.97,0.2,2211.89,Debit Card,Website,Thailand,2.6,1
+10816,2026-10-24 22:58:01.081081080,2317,Webcam,Electronics,1,62.45,0.0,62.45,PayPal,Website,Canada,3.1,1
+10817,2026-10-25 07:42:42.162162164,2022,Phone,Electronics,5,578.24,0.15,2457.52,Mobile Payment,Mobile App,USA,3.7,0
+10818,2026-10-25 16:27:23.243243244,2326,Mouse,Electronics,2,36.26,0.05,68.9,Mobile Payment,Marketplace,India,2.7,0
+10819,2026-10-26 01:12:04.324324324,2001,Tablet,Electronics,4,407.62,0.0,1630.47,Mobile Payment,Mobile App,Thailand,5.0,0
+10820,2026-10-26 09:56:45.405405408,2133,Laptop,Electronics,4,765.82,0.05,2910.11,PayPal,Marketplace,UK,4.4,0
+10821,2026-10-26 18:41:26.486486488,2233,Webcam,Electronics,2,63.59,0.1,114.47,PayPal,Website,Germany,3.8,0
+10822,2026-10-27 03:26:07.567567568,2012,Phone,Electronics,3,614.42,0.05,1751.09,Mobile Payment,Mobile App,Germany,3.6,0
+10823,2026-10-27 12:10:48.648648648,2346,Headphones,Electronics,3,96.75,0.0,290.25,Credit Card,Mobile App,Thailand,3.4,1
+10824,2026-10-27 20:55:29.729729732,2046,Laptop,Electronics,4,954.1,0.1,3434.75,Credit Card,Marketplace,USA,2.4,0
+10825,2026-10-28 05:40:10.810810812,2034,Laptop,Electronics,4,915.97,0.2,2931.11,PayPal,Website,UK,2.6,0
+10826,2026-10-28 14:24:51.891891892,2078,Headphones,Electronics,1,92.62,0.05,87.99,PayPal,Mobile App,Thailand,5.0,0
+10827,2026-10-28 23:09:32.972972972,2218,Tablet,Electronics,3,397.57,0.0,1192.71,PayPal,Mobile App,India,4.9,1
+10828,2026-10-29 07:54:14.054054056,2301,Headphones,Electronics,2,100.51,0.05,190.96,Mobile Payment,Website,Germany,3.4,0
+10829,2026-10-29 16:38:55.135135136,2073,Webcam,Electronics,3,71.65,0.0,214.96,Credit Card,Website,Thailand,4.4,0
+10830,2026-10-30 01:23:36.216216216,2282,Headphones,Electronics,1,93.57,0.15,79.54,PayPal,Website,Thailand,4.2,0
+10831,2026-10-30 10:08:17.297297300,2249,Phone,Electronics,4,493.32,0.15,1677.28,PayPal,Website,Thailand,4.2,0
+10832,2026-10-30 18:52:58.378378380,2047,Phone,Electronics,4,545.7,0.1,1964.51,Debit Card,Marketplace,Germany,2.8,0
+10833,2026-10-31 03:37:39.459459460,2121,Mouse,Electronics,1,37.27,0.05,35.41,Mobile Payment,Website,Thailand,2.5,0
+10834,2026-10-31 12:22:20.540540540,2214,Webcam,Electronics,2,65.19,0.15,110.82,Debit Card,Website,USA,4.6,0
+10835,2026-10-31 21:07:01.621621624,2239,Headphones,Electronics,4,81.96,0.1,295.06,Credit Card,Mobile App,USA,2.4,0
+10836,2026-11-01 05:51:42.702702704,2056,Phone,Electronics,5,519.28,0.15,2206.95,Debit Card,Website,UK,3.7,0
+10837,2026-11-01 14:36:23.783783784,2350,Phone,Electronics,4,507.35,0.1,1826.45,Debit Card,Mobile App,Thailand,3.5,0
+10838,2026-11-01 23:21:04.864864864,2107,Webcam,Electronics,5,64.01,0.15,272.06,Debit Card,Website,Thailand,3.5,0
+10839,2026-11-02 08:05:45.945945948,2319,Mouse,Electronics,1,34.21,0.1,30.79,Mobile Payment,Marketplace,India,4.0,0
+10840,2026-11-02 16:50:27.027027028,2048,Headphones,Electronics,1,101.01,0.05,95.96,Credit Card,Marketplace,Germany,3.3,1
+10841,2026-11-03 01:35:08.108108108,2061,Webcam,Electronics,4,70.15,0.2,224.47,Debit Card,Marketplace,Australia,4.1,0
+10842,2026-11-03 10:19:49.189189188,2337,Webcam,Electronics,3,63.45,0.1,171.31,Mobile Payment,Website,Thailand,3.9,0
+10843,2026-11-03 19:04:30.270270272,2026,Laptop,Electronics,5,742.13,0.1,3339.57,Credit Card,Mobile App,USA,5.0,0
+10844,2026-11-04 03:49:11.351351352,2292,Tablet,Electronics,2,402.36,0.0,804.72,PayPal,Website,Canada,2.8,0
+10845,2026-11-04 12:33:52.432432432,2257,Laptop,Electronics,4,820.11,0.1,2952.41,Debit Card,Website,Thailand,3.8,0
+10846,2026-11-04 21:18:33.513513516,2008,Phone,Electronics,2,603.1,0.1,1085.58,Credit Card,Website,Germany,4.1,0
+10847,2026-11-05 06:03:14.594594596,2113,Mouse,Electronics,4,36.67,0.0,146.7,Debit Card,Mobile App,Canada,3.6,0
+10848,2026-11-05 14:47:55.675675676,2253,Tablet,Electronics,3,413.77,0.0,1241.31,PayPal,Mobile App,Thailand,2.9,0
+10849,2026-11-05 23:32:36.756756756,2180,Headphones,Electronics,3,83.84,0.1,226.37,Credit Card,Mobile App,Germany,4.7,0
+10850,2026-11-06 08:17:17.837837840,2207,Phone,Electronics,3,581.74,0.15,1483.44,Mobile Payment,Website,India,4.0,0
+10851,2026-11-06 17:01:58.918918920,2303,Phone,Electronics,3,511.07,0.1,1379.89,Credit Card,Website,Thailand,2.9,0
+10852,2026-11-07 01:46:40.000000000,2127,Phone,Electronics,1,622.45,0.0,622.45,Mobile Payment,Mobile App,UK,4.1,0
+10853,2026-11-07 10:31:21.081081080,2056,Phone,Electronics,1,572.5,0.1,515.25,Credit Card,Website,USA,5.0,0
+10854,2026-11-07 19:16:02.162162164,2214,Headphones,Electronics,5,85.26,0.0,426.31,Mobile Payment,Mobile App,USA,3.8,0
+10855,2026-11-08 04:00:43.243243244,2014,Phone,Electronics,2,511.97,0.05,972.74,PayPal,Website,Thailand,3.8,0
+10856,2026-11-08 12:45:24.324324324,2028,Headphones,Electronics,4,81.66,0.0,326.62,PayPal,Marketplace,UK,4.9,0
+10857,2026-11-08 21:30:05.405405408,2078,Laptop,Electronics,4,899.63,0.0,3598.53,PayPal,Mobile App,India,3.1,0
+10858,2026-11-09 06:14:46.486486488,2216,Laptop,Electronics,1,778.27,0.0,778.27,Credit Card,Website,UK,5.0,0
+10859,2026-11-09 14:59:27.567567568,2154,Phone,Electronics,4,565.73,0.05,2149.76,PayPal,Website,Thailand,4.5,0
+10860,2026-11-09 23:44:08.648648648,2014,Headphones,Electronics,1,83.65,0.0,83.65,Debit Card,Mobile App,Canada,3.2,0
+10861,2026-11-10 08:28:49.729729732,2187,Headphones,Electronics,5,94.37,0.05,448.27,PayPal,Marketplace,USA,3.3,0
+10862,2026-11-10 17:13:30.810810812,2312,Tablet,Electronics,2,415.9,0.1,748.63,Mobile Payment,Website,Germany,3.4,1
+10863,2026-11-11 01:58:11.891891892,2007,Tablet,Electronics,5,411.69,0.05,1955.55,Mobile Payment,Website,USA,2.5,0
+10864,2026-11-11 10:42:52.972972972,2003,Webcam,Electronics,3,75.48,0.05,215.11,Mobile Payment,Marketplace,Thailand,4.0,0
+10865,2026-11-11 19:27:34.054054056,2111,Laptop,Electronics,3,770.37,0.15,1964.44,Credit Card,Mobile App,Thailand,3.2,0
+10866,2026-11-12 04:12:15.135135136,2238,Phone,Electronics,3,482.08,0.0,1446.25,Debit Card,Website,Australia,4.0,0
+10867,2026-11-12 12:56:56.216216216,2239,Webcam,Electronics,5,74.18,0.1,333.8,PayPal,Mobile App,Thailand,2.9,0
+10868,2026-11-12 21:41:37.297297300,2274,Headphones,Electronics,4,86.45,0.0,345.78,Debit Card,Website,Australia,4.4,0
+10869,2026-11-13 06:26:18.378378380,2294,Phone,Electronics,2,538.84,0.0,1077.67,Debit Card,Mobile App,Thailand,4.3,0
+10870,2026-11-13 15:10:59.459459460,2227,Mouse,Electronics,3,30.08,0.1,81.21,Mobile Payment,Website,USA,3.3,0
+10871,2026-11-13 23:55:40.540540540,2015,Webcam,Electronics,3,64.95,0.1,175.37,Mobile Payment,Marketplace,USA,4.1,0
+10872,2026-11-14 08:40:21.621621624,2192,Phone,Electronics,3,473.06,0.15,1206.29,Mobile Payment,Mobile App,India,3.9,0
+10873,2026-11-14 17:25:02.702702704,2119,Headphones,Electronics,2,100.24,0.1,180.43,Credit Card,Mobile App,India,4.8,0
+10874,2026-11-15 02:09:43.783783784,2028,Headphones,Electronics,3,83.07,0.2,199.37,Debit Card,Mobile App,Thailand,3.1,0
+10875,2026-11-15 10:54:24.864864864,2202,Tablet,Electronics,2,386.54,0.0,773.07,Debit Card,Marketplace,USA,3.7,0
+10876,2026-11-15 19:39:05.945945948,2039,Phone,Electronics,3,473.93,0.0,1421.79,Credit Card,Marketplace,Thailand,3.4,0
+10877,2026-11-16 04:23:47.027027028,2273,Phone,Electronics,5,577.53,0.0,2887.65,Credit Card,Mobile App,UK,3.8,0
+10878,2026-11-16 13:08:28.108108108,2231,Headphones,Electronics,5,85.22,0.0,426.11,Credit Card,Mobile App,USA,4.2,0
+10879,2026-11-16 21:53:09.189189192,2086,Tablet,Electronics,2,425.36,0.1,765.65,Debit Card,Mobile App,Germany,3.3,0
+10880,2026-11-17 06:37:50.270270272,2126,Mouse,Electronics,5,39.08,0.1,175.84,Debit Card,Mobile App,India,3.5,0
+10881,2026-11-17 15:22:31.351351352,2300,Headphones,Electronics,2,85.28,0.0,170.57,Mobile Payment,Website,USA,4.5,0
+10882,2026-11-18 00:07:12.432432432,2025,Laptop,Electronics,5,952.25,0.2,3808.98,Mobile Payment,Mobile App,UK,4.8,0
+10883,2026-11-18 08:51:53.513513516,2145,Headphones,Electronics,5,103.4,0.15,439.43,Debit Card,Website,Germany,4.1,0
+10884,2026-11-18 17:36:34.594594596,2013,Phone,Electronics,2,603.69,0.05,1147.02,Mobile Payment,Marketplace,Australia,3.7,0
+10885,2026-11-19 02:21:15.675675676,2212,Headphones,Electronics,4,99.31,0.0,397.25,Credit Card,Website,Thailand,3.6,0
+10886,2026-11-19 11:05:56.756756756,2025,Headphones,Electronics,5,83.22,0.0,416.12,PayPal,Marketplace,USA,4.2,1
+10887,2026-11-19 19:50:37.837837840,2068,Phone,Electronics,3,562.66,0.0,1687.97,Mobile Payment,Mobile App,USA,4.0,0
+10888,2026-11-20 04:35:18.918918920,2067,Tablet,Electronics,4,330.67,0.0,1322.67,Debit Card,Mobile App,Thailand,2.6,0
+10889,2026-11-20 13:20:00.000000000,2233,Phone,Electronics,2,483.16,0.1,869.69,Mobile Payment,Mobile App,Thailand,4.2,0
+10890,2026-11-20 22:04:41.081081080,2109,Laptop,Electronics,4,977.22,0.0,3908.87,Mobile Payment,Website,Thailand,3.2,0
+10891,2026-11-21 06:49:22.162162164,2146,Phone,Electronics,1,521.4,0.05,495.33,Mobile Payment,Website,Canada,2.8,0
+10892,2026-11-21 15:34:03.243243244,2111,Phone,Electronics,1,590.95,0.2,472.76,PayPal,Website,Thailand,2.6,0
+10893,2026-11-22 00:18:44.324324324,2228,Mouse,Electronics,5,38.22,0.1,171.99,Credit Card,Mobile App,Thailand,3.6,0
+10894,2026-11-22 09:03:25.405405408,2111,Tablet,Electronics,5,420.81,0.2,1683.26,Debit Card,Website,Thailand,3.1,0
+10895,2026-11-22 17:48:06.486486488,2034,Phone,Electronics,3,632.11,0.0,1896.33,PayPal,Mobile App,Australia,2.2,1
+10896,2026-11-23 02:32:47.567567568,2111,Headphones,Electronics,4,83.02,0.05,315.48,Debit Card,Website,Germany,3.5,0
+10897,2026-11-23 11:17:28.648648648,2264,Laptop,Electronics,1,732.79,0.1,659.51,Debit Card,Website,UK,3.5,0
+10898,2026-11-23 20:02:09.729729732,2236,Mouse,Electronics,5,34.07,0.0,170.34,Debit Card,Website,USA,3.7,1
+10899,2026-11-24 04:46:50.810810812,2083,Headphones,Electronics,4,80.01,0.0,320.05,PayPal,Marketplace,India,3.4,0
+10900,2026-11-24 13:31:31.891891892,2042,Webcam,Electronics,5,59.97,0.1,269.87,Credit Card,Mobile App,Thailand,5.0,0
+10901,2026-11-24 22:16:12.972972972,2101,Phone,Electronics,5,526.97,0.1,2371.37,Debit Card,Website,Thailand,4.2,0
+10902,2026-11-25 07:00:54.054054056,2006,Tablet,Electronics,1,412.35,0.05,391.73,Credit Card,Mobile App,Thailand,3.5,0
+10903,2026-11-25 15:45:35.135135136,2180,Tablet,Electronics,1,387.54,0.05,368.17,Credit Card,Website,Thailand,3.8,0
+10904,2026-11-26 00:30:16.216216216,2282,Mouse,Electronics,5,33.03,0.05,156.91,Mobile Payment,Marketplace,USA,4.8,0
+10905,2026-11-26 09:14:57.297297300,2320,Laptop,Electronics,2,889.36,0.0,1778.71,PayPal,Mobile App,Germany,4.5,0
+10906,2026-11-26 17:59:38.378378380,2226,Phone,Electronics,5,505.78,0.05,2402.47,PayPal,Website,UK,2.8,0
+10907,2026-11-27 02:44:19.459459460,2315,Mouse,Electronics,5,29.9,0.0,149.51,Mobile Payment,Mobile App,USA,3.1,0
+10908,2026-11-27 11:29:00.540540540,2229,Tablet,Electronics,3,410.14,0.0,1230.41,Mobile Payment,Website,India,3.3,0
+10909,2026-11-27 20:13:41.621621624,2289,Tablet,Electronics,3,394.11,0.2,945.86,Credit Card,Marketplace,Thailand,3.5,1
+10910,2026-11-28 04:58:22.702702704,2150,Laptop,Electronics,3,916.89,0.1,2475.6,Debit Card,Website,Thailand,3.4,0
+10911,2026-11-28 13:43:03.783783784,2277,Mouse,Electronics,2,30.16,0.1,54.29,PayPal,Mobile App,UK,3.8,0
+10912,2026-11-28 22:27:44.864864864,2198,Laptop,Electronics,2,935.97,0.05,1778.33,Debit Card,Website,UK,4.3,0
+10913,2026-11-29 07:12:25.945945948,2070,Webcam,Electronics,5,72.51,0.05,344.42,Debit Card,Mobile App,Thailand,4.4,0
+10914,2026-11-29 15:57:07.027027028,2112,Webcam,Electronics,3,71.33,0.0,213.99,Mobile Payment,Mobile App,USA,3.6,0
+10915,2026-11-30 00:41:48.108108108,2004,Phone,Electronics,2,570.56,0.0,1141.12,Debit Card,Mobile App,Canada,2.7,0
+10916,2026-11-30 09:26:29.189189192,2350,Headphones,Electronics,1,99.84,0.0,99.84,Credit Card,Mobile App,Canada,3.1,0
+10917,2026-11-30 18:11:10.270270272,2331,Laptop,Electronics,5,872.17,0.15,3706.72,Mobile Payment,Marketplace,Canada,3.4,0
+10918,2026-12-01 02:55:51.351351352,2318,Phone,Electronics,4,563.36,0.1,2028.08,Debit Card,Website,USA,2.9,0
+10919,2026-12-01 11:40:32.432432432,2350,Webcam,Electronics,5,80.3,0.1,361.37,Mobile Payment,Website,Thailand,4.6,0
+10920,2026-12-01 20:25:13.513513516,2095,Mouse,Electronics,4,37.7,0.05,143.24,Credit Card,Website,USA,3.0,0
+10921,2026-12-02 05:09:54.594594596,2152,Headphones,Electronics,3,88.44,0.2,212.26,Credit Card,Marketplace,Thailand,4.2,0
+10922,2026-12-02 13:54:35.675675676,2311,Tablet,Electronics,4,403.64,0.0,1614.57,Debit Card,Website,India,2.6,0
+10923,2026-12-02 22:39:16.756756756,2137,Laptop,Electronics,3,821.75,0.05,2342.0,Mobile Payment,Mobile App,USA,4.3,0
+10924,2026-12-03 07:23:57.837837840,2247,Laptop,Electronics,1,780.86,0.05,741.82,Debit Card,Mobile App,USA,3.7,0
+10925,2026-12-03 16:08:38.918918920,2243,Laptop,Electronics,4,874.7,0.15,2973.97,Debit Card,Website,Australia,4.9,0
+10926,2026-12-04 00:53:20.000000000,2031,Phone,Electronics,5,620.65,0.2,2482.6,Mobile Payment,Website,UK,3.0,0
+10927,2026-12-04 09:38:01.081081080,2040,Phone,Electronics,3,620.81,0.0,1862.42,Debit Card,Website,USA,3.4,0
+10928,2026-12-04 18:22:42.162162164,2229,Tablet,Electronics,5,361.98,0.15,1538.4,Credit Card,Website,Australia,3.5,0
+10929,2026-12-05 03:07:23.243243244,2036,Phone,Electronics,2,554.57,0.15,942.76,Mobile Payment,Website,Germany,3.7,0
+10930,2026-12-05 11:52:04.324324324,2223,Phone,Electronics,3,502.42,0.0,1507.26,Mobile Payment,Website,Canada,3.6,0
+10931,2026-12-05 20:36:45.405405408,2006,Tablet,Electronics,4,436.5,0.05,1658.71,Mobile Payment,Marketplace,Thailand,3.6,0
+10932,2026-12-06 05:21:26.486486488,2322,Mouse,Electronics,3,40.05,0.05,114.15,Mobile Payment,Marketplace,UK,3.6,0
+10933,2026-12-06 14:06:07.567567568,2220,Phone,Electronics,5,574.67,0.2,2298.68,Debit Card,Website,Australia,2.4,0
+10934,2026-12-06 22:50:48.648648648,2075,Mouse,Electronics,1,38.2,0.0,38.2,Debit Card,Website,Thailand,4.5,0
+10935,2026-12-07 07:35:29.729729732,2004,Mouse,Electronics,3,37.26,0.15,95.01,Credit Card,Website,Thailand,5.0,0
+10936,2026-12-07 16:20:10.810810812,2335,Phone,Electronics,4,565.37,0.05,2148.41,PayPal,Mobile App,Germany,4.0,0
+10937,2026-12-08 01:04:51.891891892,2134,Webcam,Electronics,2,60.62,0.1,109.12,PayPal,Marketplace,Thailand,3.0,0
+10938,2026-12-08 09:49:32.972972972,2118,Headphones,Electronics,1,88.78,0.05,84.34,Credit Card,Website,Australia,3.1,0
+10939,2026-12-08 18:34:14.054054056,2094,Headphones,Electronics,2,94.72,0.1,170.49,PayPal,Website,USA,4.2,0
+10940,2026-12-09 03:18:55.135135136,2062,Tablet,Electronics,3,400.24,0.15,1020.61,Credit Card,Mobile App,USA,4.1,0
+10941,2026-12-09 12:03:36.216216216,2194,Tablet,Electronics,5,365.54,0.15,1553.53,Debit Card,Mobile App,Thailand,3.6,0
+10942,2026-12-09 20:48:17.297297300,2335,Tablet,Electronics,5,430.35,0.15,1829.0,Mobile Payment,Website,Australia,4.3,0
+10943,2026-12-10 05:32:58.378378380,2203,Headphones,Electronics,4,81.02,0.0,324.07,Mobile Payment,Mobile App,USA,2.4,0
+10944,2026-12-10 14:17:39.459459460,2026,Headphones,Electronics,5,90.01,0.1,405.04,Debit Card,Website,UK,4.3,0
+10945,2026-12-10 23:02:20.540540540,2173,Headphones,Electronics,1,95.15,0.0,95.15,Mobile Payment,Website,Canada,4.0,0
+10946,2026-12-11 07:47:01.621621624,2300,Headphones,Electronics,5,95.32,0.05,452.78,Mobile Payment,Mobile App,Canada,3.1,0
+10947,2026-12-11 16:31:42.702702704,2133,Webcam,Electronics,4,73.12,0.1,263.24,PayPal,Marketplace,India,2.8,0
+10948,2026-12-12 01:16:23.783783784,2326,Laptop,Electronics,3,792.7,0.05,2259.19,Debit Card,Website,UK,3.9,0
+10949,2026-12-12 10:01:04.864864864,2118,Phone,Electronics,3,493.27,0.1,1331.84,PayPal,Marketplace,USA,4.8,0
+10950,2026-12-12 18:45:45.945945948,2324,Webcam,Electronics,5,72.85,0.2,291.42,PayPal,Website,India,3.6,0
+10951,2026-12-13 03:30:27.027027028,2275,Phone,Electronics,2,566.38,0.0,1132.77,Mobile Payment,Mobile App,Canada,3.2,0
+10952,2026-12-13 12:15:08.108108108,2212,Laptop,Electronics,3,768.24,0.1,2074.24,Mobile Payment,Mobile App,Thailand,3.9,0
+10953,2026-12-13 20:59:49.189189192,2225,Laptop,Electronics,5,902.31,0.05,4285.97,Debit Card,Marketplace,Thailand,5.0,0
+10954,2026-12-14 05:44:30.270270272,2020,Phone,Electronics,4,542.6,0.0,2170.41,Mobile Payment,Marketplace,Germany,4.1,0
+10955,2026-12-14 14:29:11.351351352,2113,Mouse,Electronics,5,36.76,0.0,183.81,Mobile Payment,Website,USA,4.2,0
+10956,2026-12-14 23:13:52.432432432,2140,Headphones,Electronics,3,99.11,0.2,237.86,Debit Card,Marketplace,Canada,4.7,0
+10957,2026-12-15 07:58:33.513513516,2047,Mouse,Electronics,4,31.53,0.15,107.21,Mobile Payment,Marketplace,USA,4.1,0
+10958,2026-12-15 16:43:14.594594596,2001,Headphones,Electronics,5,77.02,0.2,308.07,PayPal,Mobile App,Thailand,3.3,0
+10959,2026-12-16 01:27:55.675675676,2090,Tablet,Electronics,1,411.82,0.2,329.45,Debit Card,Website,UK,2.6,0
+10960,2026-12-16 10:12:36.756756756,2142,Phone,Electronics,4,568.1,0.0,2272.4,Mobile Payment,Marketplace,Thailand,3.2,0
+10961,2026-12-16 18:57:17.837837840,2320,Headphones,Electronics,1,95.39,0.05,90.62,Credit Card,Marketplace,USA,3.0,0
+10962,2026-12-17 03:41:58.918918920,2038,Laptop,Electronics,2,936.23,0.1,1685.21,Debit Card,Website,UK,4.3,0
+10963,2026-12-17 12:26:40.000000000,2293,Mouse,Electronics,4,38.18,0.05,145.08,Debit Card,Marketplace,USA,4.4,0
+10964,2026-12-17 21:11:21.081081080,2139,Mouse,Electronics,1,39.84,0.05,37.85,Credit Card,Website,Australia,3.9,0
+10965,2026-12-18 05:56:02.162162164,2333,Phone,Electronics,3,555.93,0.05,1584.4,Mobile Payment,Website,Australia,2.9,0
+10966,2026-12-18 14:40:43.243243244,2259,Mouse,Electronics,3,34.88,0.1,94.17,Mobile Payment,Mobile App,Australia,5.0,0
+10967,2026-12-18 23:25:24.324324324,2161,Mouse,Electronics,2,33.97,0.1,61.15,Debit Card,Mobile App,Thailand,3.5,0
+10968,2026-12-19 08:10:05.405405408,2178,Headphones,Electronics,4,80.65,0.0,322.6,Debit Card,Mobile App,Thailand,4.2,0
+10969,2026-12-19 16:54:46.486486488,2010,Laptop,Electronics,4,868.51,0.05,3300.36,Mobile Payment,Website,UK,3.8,0
+10970,2026-12-20 01:39:27.567567568,2261,Tablet,Electronics,4,354.58,0.1,1276.49,Mobile Payment,Marketplace,India,3.9,0
+10971,2026-12-20 10:24:08.648648648,2138,Tablet,Electronics,2,428.03,0.1,770.45,PayPal,Website,Australia,4.2,0
+10972,2026-12-20 19:08:49.729729732,2172,Phone,Electronics,4,563.73,0.0,2254.91,Debit Card,Website,Germany,3.3,0
+10973,2026-12-21 03:53:30.810810812,2013,Laptop,Electronics,3,873.67,0.1,2358.92,Debit Card,Website,USA,4.7,0
+10974,2026-12-21 12:38:11.891891892,2168,Webcam,Electronics,1,66.95,0.0,66.95,Credit Card,Mobile App,USA,2.7,0
+10975,2026-12-21 21:22:52.972972972,2130,Laptop,Electronics,3,735.76,0.05,2096.91,PayPal,Marketplace,USA,3.1,0
+10976,2026-12-22 06:07:34.054054056,2084,Headphones,Electronics,3,77.36,0.15,197.26,Mobile Payment,Mobile App,Thailand,4.7,0
+10977,2026-12-22 14:52:15.135135136,2321,Mouse,Electronics,1,34.2,0.1,30.78,PayPal,Marketplace,Thailand,4.2,0
+10978,2026-12-22 23:36:56.216216216,2319,Mouse,Electronics,3,30.64,0.05,87.32,Mobile Payment,Website,India,5.0,0
+10979,2026-12-23 08:21:37.297297300,2101,Phone,Electronics,2,567.63,0.1,1021.73,Mobile Payment,Mobile App,Thailand,3.8,1
+10980,2026-12-23 17:06:18.378378380,2329,Mouse,Electronics,1,39.0,0.1,35.1,PayPal,Mobile App,Thailand,5.0,0
+10981,2026-12-24 01:50:59.459459460,2273,Laptop,Electronics,3,947.64,0.15,2416.49,Debit Card,Mobile App,Thailand,2.5,0
+10982,2026-12-24 10:35:40.540540540,2265,Laptop,Electronics,5,890.56,0.1,4007.5,Mobile Payment,Website,India,2.8,0
+10983,2026-12-24 19:20:21.621621624,2038,Headphones,Electronics,3,82.2,0.1,221.95,PayPal,Mobile App,UK,4.4,0
+10984,2026-12-25 04:05:02.702702704,2094,Phone,Electronics,2,609.89,0.05,1158.8,Credit Card,Mobile App,Canada,2.6,0
+10985,2026-12-25 12:49:43.783783784,2095,Tablet,Electronics,4,424.01,0.0,1696.06,PayPal,Mobile App,Germany,3.7,0
+10986,2026-12-25 21:34:24.864864864,2305,Headphones,Electronics,3,81.81,0.05,233.16,Credit Card,Mobile App,USA,4.6,0
+10987,2026-12-26 06:19:05.945945948,2069,Phone,Electronics,4,589.18,0.05,2238.87,Mobile Payment,Website,Canada,4.2,0
+10988,2026-12-26 15:03:47.027027028,2318,Phone,Electronics,5,514.78,0.1,2316.49,PayPal,Mobile App,Thailand,3.8,0
+10989,2026-12-26 23:48:28.108108108,2236,Tablet,Electronics,3,414.5,0.1,1119.15,PayPal,Website,Thailand,3.5,0
+10990,2026-12-27 08:33:09.189189192,2334,Webcam,Electronics,1,80.44,0.05,76.42,Credit Card,Marketplace,Australia,3.9,0
+10991,2026-12-27 17:17:50.270270272,2137,Headphones,Electronics,4,77.31,0.0,309.24,PayPal,Mobile App,Australia,4.2,0
+10992,2026-12-28 02:02:31.351351352,2076,Phone,Electronics,5,615.57,0.05,2923.94,PayPal,Website,USA,3.3,1
+10993,2026-12-28 10:47:12.432432432,2035,Tablet,Electronics,1,393.98,0.05,374.28,Mobile Payment,Marketplace,USA,4.1,0
+10994,2026-12-28 19:31:53.513513516,2001,Phone,Electronics,1,628.11,0.1,565.3,PayPal,Mobile App,UK,4.6,0
+10995,2026-12-29 04:16:34.594594596,2296,Laptop,Electronics,1,841.08,0.0,841.08,Debit Card,Website,Thailand,3.6,0
+10996,2026-12-29 13:01:15.675675676,2320,Webcam,Electronics,1,77.3,0.1,69.57,Credit Card,Mobile App,Thailand,3.8,1
+10997,2026-12-29 21:45:56.756756756,2060,Phone,Electronics,3,477.8,0.2,1146.71,PayPal,Website,Thailand,4.1,0
+10998,2026-12-30 06:30:37.837837840,2320,Phone,Electronics,3,522.82,0.0,1568.46,Credit Card,Marketplace,Thailand,4.2,0
+10999,2026-12-30 15:15:18.918918920,2349,Headphones,Electronics,3,78.31,0.05,223.18,Credit Card,Marketplace,Australia,4.4,0
+11000,2026-12-31 00:00:00.000000000,2328,Headphones,Electronics,5,102.83,0.0,514.17,Credit Card,Marketplace,Thailand,3.1,0
+10101,2026-02-06 10:28:28.108108108,2163,Tablet,Electronics,2,407.46,0.15,692.69,Mobile Payment,Mobile App,UK,4.2,0
+10251,2026-04-02 02:11:10.270270271,2346,Mouse,Electronics,5,34.45,0.05,163.64,Debit Card,Website,India,3.4,0
+10701,2026-09-13 01:19:16.756756756,2239,Laptop,Electronics,1,899.46,0.0,899.46,Credit Card,Marketplace,Australia,4.5,0
+10901,2026-11-24 22:16:12.972972972,2101,Phone,Electronics,5,526.97,0.1,2371.37,Debit Card,Website,Thailand,4.2,0

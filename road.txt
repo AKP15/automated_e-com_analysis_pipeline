@@ -1,0 +1,18 @@
+Our learning roadmap
+Phase 1 — Understand the pipeline
+Lesson 1: What is an automated data analysis pipeline?
+Phase 2 — Build the analysis
+Lesson 2: Input data
+Lesson 3: Data validation
+Lesson 4: Data cleaning
+Lesson 5: KPI calculation
+Lesson 6: Generate analysis outputs
+Phase 3 — Automate
+Lesson 7: Organize the project into functions/modules
+Lesson 8: Logging and error handling
+Lesson 9: Automate with APScheduler
+Phase 4 — Production-style workflow
+Lesson 10: Configuration files
+Lesson 11: Pipeline execution history
+Lesson 12: Final dashboard/report
+Lesson 13: README + portfolio presentation

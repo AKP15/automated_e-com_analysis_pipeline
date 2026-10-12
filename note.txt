@@ -1,0 +1,52 @@
+Load  Validate  Clean  Analyze  Report  Save
+
+Shape Columns Data Types Missing Values Duplicates Value Validity
+
+Quantity       → business rule
+Unit_Price     → >= 0
+Discount       → 0–1
+Sales          → business rule
+Order_Date     → valid date
+Sales formula  → consistency check
+
+Let's design the pipeline response when a validation check fails.
+ans-Flag the row and continue processing
+
+Total Orders
+Total Customers
+Total Quantity
+Total Sales
+AOV (Total Sales ÷ Total Orders)
+
+validator.py responsibility
+Check structure
+Check data types
+Check missing values
+Check duplicates
+Check business rules
+Create the validation report
+Return the flagged information to the pipeline
+
+loader.py
+Input:  CSV file
+Output: DataFrame
+        
+validator.py
+Input:  DataFrame
+Output: validation results + flags
+	        
+cleaner.py
+Input:  DataFrame + validation results
+Output: cleaned DataFrame
+		        
+analyzer.py
+Input:  cleaned DataFrame
+Output: KPI + analysis results
+			        
+reporter.py
+Input:  KPI + analysis results + validation results
+Output: business report
+				        
+logger.py
+Input: pipeline events
+Output: log file
