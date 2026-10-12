@@ -107,6 +107,7 @@ PIPELINE COMPLETED
 
 ## How to Run
 
+```bash
 pip install pandas numpy matplotlib apscheduler
 python main.py
 
